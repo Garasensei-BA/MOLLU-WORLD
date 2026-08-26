@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:04:51+00:00",
+  "updatedAt": "2026-08-26T11:20:29+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
@@ -84,12 +84,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-10-27",
-      "title": "복각 이벤트 하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~ 386 한정 복각 히카리 211 한정 복각 노조미 54 배포 아오바 27 의견을 남겨보세요 이벤트 상설화 Sheside outside 31 한정 복각 사오리 수영복 19 한정 복각 히요리 수영복 16 복각 미사키 수영복 23 배포 아츠코 수영복 12 의견을 남겨보세요 미니 스토리 약사의 방황 픽업 모집 리콜렉트 모집 58 리콜렉트 와카모 210 리콜렉트 호시노 수영복 187 리콜렉트 미카 344 리콜렉트 하나코 수영복 202 리콜렉트 히나 드레스 66 의견을 남겨보세요 종합전술시험 53차: 돌파시험",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-11-03",
       "title": "대결전 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트",
       "url": "https://mollulog.net/futures",
@@ -124,12 +118,6 @@
       "title": "메인 스토리 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 미니 스토리 이부키의 가출사건 대결전 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "이벤트 DIVE into OCEAN! 12 신규 코코로 10 신규 코토네 15 의견을 남겨보세요 메인 스토리 2부 Vol.2 오디세이아 편 제1장: 눈동자에 비친 수평선 (전편) 컨텐츠 필터 몰루 로그 게임 <블루 아카이브>의 각종 에셋 및 컨텐츠의 권리는 넥슨, 넥슨게임즈 및 Yostar에 있습니다. 몰루로그는 <블루 아카이브>의 팬 사이트이며 컨텐츠를 상업적으로 이용하지 않습니다. GitHub ((storageKey2, restoreKey) => { if (!window.history.state || !window.history.state.key) { let key = Math.random().toString(32).slice(2); window.history.replaceState({ key }, \"\"); } try { let storedY = JSON.parse(sessionStorage.getItem(storageKey2) || \"{}\")[restoreKey || window.history.state.key]; if (typeof storedY === \"number\") window.scrollTo(0, storedY); } catch (error) { console.error(error); sessionStorage.removeItem(storageKey2); } })(\"react-router-scroll-positions\", null) window.__reactRouterContext = {\"basename\":\"/\",\"future\":{\"unstable_optimizeDeps\":false,\"v8_passThroughRequests\":false,\"v8_trailingSlashAwareDataRequests\":false,\"unstable_previewServerPrerendering\":false,\"v8_middleware\":false,\"v8_splitRouteModules\":false,\"v8_viteEnvironmentApi\":true},\"routeDiscovery\":{\"mode\":\"lazy\",\"manifestPath\":\"/__manifest\"},\"ssr\":true,\"isSpaMode\":false};window.__reactRouterContext.stream = new ReadableStream({start(controller){window.__reactRouterContext.streamController = controller;}}).pipeThrough(new TextEncoderStream()); ; import * as route0 from \"/assets/root-CgFO5OzK.js\"; import * as route1 from \"/assets/futures-bErCQRbt.js\"; window.__reactRouterManifest = { \"entry\": { \"module\": \"/assets/entry.client-3pQMV2lN.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\" ], \"css\": [] }, \"routes\": { \"root\": { \"id\": \"root\", \"path\": \"\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": true, \"module\": \"/assets/root-CgFO5OzK.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/ErrorPage-Dp2zpRhf.js\", \"/assets/ArrowTopRightOnSquareIcon-CCeAeb7t.js\", \"/assets/navigation-menu-CyuMT_wP.js\", \"/assets/CalendarIcon-Cqx9WPmR.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/StarIcon-8IwqybzX.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/ServerErrorPage-DV8rcN_G.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/ExclamationCircleIcon-BOl4_kQ2.js\", \"/assets/ArchiveBoxIcon-CPZk1XYn.js\", \"/assets/FireIcon-B_rflhpF.js\", \"/assets/BookOpenIcon-DoOE6C7G.js\", \"/assets/CameraIcon-iyVQ4_jv.js\", \"/assets/ChatBubbleLeftRightIcon-D2Z0uQ8e.js\", \"/assets/ClockIcon-CMRaM6SW.js\", \"/assets/EnvelopeIcon-8-YbFDT4.js\", \"/assets/GiftIcon-CBg0p7oA.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/ListBulletIcon-DUpfJ3up.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/ClockIcon-BYDWV_LF.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/dayjs.min-CmfWPFVC.js\" ], \"css\": [] }, \"routes/futures\": { \"id\": \"routes/futures\", \"parentId\": \"root\", \"path\": \"futures\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/futures-bErCQRbt.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Page-DhsG6PTS.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/ContentCommentView-BHAKcDCc.js\", \"/assets/CheckCircleIcon-7WsHpQfk.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/EyeIcon-CxPpQR-1.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/SparklesIcon-CNPCaKtg.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/CheckCircleIcon-DOMOa0_T.js\", \"/assets/EmptyView-DrfW-oWq.js\", \"/assets/FunnelIcon-B6h5XsiD.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/PencilSquareIcon-Bm-vQhAS.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/BottomSheet-BOs4jW4U.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/PanelBody-B6ApPxVj.js\", \"/assets/PanelBodyControls-BtxSy6cG.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/future-spoilers-CYokATkg.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ChevronDownIcon-Dv3--Xjs.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/FilterButtons-C1cUIjBo.js\", \"/assets/Toggle-DRUugjH0.js\" ], \"css\": [] }, \"routes/_index\": { \"id\": \"routes/_index\", \"parentId\": \"root\", \"index\": true, \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/_index-Cv4gWNM4.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Recruitments-DQsqC8Ke.js\", \"/assets/HorizontalScroll-CylGw_wq.js\", \"/assets/CommunityFeed-8TGJC20c.js\", \"/assets/Title-CaXr5yxC.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/SubTitle-D788oIxA.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/MultilineText-B2_-scti.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/EventInfoCard-DNZR07CW.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/student-grading-tag-CM47e-qm.js\", \"/assets/LockClosedIcon-B2x8XJWv.js\", \"/assets/UserGroupIcon-oHDcul7E.js\", \"/assets/MarkdownText-CViAKFgb.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/LikeButton-BHbgnLFe.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/BoltIcon-ClQsXv-8.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/__vite-browser-external-DRloxtUF.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\" ], \"css\": [] } }, \"url\": \"/assets/manifest-2c8b4f44.js\", \"version\": \"2c8b4f44\" }; window.__reactRouterRouteModules = {\"root\":route0,\"routes/futures\":route1}; import(\"/assets/entry.client-3pQMV2lN.js\");",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
     }
   ],
   "sourceEvidence": [
@@ -138,7 +126,7 @@
       "name": "몰루로그",
       "kind": "future",
       "url": "https://mollulog.net/futures",
-      "checkedAt": "2026-08-26T11:04:51+00:00",
+      "checkedAt": "2026-08-26T11:20:29+00:00",
       "items": [
         {
           "date": "2026-08-18",
@@ -213,12 +201,6 @@
           "source": "몰루로그"
         },
         {
-          "date": "2026-10-27",
-          "title": "복각 이벤트 하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~ 386 한정 복각 히카리 211 한정 복각 노조미 54 배포 아오바 27 의견을 남겨보세요 이벤트 상설화 Sheside outside 31 한정 복각 사오리 수영복 19 한정 복각 히요리 수영복 16 복각 미사키 수영복 23 배포 아츠코 수영복 12 의견을 남겨보세요 미니 스토리 약사의 방황 픽업 모집 리콜렉트 모집 58 리콜렉트 와카모 210 리콜렉트 호시노 수영복 187 리콜렉트 미카 344 리콜렉트 하나코 수영복 202 리콜렉트 히나 드레스 66 의견을 남겨보세요 종합전술시험 53차: 돌파시험",
-          "url": "https://mollulog.net/futures",
-          "source": "몰루로그"
-        },
-        {
           "date": "2026-11-03",
           "title": "대결전 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트",
           "url": "https://mollulog.net/futures",
@@ -253,12 +235,6 @@
           "title": "메인 스토리 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 미니 스토리 이부키의 가출사건 대결전 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인",
           "url": "https://mollulog.net/futures",
           "source": "몰루로그"
-        },
-        {
-          "date": "2026-12-15",
-          "title": "이벤트 DIVE into OCEAN! 12 신규 코코로 10 신규 코토네 15 의견을 남겨보세요 메인 스토리 2부 Vol.2 오디세이아 편 제1장: 눈동자에 비친 수평선 (전편) 컨텐츠 필터 몰루 로그 게임 <블루 아카이브>의 각종 에셋 및 컨텐츠의 권리는 넥슨, 넥슨게임즈 및 Yostar에 있습니다. 몰루로그는 <블루 아카이브>의 팬 사이트이며 컨텐츠를 상업적으로 이용하지 않습니다. GitHub ((storageKey2, restoreKey) => { if (!window.history.state || !window.history.state.key) { let key = Math.random().toString(32).slice(2); window.history.replaceState({ key }, \"\"); } try { let storedY = JSON.parse(sessionStorage.getItem(storageKey2) || \"{}\")[restoreKey || window.history.state.key]; if (typeof storedY === \"number\") window.scrollTo(0, storedY); } catch (error) { console.error(error); sessionStorage.removeItem(storageKey2); } })(\"react-router-scroll-positions\", null) window.__reactRouterContext = {\"basename\":\"/\",\"future\":{\"unstable_optimizeDeps\":false,\"v8_passThroughRequests\":false,\"v8_trailingSlashAwareDataRequests\":false,\"unstable_previewServerPrerendering\":false,\"v8_middleware\":false,\"v8_splitRouteModules\":false,\"v8_viteEnvironmentApi\":true},\"routeDiscovery\":{\"mode\":\"lazy\",\"manifestPath\":\"/__manifest\"},\"ssr\":true,\"isSpaMode\":false};window.__reactRouterContext.stream = new ReadableStream({start(controller){window.__reactRouterContext.streamController = controller;}}).pipeThrough(new TextEncoderStream()); ; import * as route0 from \"/assets/root-CgFO5OzK.js\"; import * as route1 from \"/assets/futures-bErCQRbt.js\"; window.__reactRouterManifest = { \"entry\": { \"module\": \"/assets/entry.client-3pQMV2lN.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\" ], \"css\": [] }, \"routes\": { \"root\": { \"id\": \"root\", \"path\": \"\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": true, \"module\": \"/assets/root-CgFO5OzK.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/ErrorPage-Dp2zpRhf.js\", \"/assets/ArrowTopRightOnSquareIcon-CCeAeb7t.js\", \"/assets/navigation-menu-CyuMT_wP.js\", \"/assets/CalendarIcon-Cqx9WPmR.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/StarIcon-8IwqybzX.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/ServerErrorPage-DV8rcN_G.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/ExclamationCircleIcon-BOl4_kQ2.js\", \"/assets/ArchiveBoxIcon-CPZk1XYn.js\", \"/assets/FireIcon-B_rflhpF.js\", \"/assets/BookOpenIcon-DoOE6C7G.js\", \"/assets/CameraIcon-iyVQ4_jv.js\", \"/assets/ChatBubbleLeftRightIcon-D2Z0uQ8e.js\", \"/assets/ClockIcon-CMRaM6SW.js\", \"/assets/EnvelopeIcon-8-YbFDT4.js\", \"/assets/GiftIcon-CBg0p7oA.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/ListBulletIcon-DUpfJ3up.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/ClockIcon-BYDWV_LF.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/dayjs.min-CmfWPFVC.js\" ], \"css\": [] }, \"routes/futures\": { \"id\": \"routes/futures\", \"parentId\": \"root\", \"path\": \"futures\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/futures-bErCQRbt.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Page-DhsG6PTS.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/ContentCommentView-BHAKcDCc.js\", \"/assets/CheckCircleIcon-7WsHpQfk.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/EyeIcon-CxPpQR-1.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/SparklesIcon-CNPCaKtg.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/CheckCircleIcon-DOMOa0_T.js\", \"/assets/EmptyView-DrfW-oWq.js\", \"/assets/FunnelIcon-B6h5XsiD.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/PencilSquareIcon-Bm-vQhAS.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/BottomSheet-BOs4jW4U.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/PanelBody-B6ApPxVj.js\", \"/assets/PanelBodyControls-BtxSy6cG.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/future-spoilers-CYokATkg.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ChevronDownIcon-Dv3--Xjs.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/FilterButtons-C1cUIjBo.js\", \"/assets/Toggle-DRUugjH0.js\" ], \"css\": [] }, \"routes/_index\": { \"id\": \"routes/_index\", \"parentId\": \"root\", \"index\": true, \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/_index-Cv4gWNM4.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Recruitments-DQsqC8Ke.js\", \"/assets/HorizontalScroll-CylGw_wq.js\", \"/assets/CommunityFeed-8TGJC20c.js\", \"/assets/Title-CaXr5yxC.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/SubTitle-D788oIxA.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/MultilineText-B2_-scti.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/EventInfoCard-DNZR07CW.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/student-grading-tag-CM47e-qm.js\", \"/assets/LockClosedIcon-B2x8XJWv.js\", \"/assets/UserGroupIcon-oHDcul7E.js\", \"/assets/MarkdownText-CViAKFgb.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/LikeButton-BHbgnLFe.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/BoltIcon-ClQsXv-8.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/__vite-browser-external-DRloxtUF.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\" ], \"css\": [] } }, \"url\": \"/assets/manifest-2c8b4f44.js\", \"version\": \"2c8b4f44\" }; window.__reactRouterRouteModules = {\"root\":route0,\"routes/futures\":route1}; import(\"/assets/entry.client-3pQMV2lN.js\");",
-          "url": "https://mollulog.net/futures",
-          "source": "몰루로그"
         }
       ]
     },
@@ -267,7 +243,7 @@
       "name": "블루 아카이브 갤러리",
       "kind": "community",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "checkedAt": "2026-08-26T11:04:51+00:00",
+      "checkedAt": "2026-08-26T11:20:29+00:00",
       "items": [
         {
           "title": "현재 진행중 / 진행 예정 이벤트 모음글",
@@ -294,20 +270,8 @@
           "dates": []
         },
         {
-          "title": "스포) 이벤트 스토리가 메인스토리 이후 시점이네",
-          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213000&page=1",
-          "source": "블루 아카이브 갤러리",
-          "dates": []
-        },
-        {
-          "title": "일섭) 부정행위 어카운트 제재 알림",
-          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19212998&page=1",
-          "source": "블루 아카이브 갤러리",
-          "dates": []
-        },
-        {
-          "title": "픽업은 거유부터 뽑는다",
-          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19212988&page=1",
+          "title": "한섭 유저 현 상황",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213161&page=1",
           "source": "블루 아카이브 갤러리",
           "dates": []
         }
@@ -318,17 +282,17 @@
       "name": "블루 아카이브 공식 포럼",
       "kind": "official",
       "url": "https://forum.nexon.com/bluearchive/",
-      "checkedAt": "2026-08-26T11:04:51+00:00",
+      "checkedAt": "2026-08-26T11:20:29+00:00",
       "items": []
     }
   ],
-  "errors": [],
+  "errors": {},
   "rules": {
     "minSources": 3,
     "conflictLabel": "의견 갈림",
     "separateOfficialAndEstimated": true
   },
-  "note": "몰루로그, 블루 아카이브 갤러리, 블루 아카이브 공식 포럼에서 자료를 수집합니다. 공식 포럼 자료는 확정 정보, 몰루로그와 커뮤니티 자료는 미래시 및 예상 정보로 구분하여 사용할 수 있습니다.",
+  "note": "빠른 모드: 몰루로그, 블루 아카이브 갤러리, 블루 아카이브 공식 포럼을 병렬로 수집합니다. 이미지 다운로드와 OCR은 실행하지 않습니다.",
   "sources": [
     {
       "id": "mollulog",
