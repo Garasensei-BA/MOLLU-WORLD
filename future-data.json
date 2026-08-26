@@ -1,10 +1,305 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-08-26T10:58:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 4,
-  "supportedRangeMonths": [2,4,6,12],
+  "supportedRangeMonths": [
+    2,
+    4,
+    6,
+    12
+  ],
   "events": [],
-  "sourceEvidence": [],
-  "errors": [],
-  "rules": {"minSources":3,"conflictLabel":"의견 갈림","separateOfficialAndEstimated":true}
+  "sourceEvidence": [
+    {
+      "sourceId": "mollulog",
+      "kind": "estimate",
+      "checkedAt": "2026-08-26T10:58:13.188931",
+      "items": [
+        {
+          "date": "2026-08-28",
+          "text": "캠페인 확정 계정 경험치 보상량 2배"
+        },
+        {
+          "date": "2026-09-01",
+          "text": "복각 이벤트 확정 Pray-Ball! ~노려라! 만루 홈런~ 7 복각 스미레 아르바이트 10 복각 레이 7 복각 아카리 새해 6 복각 이즈미 새해 15 복각 하루카 새해 25 의견을 남겨보세요 종합전술시험 확정 51차: 방어시험"
+        },
+        {
+          "date": "2026-09-08",
+          "text": "이벤트 상설화 확정 와글와글하며 오손도손하게 298 신규 에리카 17 복각 키라라 10 복각 츠바키 가이드 9 복각 우미카 9 복각 피나 가이드 42 의견을 남겨보세요 미니 스토리 확정 ON AIR: 게헨나 대결전 확정 쿠로카게 시가지 신비 특수장갑 토먼트 경장갑 토먼트 탄력장갑 인세인 미니 이벤트 확정 샬레 총결산"
+        },
+        {
+          "date": "2026-09-15",
+          "text": "이벤트 상설화 확정 0068 오페라로부터 사랑을 담아서! 164 신규 무츠키 드레스 184 신규 하루카 드레스 156 복각 아루 드레스 47 복각 카요코 드레스 40 복각 사오리 드레스 29 의견을 남겨보세요 메인 스토리 확정 2부 Ex. 로어추적 편 제2장: 드럼통 속에 숨은 것 미니 스토리 확정 잡초는 홀로 피지 않는다"
+        },
+        {
+          "date": "2026-09-16",
+          "text": "제약해제결전 확정 세트의 분노 야외 폭발 특수장갑"
+        },
+        {
+          "date": "2026-09-22",
+          "text": "총력전 확정 드럼통 게 시가지 관통 특수장갑 경장갑 루나틱"
+        },
+        {
+          "date": "2026-09-29",
+          "text": "복각 이벤트 백에서 피어난 한 송이 ~정정당당하게, 수상 승부~ 301 신규 나구사 수영복 17 복각 유카리 수영복 25 복각 키쿄 수영복 7 복각 렌게 수영복 30 의견을 남겨보세요 종합전술시험 52차: 사격시험"
+        },
+        {
+          "date": "2026-10-06",
+          "text": "이벤트 상설화 -ive aLIVE! 75 한정 복각 카즈사 밴드 43 한정 복각 요시미 밴드 23 복각 나츠 밴드 24 배포 아이리 밴드 24 의견을 남겨보세요 대결전 호버크래프트 야외 관통 경장갑 인세인 특수장갑 토먼트 탄력장갑 토먼트"
+        },
+        {
+          "date": "2026-10-13",
+          "text": "이벤트 람과천청 563 신규 키사키 수영복 204 신규 슌 수영복 40 의견을 남겨보세요"
+        },
+        {
+          "date": "2026-10-14",
+          "text": "제약해제결전 티페레트 실내 관통 탄력장갑"
+        },
+        {
+          "date": "2026-10-20",
+          "text": "총력전 그레고리오 실내 신비 경장갑 루나틱"
+        },
+        {
+          "date": "2026-10-27",
+          "text": "복각 이벤트 하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~ 386 한정 복각 히카리 211 한정 복각 노조미 54 배포 아오바 27 의견을 남겨보세요 이벤트 상설화 Sheside outside 31 한정 복각 사오리 수영복 19 한정 복각 히요리 수영복 16 복각 미사키 수영복 23 배포 아츠코 수영복 12 의견을 남겨보세요 미니 스토리 약사의 방황 픽업 모집 리콜렉트 모집 58 리콜렉트 와카모 210 리콜렉트 호시노 수영복 187 리콜렉트 미카 344 리콜렉트 하나코 수영복 202 리콜렉트 히나 드레스 66 의견을 남겨보세요 종합전술시험 53차: 돌파시험"
+        },
+        {
+          "date": "2026-11-03",
+          "text": "대결전 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트"
+        },
+        {
+          "date": "2026-11-10",
+          "text": "이벤트 상설화 빛으로 나아가는 그녀들의 소야곡 71 배포 이부키 48 한정 복각 마코토 36 한정 복각 아코 드레스 10 복각 사츠키 15 복각 치아키 35 복각 칸나 수영복 23 의견을 남겨보세요"
+        },
+        {
+          "date": "2026-11-17",
+          "text": "이벤트 100회 무료 출항! 만마선 ~마코토 의장님의 화려한 피서~ 172 배포 치아키 수영복 347 한정 신규 마코토 수영복 418 한정 신규 사츠키 수영복 23 의견을 남겨보세요"
+        },
+        {
+          "date": "2026-11-24",
+          "text": "픽업 모집 페스 모집 픽업 학생 628 페스 신규 이부키 수영복 621 페스 신규 이로하 수영복 225 한정 복각 네루 교복 226 한정 복각 리오 픽업 대상 외 모집 가능 학생 54 페스 복각 호시노 무장 46 페스 복각 시로코 테러 73 페스 복각 나기사 수영복 72 페스 복각 미카 수영복 64 페스 복각 아리스 무장 63 페스 복각 케이 47 의견을 남겨보세요 총력전 예로니무스 시가지 폭발 경장갑 루나틱"
+        },
+        {
+          "date": "2026-12-01",
+          "text": "복각 이벤트 팬데믹 해저드 ~기적의 팬케이크~ 5 복각 세나 사복 1 복각 주리 아르바이트 5 복각 나구사 1 복각 니야 19 의견을 남겨보세요 메인 스토리 2부 Vol.1 불꽃과 그림자 편 제1장: 게헨나를 다시 위대하게! 종합전술시험 54차: 호위시험"
+        },
+        {
+          "date": "2026-12-08",
+          "text": "메인 스토리 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 미니 스토리 이부키의 가출사건 대결전 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인"
+        },
+        {
+          "date": "2026-12-15",
+          "text": "이벤트 DIVE into OCEAN! 12 신규 코코로 10 신규 코토네 15 의견을 남겨보세요 메인 스토리 2부 Vol.2 오디세이아 편 제1장: 눈동자에 비친 수평선 (전편) 컨텐츠 필터 몰루 로그 게임 <블루 아카이브>의 각종 에셋 및 컨텐츠의 권리는 넥슨, 넥슨게임즈 및 Yostar에 있습니다. 몰루로그는 <블루 아카이브>의 팬 사이트이며 컨텐츠를 상업적으로 이용하지 않습니다. GitHub ((storageKey2, restoreKey) => { if (!window.history.state || !window.history.state.key) { let key = Math.random().toString(32).slice(2); window.history.replaceState({ key }, \"\"); } try { let storedY = JSON.parse(sessionStorage.getItem(storageKey2) || \"{}\")[restoreKey || window.history.state.key]; if (typeof storedY === \"number\") window.scrollTo(0, storedY); } catch (error) { console.error(error); sessionStorage.removeItem(storageKey2); } })(\"react-router-scroll-positions\", null) window.__reactRouterContext = {\"basename\":\"/\",\"future\":{\"unstable_optimizeDeps\":false,\"v8_passThroughRequests\":false,\"v8_trailingSlashAwareDataRequests\":false,\"unstable_previewServerPrerendering\":false,\"v8_middleware\":false,\"v8_splitRouteModules\":false,\"v8_viteEnvironmentApi\":true},\"routeDiscovery\":{\"mode\":\"lazy\",\"manifestPath\":\"/__manifest\"},\"ssr\":true,\"isSpaMode\":false};window.__reactRouterContext.stream = new ReadableStream({start(controller){window.__reactRouterContext.streamController = controller;}}).pipeThrough(new TextEncoderStream()); ; import * as route0 from \"/assets/root-CgFO5OzK.js\"; import * as route1 from \"/assets/futures-bErCQRbt.js\"; window.__reactRouterManifest = { \"entry\": { \"module\": \"/assets/entry.client-3pQMV2lN.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\" ], \"css\": [] }, \"routes\": { \"root\": { \"id\": \"root\", \"path\": \"\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": true, \"module\": \"/assets/root-CgFO5OzK.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/observability.client-T-5HJQYX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/ErrorPage-Dp2zpRhf.js\", \"/assets/ArrowTopRightOnSquareIcon-CCeAeb7t.js\", \"/assets/navigation-menu-CyuMT_wP.js\", \"/assets/CalendarIcon-Cqx9WPmR.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/StarIcon-8IwqybzX.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/ServerErrorPage-DV8rcN_G.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/ExclamationCircleIcon-BOl4_kQ2.js\", \"/assets/ArchiveBoxIcon-CPZk1XYn.js\", \"/assets/FireIcon-B_rflhpF.js\", \"/assets/BookOpenIcon-DoOE6C7G.js\", \"/assets/CameraIcon-iyVQ4_jv.js\", \"/assets/ChatBubbleLeftRightIcon-D2Z0uQ8e.js\", \"/assets/ClockIcon-CMRaM6SW.js\", \"/assets/EnvelopeIcon-8-YbFDT4.js\", \"/assets/GiftIcon-CBg0p7oA.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/ListBulletIcon-DUpfJ3up.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/ClockIcon-BYDWV_LF.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/dayjs.min-CmfWPFVC.js\" ], \"css\": [] }, \"routes/futures\": { \"id\": \"routes/futures\", \"parentId\": \"root\", \"path\": \"futures\", \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/futures-bErCQRbt.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Page-DhsG6PTS.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/ContentCommentView-BHAKcDCc.js\", \"/assets/CheckCircleIcon-7WsHpQfk.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/EyeIcon-CxPpQR-1.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/SparklesIcon-CNPCaKtg.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/CheckCircleIcon-DOMOa0_T.js\", \"/assets/EmptyView-DrfW-oWq.js\", \"/assets/FunnelIcon-B6h5XsiD.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/IdentificationIcon-B3UyFV-T.js\", \"/assets/PencilSquareIcon-Bm-vQhAS.js\", \"/assets/QueueListIcon-DaGIcOs8.js\", \"/assets/TableCellsIcon-DNyTBJ4_.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/BottomSheet-BOs4jW4U.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/PanelBody-B6ApPxVj.js\", \"/assets/PanelBodyControls-BtxSy6cG.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/future-spoilers-CYokATkg.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ChevronDownIcon-Dv3--Xjs.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\", \"/assets/MagnifyingGlassIcon-ChJNOseb.js\", \"/assets/FilterButtons-C1cUIjBo.js\", \"/assets/Toggle-DRUugjH0.js\" ], \"css\": [] }, \"routes/_index\": { \"id\": \"routes/_index\", \"parentId\": \"root\", \"index\": true, \"hasAction\": false, \"hasLoader\": true, \"hasClientAction\": false, \"hasClientLoader\": false, \"hasClientMiddleware\": false, \"hasDefaultExport\": true, \"hasErrorBoundary\": false, \"module\": \"/assets/_index-Cv4gWNM4.js\", \"imports\": [ \"/assets/chunk-62JRHF6Z-CIHS5AYd.js\", \"/assets/dayjs.min-CmfWPFVC.js\", \"/assets/jsx-runtime-B1GQ8DrN.js\", \"/assets/Recruitments-DQsqC8Ke.js\", \"/assets/HorizontalScroll-CylGw_wq.js\", \"/assets/CommunityFeed-8TGJC20c.js\", \"/assets/Title-CaXr5yxC.js\", \"/assets/Button-BDSrtgjx.js\", \"/assets/Callout-CasczSUQ.js\", \"/assets/SubTitle-D788oIxA.js\", \"/assets/seo-BDnCFmL_.js\", \"/assets/RaidCard-DtMYf-wI.js\", \"/assets/raid-C88FyLYK.js\", \"/assets/ClockIcon-BDT5ARCX.js\", \"/assets/StarIcon-Bfnzs7QG.js\", \"/assets/HeartIcon-DSU69mPt.js\", \"/assets/HeartIcon-zVCpp5EA.js\", \"/assets/utils-B6KiDbIe.js\", \"/assets/AttributeBadge-CfjfNSnV.js\", \"/assets/MultilineText-B2_-scti.js\", \"/assets/assets-CLHcoF-k.js\", \"/assets/SignInProvider-DM7SQtVT.js\", \"/assets/date-time-Bv3fbB3z.js\", \"/assets/ko-D9gQn7fY.js\", \"/assets/TimeZoneProvider-NtJDHxxQ.js\", \"/assets/EventInfoCard-DNZR07CW.js\", \"/assets/ChevronRightIcon-CEtpaWkU.js\", \"/assets/dayjs-CM9ivjEX.js\", \"/assets/ArrowRightIcon-yCTgluf8.js\", \"/assets/ClickableSurface-DXP3o9Jd.js\", \"/assets/ContentCommentEditor-KFxI57OM.js\", \"/assets/student-grading-tag-CM47e-qm.js\", \"/assets/LockClosedIcon-B2x8XJWv.js\", \"/assets/UserGroupIcon-oHDcul7E.js\", \"/assets/MarkdownText-CViAKFgb.js\", \"/assets/ProfileImage-BapRr3Ge.js\", \"/assets/StudentCards-CKeyubJw.js\", \"/assets/LikeButton-BHbgnLFe.js\", \"/assets/PencilSquareIcon-COv5XSUS.js\", \"/assets/XMarkIcon-DFSv2w6J.js\", \"/assets/UserIcon-DE6XCCAf.js\", \"/assets/BoltIcon-ClQsXv-8.js\", \"/assets/HeartIcon-15uPgiCd.js\", \"/assets/__vite-browser-external-DRloxtUF.js\", \"/assets/StudentCard-gVAX13Ah.js\", \"/assets/react-dom-CdeFW1b-.js\", \"/assets/CheckIcon-BiFtoBgd.js\", \"/assets/transition-Dgx1KXEM.js\", \"/assets/StudentCardPopupProvider-CnpS-1SR.js\", \"/assets/student-Cv_fB12-.js\", \"/assets/use-sync-refs-Jnk8zqTt.js\", \"/assets/cache-B3uYDT3V.js\", \"/assets/graphql-BGwftEW4.js\", \"/assets/runtime-timeouts-CsZa_6Ly.js\" ], \"css\": [] } }, \"url\": \"/assets/manifest-2c8b4f44.js\", \"version\": \"2c8b4f44\" }; window.__reactRouterRouteModules = {\"root\":route0,\"routes/futures\":route1}; import(\"/assets/entry.client-3pQMV2lN.js\");"
+        },
+        {
+          "date": "2026-08-18",
+          "text": "window.__reactRouterContext.streamController.close();"
+        }
+      ]
+    },
+    {
+      "sourceId": "official",
+      "kind": "official",
+      "checkedAt": "2026-08-26T10:58:14.713972",
+      "items": []
+    },
+    {
+      "sourceId": "dcinside",
+      "kind": "community",
+      "checkedAt": "2026-08-26T10:58:16.165888",
+      "items": [
+        {
+          "title": "이벤트",
+          "url": "https://event.dcinside.com"
+        },
+        {
+          "title": "정보❗공략",
+          "url": "javascript:;"
+        },
+        {
+          "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1"
+        },
+        {
+          "title": "현재 진행중 이벤트/총력,대결,제결전/종전시 정보글 모음",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1"
+        },
+        {
+          "title": "신규 『특수작전: 로어추적 편 (1차)』 이벤트 종합 가이드",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1"
+        },
+        {
+          "title": "블루 아카이브 미래시 정보",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1"
+        },
+        {
+          "title": "아 일섭 어차피 퍼먹는거 돌계하나 살까 싶다가도",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19212950&page=1"
+        },
+        {
+          "title": "뉴비 이벤트소탕 스테이지 몇 돌아야되지",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19212940&page=1"
+        },
+        {
+          "title": "클뜯)대결전이라는데",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19212934&page=1"
+        },
+        {
+          "title": "비판 기사에 \"악플 달아\" 정보경찰 '여론 조작' 의혹",
+          "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=457427"
+        },
+        {
+          "title": "개인정보처리방침",
+          "url": "https://nstatic.dcinside.com/dc/w/policy/privacy_index.html"
+        }
+      ]
+    },
+    {
+      "sourceId": "ruliweb",
+      "kind": "community",
+      "checkedAt": "2026-08-26T10:58:17.441823",
+      "items": [
+        {
+          "title": "사회/정치/경제 정보",
+          "url": "https://bbs.ruliweb.com//news/board/300018"
+        },
+        {
+          "title": "PC 게임 정보",
+          "url": "https://bbs.ruliweb.com//pc/board/300007"
+        },
+        {
+          "title": "플레이스테이션 정보",
+          "url": "https://bbs.ruliweb.com//ps/board/300001"
+        },
+        {
+          "title": "방송/연예 정보",
+          "url": "https://bbs.ruliweb.com//sports/board/300446"
+        },
+        {
+          "title": "스포츠 정보",
+          "url": "https://bbs.ruliweb.com//sports/board/300276"
+        },
+        {
+          "title": "만화책 라노벨 도서 웹툰 정보",
+          "url": "https://bbs.ruliweb.com//family/212/board/300277"
+        },
+        {
+          "title": "프라모델 정보",
+          "url": "https://bbs.ruliweb.com//family/232/board/300016"
+        },
+        {
+          "title": "피규어 정보",
+          "url": "https://bbs.ruliweb.com//family/242/board/300017"
+        },
+        {
+          "title": "정보 게시판",
+          "url": "https://bbs.ruliweb.com/mobile/board/1004"
+        },
+        {
+          "title": "애플 정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/300008"
+        },
+        {
+          "title": "안드로이드 정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/300009"
+        },
+        {
+          "title": "모바일 게임 정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/320108"
+        },
+        {
+          "title": "기타모바일 정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/300010"
+        },
+        {
+          "title": "예판/핫딜 정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/1020"
+        },
+        {
+          "title": "임무 공략",
+          "url": "https://juto.tistory.com/category/%EB%B8%94%EB%A3%A8%EC%95%84%EC%B9%B4%EC%9D%B4%EB%B8%8C/%EC%9E%84%EB%AC%B4%EA%B3%B5%EB%9E%B5?page=1"
+        },
+        {
+          "title": "미래시 정보",
+          "url": "https://bbs.ruliweb.com/game/85438/read/1382680"
+        },
+        {
+          "title": "최근 공략/팁",
+          "url": "https://bbs.ruliweb.com/game/85438?&cate=4"
+        },
+        {
+          "title": "한섭 공지",
+          "url": "https://forum.nexon.com/bluearchive/main"
+        },
+        {
+          "title": "일섭 공지",
+          "url": "https://bluearchive.jp/news/newsJump"
+        },
+        {
+          "title": "정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438?cate=3"
+        },
+        {
+          "title": "공략/팁",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438?cate=4"
+        },
+        {
+          "title": "모집",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438?cate=9"
+        },
+        {
+          "title": "총력전 / 제약해제결전 / 연합 작전 가이드 모음집 - 2026. 8",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1391790?"
+        },
+        {
+          "title": "블루아카이브 미래시 정보 시트",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1382680?"
+        },
+        {
+          "title": "공략/팁",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438?&cate=4"
+        },
+        {
+          "title": "총력전) '카이텐' 가이드 - 26년 8월 시즌 85 시가전   (2)",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1397755?"
+        },
+        {
+          "title": "저번 총력전 고즈 루나틱~ 내 클리어 기록",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1397725?"
+        },
+        {
+          "title": "일섭) 이 친구가 물학생회장이구나. (1)",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1397716?"
+        },
+        {
+          "title": "정보",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438?&cate=3"
+        },
+        {
+          "title": "일섭) 2부 메인 스토리 Vol.2 「오디세이아」편 추가 예고  (2)",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1397715?"
+        },
+        {
+          "title": "코드박스 이벤트포인트는 쓰는데가 없나요? (5)",
+          "url": "https://bbs.ruliweb.com/mobile/board/185438/read/1397686?"
+        },
+        {
+          "title": "개인정보취급방침",
+          "url": "https://bbs.ruliweb.com/etcs/board/10/read/159"
+        }
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "sourceId": "arca",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "rules": {
+    "minSources": 3,
+    "conflictLabel": "의견 갈림",
+    "separateOfficialAndEstimated": true
+  },
+  "note": "몰루로그는 예상 일정, 공식 자료는 확정 일정으로 분리. 자료 충돌은 의견 갈림으로 처리."
 }
