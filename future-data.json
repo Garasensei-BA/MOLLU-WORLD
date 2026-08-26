@@ -1,0 +1,10 @@
+{
+  "updatedAt": null,
+  "server": "KR",
+  "defaultRangeMonths": 4,
+  "supportedRangeMonths": [2,4,6,12],
+  "events": [],
+  "sourceEvidence": [],
+  "errors": [],
+  "rules": {"minSources":3,"conflictLabel":"의견 갈림","separateOfficialAndEstimated":true}
+}

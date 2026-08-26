@@ -1,5 +1,27 @@
 {
-  "updatedAt": "2026-08-26T17:00:00+09:00",
-  "sources": [],
-  "banners": []
+  "updatedAt": null,
+  "sources": [
+    {"id":"mollulog","name":"몰루로그 미래시","url":"https://mollulog.net/futures","kind":"estimate","enabled":true},
+    {"id":"official","name":"블루 아카이브 공식 커뮤니티","url":"https://forum.nexon.com/bluearchive","kind":"official","enabled":true},
+    {"id":"dcinside","name":"블루 아카이브 갤러리","url":"https://gall.dcinside.com/mgallery/board/lists?id=projectmx","kind":"community","enabled":true},
+    {"id":"arca","name":"아카라이브 블루 아카이브 채널","url":"https://arca.live/b/bluearchive","kind":"community","enabled":true},
+    {"id":"ruliweb","name":"루리웹 블루 아카이브","url":"https://bbs.ruliweb.com/mobile/board/185438","kind":"community","enabled":true}
+  ],
+  "banners": [],
+  "autoUpdate": {
+    "enabled": true,
+    "intervalMinutes": 20,
+    "timezone": "Asia/Seoul",
+    "server": "KR",
+    "defaultRangeMonths": 4,
+    "supportedRangesMonths": [2,4,6,12],
+    "manualRefresh": true,
+    "validation": {
+      "minSources": 3,
+      "conflictLabel": "의견 갈림",
+      "separateOfficialAndEstimated": true
+    },
+    "recommendations": ["추천","좋음","애매","굳이"],
+    "preserveHomeBanner": true
+  }
 }
