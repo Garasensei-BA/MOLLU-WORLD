@@ -2,7 +2,7 @@
 
 import json
 import re
-from datetime import datetime, date
+from datetime import datetime
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.parse import urljoin
@@ -36,6 +36,7 @@ SOURCES = {
     "mollulog": {
         "name": "몰루로그",
         "url": "https://mollulog.net/futures",
+        "kind": "future",
     },
 
     "bluearchive_gallery": {
@@ -44,11 +45,13 @@ SOURCES = {
             "https://gall.dcinside.com/"
             "mgallery/board/lists/?id=projectmx"
         ),
+        "kind": "community",
     },
 
     "nexon_forum": {
         "name": "블루 아카이브 공식 포럼",
         "url": "https://forum.nexon.com/bluearchive/",
+        "kind": "official",
     },
 }
 
@@ -58,9 +61,13 @@ SOURCES = {
 # ============================================================
 
 OFFICIAL_BOARDS = [
+
     "https://forum.nexon.com/bluearchive/board_list?board=1043",
+
     "https://forum.nexon.com/bluearchive/board_list?board=1076",
+
     "https://forum.nexon.com/bluearchive/board_list?board=1039",
+
 ]
 
 
@@ -68,11 +75,10 @@ OFFICIAL_BOARDS = [
 # 미래시 관련 키워드
 # ============================================================
 
-KEYWORDS = [
+KEYWORDS = (
     "미래시",
     "일섭",
     "일섭정보",
-    "일섭 정보",
     "한섭",
     "픽업",
     "모집",
@@ -88,220 +94,164 @@ KEYWORDS = [
     "로드맵",
     "페스",
     "복각",
-    "신규",
-    "메인 스토리",
     "스토리",
-]
+)
 
 
 # ============================================================
 # 날짜 정규식
 # ============================================================
 
-FULL_DATE_PATTERN = re.compile(
-    r"(20\d{2})\s*"
-    r"(?:[.\-/년]\s*)"
-    r"(\d{1,2})\s*"
-    r"(?:[.\-/월]\s*)"
-    r"(\d{1,2})\s*일?"
+DATE_RE = re.compile(
+    r"(?<!\d)"
+    r"(20\d{2})"
+    r"[-./년]\s*"
+    r"(\d{1,2})"
+    r"[-./월]\s*"
+    r"(\d{1,2})"
+    r"\s*일?"
 )
 
-SHORT_DATE_PATTERN = re.compile(
-    r"(?<!\d)"
-    r"(\d{1,2})\s*[./\-]\s*(\d{1,2})"
-    r"(?!\d)"
-)
 
-KOREAN_DATE_PATTERN = re.compile(
-    r"(?<!\d)"
-    r"(\d{1,2})\s*월\s*(\d{1,2})\s*일"
-)
+# ============================================================
+# 몰루로그에서 의미 있는 분류
+# ============================================================
 
-MONTH_DAY_PATTERN = re.compile(
-    r"(?<!\d)"
-    r"(\d{1,2})\s*월\s*(\d{1,2})"
-)
+CATEGORY_WORDS = {
+
+    "메인 스토리",
+    "미니 스토리",
+
+    "이벤트",
+    "미니 이벤트",
+
+    "캠페인",
+
+    "복각 이벤트",
+    "이벤트 상설화",
+    "이벤트 100회 무료",
+
+    "픽업 모집",
+    "페스 모집",
+
+    "총력전",
+    "대결전",
+    "제약해제결전",
+    "연합작전",
+
+    "종합전술시험",
+
+    "공식 방송",
+
+}
+
+
+# ============================================================
+# 제거할 텍스트
+# ============================================================
+
+BAD_TEXT = {
+
+    "의견을 남겨보세요",
+    "컨텐츠 필터",
+
+    "몰루 로그",
+    "로그인",
+    "로그인하기",
+    "더 보기",
+
+}
+
+
+# ============================================================
+# 문자열 정리
+# ============================================================
+
+def clean(text):
+
+    if not text:
+        return ""
+
+    return re.sub(
+        r"\s+",
+        " ",
+        text
+    ).strip()
 
 
 # ============================================================
 # 날짜 추출
 # ============================================================
 
-def valid_date(year, month, day):
-    try:
-        return date(year, month, day)
-    except ValueError:
-        return None
+def extract_dates(text):
 
-
-def extract_dates(text, default_year=None):
-    """
-    여러 가지 날짜 표기를 한꺼번에 인식한다.
-
-    지원:
-    2026-10-06
-    2026.10.06
-    2026/10/06
-    2026년 10월 6일
-    10/06
-    10.06
-    10월 6일
-    """
+    results = []
 
     if not text:
-        return []
+        return results
 
-    results = set()
-
-    # --------------------------------------------------------
-    # YYYY-MM-DD / YYYY.MM.DD / YYYY년 MM월 DD일
-    # --------------------------------------------------------
-
-    for match in FULL_DATE_PATTERN.finditer(text):
+    for match in DATE_RE.finditer(text):
 
         year = int(match.group(1))
         month = int(match.group(2))
         day = int(match.group(3))
 
-        if valid_date(year, month, day):
-            results.add(
-                f"{year:04d}-{month:02d}-{day:02d}"
-            )
+        if not (
+            2020 <= year <= 2100
+        ):
+            continue
 
-    # --------------------------------------------------------
-    # MM월 DD일
-    # --------------------------------------------------------
+        if not (
+            1 <= month <= 12
+        ):
+            continue
 
-    if default_year is not None:
+        if not (
+            1 <= day <= 31
+        ):
+            continue
 
-        for match in KOREAN_DATE_PATTERN.finditer(text):
+        results.append(
+            f"{year:04d}-"
+            f"{month:02d}-"
+            f"{day:02d}"
+        )
 
-            month = int(match.group(1))
-            day = int(match.group(2))
-
-            if valid_date(default_year, month, day):
-                results.add(
-                    f"{default_year:04d}-"
-                    f"{month:02d}-{day:02d}"
-                )
-
-    # --------------------------------------------------------
-    # MM월 DD
-    # --------------------------------------------------------
-
-    if default_year is not None:
-
-        for match in MONTH_DAY_PATTERN.finditer(text):
-
-            month = int(match.group(1))
-            day = int(match.group(2))
-
-            if valid_date(default_year, month, day):
-                results.add(
-                    f"{default_year:04d}-"
-                    f"{month:02d}-{day:02d}"
-                )
-
-    # --------------------------------------------------------
-    # MM/DD / MM.DD
-    # --------------------------------------------------------
-
-    if default_year is not None:
-
-        for match in SHORT_DATE_PATTERN.finditer(text):
-
-            month = int(match.group(1))
-            day = int(match.group(2))
-
-            if valid_date(default_year, month, day):
-                results.add(
-                    f"{default_year:04d}-"
-                    f"{month:02d}-{day:02d}"
-                )
-
-    return sorted(results)
+    return sorted(
+        set(results)
+    )
 
 
 # ============================================================
-# HTML 링크/텍스트 파서
-# ============================================================
-
-class HTMLDataParser(HTMLParser):
-
-    def __init__(self):
-
-        super().__init__()
-
-        self.texts = []
-
-        self.links = []
-
-        self.current_link = None
-
-    def handle_starttag(self, tag, attrs):
-
-        attrs = dict(attrs)
-
-        if tag.lower() == "a":
-
-            href = attrs.get("href")
-
-            if href:
-
-                self.current_link = {
-                    "url": href,
-                    "text": [],
-                }
-
-                self.links.append(
-                    self.current_link
-                )
-
-    def handle_endtag(self, tag):
-
-        if tag.lower() == "a":
-
-            self.current_link = None
-
-    def handle_data(self, data):
-
-        text = " ".join(
-            data.split()
-        ).strip()
-
-        if not text:
-            return
-
-        self.texts.append(text)
-
-        if self.current_link:
-
-            self.current_link["text"].append(
-                text
-            )
-
-
-# ============================================================
-# 웹 요청
+# 웹페이지 가져오기
 # ============================================================
 
 def fetch(url):
 
     request = Request(
+
         url,
+
         headers={
-            "User-Agent": USER_AGENT,
-            "Accept": (
-                "text/html,"
-                "application/xhtml+xml,"
-                "application/xml;q=0.9,"
-                "*/*;q=0.8"
-            ),
+
+            "User-Agent":
+                USER_AGENT,
+
+            "Accept":
+                (
+                    "text/html,"
+                    "application/xhtml+xml,"
+                    "application/xml;q=0.9,"
+                    "*/*;q=0.8"
+                ),
+
             "Accept-Language":
                 "ko-KR,ko;q=0.9,en;q=0.8",
-            "Connection":
-                "close",
-        },
+
+            "Cache-Control":
+                "no-cache",
+
+        }
     )
 
     with urlopen(
@@ -321,396 +271,734 @@ def fetch(url):
 
 
 # ============================================================
-# 문자열 정리
+# HTML 파서
+#
+# 중요:
+#
+# 기존 코드 문제 중 하나는
+# <script> 안의 JavaScript까지 텍스트로 읽어버릴 수 있다는 것.
+#
+# 그러면 날짜/텍스트가 엉뚱하게 섞인다.
+#
+# 이번 파서는 script/style/noscript/template을 완전히 무시한다.
 # ============================================================
 
-def clean_text(text):
+class PageParser(HTMLParser):
 
-    if not text:
-        return ""
+    SKIP_TAGS = {
+        "script",
+        "style",
+        "noscript",
+        "template",
+    }
 
-    text = text.replace(
-        "\xa0",
-        " "
+
+    def __init__(self):
+
+        super().__init__(
+            convert_charrefs=True
+        )
+
+        self.tokens = []
+
+        self.skip_depth = 0
+
+        self.link_depth = 0
+
+        self.current_link = None
+
+
+    def handle_starttag(
+        self,
+        tag,
+        attrs
+    ):
+
+        tag = tag.lower()
+
+        if tag in self.SKIP_TAGS:
+
+            self.skip_depth += 1
+
+            return
+
+
+        if self.skip_depth:
+
+            return
+
+
+        if tag == "a":
+
+            attributes = dict(
+                attrs
+            )
+
+            href = attributes.get(
+                "href",
+                ""
+            )
+
+            self.link_depth += 1
+
+
+            if self.current_link is None:
+
+                self.current_link = {
+
+                    "type":
+                        "link",
+
+                    "text":
+                        [],
+
+                    "url":
+                        href,
+
+                }
+
+
+    def handle_endtag(
+        self,
+        tag
+    ):
+
+        tag = tag.lower()
+
+
+        if tag in self.SKIP_TAGS:
+
+            if self.skip_depth:
+
+                self.skip_depth -= 1
+
+            return
+
+
+        if self.skip_depth:
+
+            return
+
+
+        if (
+            tag == "a"
+            and
+            self.link_depth
+        ):
+
+            self.link_depth -= 1
+
+
+            if (
+                self.link_depth == 0
+                and
+                self.current_link is not None
+            ):
+
+                text = clean(
+                    " ".join(
+                        self.current_link[
+                            "text"
+                        ]
+                    )
+                )
+
+
+                if text:
+
+                    self.tokens.append({
+
+                        "type":
+                            "link",
+
+                        "text":
+                            text,
+
+                        "url":
+                            self.current_link[
+                                "url"
+                            ],
+
+                    })
+
+
+                self.current_link = None
+
+
+    def handle_data(
+        self,
+        data
+    ):
+
+        if self.skip_depth:
+
+            return
+
+
+        text = clean(
+            data
+        )
+
+
+        if not text:
+
+            return
+
+
+        if self.current_link is not None:
+
+            self.current_link[
+                "text"
+            ].append(
+                text
+            )
+
+        else:
+
+            self.tokens.append({
+
+                "type":
+                    "text",
+
+                "text":
+                    text,
+
+            })
+
+
+# ============================================================
+# 토큰에 날짜가 있는지
+# ============================================================
+
+def token_dates(token):
+
+    return extract_dates(
+        token.get(
+            "text",
+            ""
+        )
     )
 
-    text = " ".join(
-        text.split()
+
+# ============================================================
+# 노이즈 판별
+# ============================================================
+
+def is_noise(text):
+
+    text = clean(
+        text
     )
 
-    return text.strip()
-
-
-# ============================================================
-# 몰루로그 제목 판별
-# ============================================================
-
-def is_bad_title(text):
-
-    text = clean_text(text)
-
     if not text:
+
         return True
 
-    if len(text) > 200:
+
+    if text in BAD_TEXT:
+
         return True
+
 
     if text.isdigit():
+
         return True
 
-    bad = [
-        "의견을 남겨보세요",
-        "로그인",
-        "회원가입",
-        "검색",
-        "메뉴",
-        "이미지",
-        "더보기",
-        "닫기",
-    ]
 
-    if text in bad:
+    if re.fullmatch(
+        r"\d+\s*(명|회|일|일 후|일간)?",
+        text
+    ):
+
         return True
+
 
     return False
 
 
 # ============================================================
+# 링크 제목 판별
+# ============================================================
+
+def meaningful_link(text):
+
+    text = clean(
+        text
+    )
+
+
+    if is_noise(text):
+
+        return False
+
+
+    if text.startswith(
+        "Image:"
+    ):
+
+        return False
+
+
+    if len(text) < 2:
+
+        return False
+
+
+    if len(text) > 140:
+
+        return False
+
+
+    if extract_dates(text):
+
+        return False
+
+
+    return True
+
+
+# ============================================================
+# 몰루로그 날짜 블록 제목 만들기
+#
+# 날짜 하나부터 다음 날짜가 나오기 전까지를 하나의 블록으로 본다.
+# ============================================================
+
+def make_mollulog_title(
+    block
+):
+
+    labels = []
+
+    links = []
+
+    other = []
+
+
+    for token in block:
+
+        text = clean(
+            token.get(
+                "text",
+                ""
+            )
+        )
+
+
+        if is_noise(text):
+
+            continue
+
+
+        if extract_dates(text):
+
+            continue
+
+
+        # 링크
+        if token.get(
+            "type"
+        ) == "link":
+
+            if meaningful_link(
+                text
+            ):
+
+                if text not in links:
+
+                    links.append(
+                        text
+                    )
+
+            continue
+
+
+        # 카테고리
+        if text in CATEGORY_WORDS:
+
+            if text not in labels:
+
+                labels.append(
+                    text
+                )
+
+            continue
+
+
+        # 종합전술시험 등
+        if re.fullmatch(
+            r"\d+\s*차\s*[:：].{1,100}",
+            text
+        ):
+
+            if text not in other:
+
+                other.append(
+                    text
+                )
+
+            continue
+
+
+        # 특정 컨텐츠 이름
+        if (
+            len(text) <= 80
+            and
+            text in {
+
+                "세트의 분노",
+                "티페레트",
+                "약사의 방황",
+                "잡초는 홀로 피지 않는다",
+                "이부키의 가출사건",
+
+            }
+        ):
+
+            if text not in other:
+
+                other.append(
+                    text
+                )
+
+
+    parts = []
+
+
+    for value in (
+        labels
+        + other
+        + links
+    ):
+
+        if value not in parts:
+
+            parts.append(
+                value
+            )
+
+
+    # 혹시 아무것도 못 찾았을 때
+    if not parts:
+
+        for token in block:
+
+            text = clean(
+                token.get(
+                    "text",
+                    ""
+                )
+            )
+
+
+            if is_noise(text):
+
+                continue
+
+
+            if extract_dates(text):
+
+                continue
+
+
+            parts.append(
+                text
+            )
+
+
+            if len(parts) >= 5:
+
+                break
+
+
+    # 너무 길어지는 것 방지
+    return clean(
+        " · ".join(
+            parts[:8]
+        )
+    )[:500]
+
+
+# ============================================================
 # 몰루로그 수집
-#
-# 중요:
-# 페이지 전체에서 날짜를 먼저 찾는다.
-#
-# 기존 방식처럼 "9월까지만" 고정하는 제한을 두지 않는다.
-# 페이지에 10월/11월/12월이 있으면 그대로 읽는다.
 # ============================================================
 
 def collect_mollulog():
 
-    source = SOURCES["mollulog"]
+    source = SOURCES[
+        "mollulog"
+    ]
 
-    print("[몰루로그] 접속 중...")
+
+    print(
+        "[몰루로그] 페이지 가져오는 중..."
+    )
+
 
     html = fetch(
         source["url"]
     )
 
-    parser = HTMLDataParser()
 
-    parser.feed(html)
+    parser = PageParser()
 
-    current_year = datetime.now().year
+    parser.feed(
+        html
+    )
 
-    tokens = []
 
-    # --------------------------------------------------------
-    # 모든 텍스트를 순서대로 보관
-    # --------------------------------------------------------
+    tokens = parser.tokens
 
-    for text in parser.texts:
-
-        text = clean_text(text)
-
-        if text:
-            tokens.append(text)
 
     # --------------------------------------------------------
-    # 링크 정보도 별도로 보관
+    # 날짜 위치 찾기
     # --------------------------------------------------------
 
-    link_items = []
+    date_indexes = []
 
-    for link in parser.links:
 
-        title = clean_text(
-            " ".join(
-                link["text"]
+    for index, token in enumerate(
+        tokens
+    ):
+
+        dates = token_dates(
+            token
+        )
+
+
+        if not dates:
+
+            continue
+
+
+        date_indexes.append(
+            (
+                index,
+                dates[0]
             )
         )
 
-        if not title:
-            continue
 
-        link_items.append({
-            "title": title,
-            "url": urljoin(
-                source["url"],
-                link["url"]
-            ),
-        })
+    print(
+        f"[몰루로그] 날짜 {len(date_indexes)}개 발견"
+    )
+
 
     events = []
 
+
     # --------------------------------------------------------
-    # 날짜별로 주변 텍스트를 조사
+    # 날짜 ~ 다음 날짜 사이를 하나의 일정 블록으로 처리
     # --------------------------------------------------------
 
-    for index, text in enumerate(tokens):
+    for position, (
+        index,
+        date
+    ) in enumerate(
+        date_indexes
+    ):
 
-        dates = extract_dates(
-            text,
-            current_year
-        )
+        if (
+            position + 1
+            <
+            len(date_indexes)
+        ):
 
-        if not dates:
-            continue
-
-        for found_date in dates:
-
-            candidates = []
-
-            # 날짜 앞쪽 최대 30개 토큰 조사
-            start = max(
-                0,
-                index - 30
+            next_index = (
+                date_indexes[
+                    position + 1
+                ][0]
             )
 
-            previous_tokens = tokens[
-                start:index
-            ]
+        else:
 
-            for previous in previous_tokens:
+            next_index = len(
+                tokens
+            )
 
-                previous = clean_text(
-                    previous
-                )
 
-                if is_bad_title(
-                    previous
-                ):
-                    continue
+        block = tokens[
+            index + 1:
+            next_index
+        ]
 
-                if extract_dates(
-                    previous,
-                    current_year
-                ):
-                    continue
 
-                # 너무 일반적인 텍스트는 낮은 우선순위
-                score = 1
-
-                useful_words = [
-                    "이벤트",
-                    "픽업",
-                    "모집",
-                    "총력전",
-                    "대결전",
-                    "시험",
-                    "업데이트",
-                    "스토리",
-                    "페스",
-                    "복각",
-                    "신규",
-                ]
-
-                if any(
-                    word in previous
-                    for word in useful_words
-                ):
-                    score += 2
-
-                candidates.append(
-                    (
-                        score,
-                        previous
-                    )
-                )
-
-            title = ""
-
-            # 뒤에서부터 가까운 후보 선택
-            for score, candidate in reversed(
-                candidates
-            ):
-
-                if not is_bad_title(
-                    candidate
-                ):
-
-                    title = candidate
-
-                    # 유용한 키워드가 들어가면 바로 사용
-                    if any(
-                        word in candidate
-                        for word in [
-                            "이벤트",
-                            "픽업",
-                            "모집",
-                            "총력전",
-                            "대결전",
-                            "업데이트",
-                            "스토리",
-                            "페스",
-                            "복각",
-                        ]
-                    ):
-                        break
-
-            if not title:
-
-                title = "몰루로그 미래시 일정"
-
-            # ------------------------------------------------
-            # 해당 날짜와 가장 가까운 링크 찾기
-            # ------------------------------------------------
-
-            best_url = source["url"]
-
-            best_distance = 999999
-
-            for link in link_items:
-
-                link_title = link["title"]
-
-                if not link_title:
-                    continue
-
-                # 제목이 후보와 비슷하면 연결
-                if (
-                    title in link_title
-                    or
-                    link_title in title
-                ):
-
-                    distance = abs(
-                        len(link_title)
-                        - len(title)
-                    )
-
-                    if distance < best_distance:
-
-                        best_distance = distance
-
-                        best_url = link["url"]
-
-            events.append({
-                "date": found_date,
-                "title": clean_text(title),
-                "url": best_url,
-                "source": source["name"],
-            })
-
-    # --------------------------------------------------------
-    # 중요 보정:
-    # 페이지 전체에서 발견된 모든 날짜를 보존한다.
-    #
-    # 제목 연결에 실패해도 날짜 자체를 버리지 않는다.
-    # --------------------------------------------------------
-
-    full_text = "\n".join(tokens)
-
-    all_dates = extract_dates(
-        full_text,
-        current_year
-    )
-
-    existing_dates = {
-        event["date"]
-        for event in events
-    }
-
-    for found_date in all_dates:
-
-        if found_date in existing_dates:
-            continue
-
-        events.append({
-            "date": found_date,
-            "title": "몰루로그 미래시 일정",
-            "url": source["url"],
-            "source": source["name"],
-        })
-
-    # --------------------------------------------------------
-    # 몰루로그에서 읽힌 날짜 출력
-    # --------------------------------------------------------
-
-    unique_dates = sorted({
-        event["date"]
-        for event in events
-    })
-
-    print(
-        f"[몰루로그] 날짜 {len(unique_dates)}개 발견"
-    )
-
-    if unique_dates:
-
-        print(
-            f"[몰루로그] "
-            f"{unique_dates[0]} ~ "
-            f"{unique_dates[-1]}"
+        title = make_mollulog_title(
+            block
         )
 
-    return clean_events(events)
+
+        if not title:
+
+            title = (
+                "몰루로그 미래시 일정"
+            )
+
+
+        events.append({
+
+            "date":
+                date,
+
+            "title":
+                title,
+
+            "url":
+                source["url"],
+
+            "source":
+                source["name"],
+
+            "status":
+                "예상",
+
+        })
+
+
+    return clean_events(
+        events
+    )
 
 
 # ============================================================
-# 게시글 수집
+# 게시글 추출
 # ============================================================
 
 def parse_posts(
     html,
     base_url,
     source_name,
-    limit=50
+    limit=80
 ):
 
-    parser = HTMLDataParser()
+    parser = PageParser()
 
-    parser.feed(html)
+    parser.feed(
+        html
+    )
+
 
     posts = []
 
     seen = set()
 
-    current_year = datetime.now().year
 
-    for link in parser.links:
+    for token in parser.tokens:
 
-        title = clean_text(
-            " ".join(
-                link["text"]
+        if token.get(
+            "type"
+        ) != "link":
+
+            continue
+
+
+        title = clean(
+            token.get(
+                "text",
+                ""
             )
         )
 
+
         if not title:
+
             continue
 
-        if len(title) < 2:
+
+        if title.startswith(
+            "Image:"
+        ):
+
             continue
 
-        # 미래시 관련 키워드 확인
+
         if not any(
             keyword in title
             for keyword in KEYWORDS
         ):
+
             continue
+
 
         url = urljoin(
+
             base_url,
-            link["url"]
+
+            token.get(
+                "url",
+                ""
+            )
+
         )
 
-        if url in seen:
+
+        if not url.startswith(
+            "http"
+        ):
+
             continue
 
-        seen.add(url)
 
-        dates = extract_dates(
-            title,
-            current_year
+        # DCInside
+        if (
+            "gall.dcinside.com"
+            in url
+        ):
+
+            if (
+                "board/view"
+                not in url
+                and
+                "board_view"
+                not in url
+            ):
+
+                continue
+
+
+        # 넥슨
+        if (
+            "forum.nexon.com"
+            in url
+        ):
+
+            if "board" not in url:
+
+                continue
+
+
+        if url in seen:
+
+            continue
+
+
+        seen.add(
+            url
         )
 
+
         posts.append({
-            "title": title,
-            "url": url,
-            "source": source_name,
-            "dates": dates,
+
+            "title":
+                title[:300],
+
+            "url":
+                url,
+
+            "source":
+                source_name,
+
+            "dates":
+                extract_dates(
+                    title
+                ),
+
         })
 
+
         if len(posts) >= limit:
+
             break
+
 
     return posts
 
@@ -725,82 +1013,103 @@ def collect_gallery():
         "bluearchive_gallery"
     ]
 
-    print("[갤러리] 접속 중...")
+
+    print(
+        "[갤러리] 수집 중..."
+    )
+
 
     html = fetch(
         source["url"]
     )
 
-    posts = parse_posts(
+
+    return parse_posts(
+
         html,
+
         source["url"],
+
         source["name"],
-        60
-    )
 
-    print(
-        f"[갤러리] {len(posts)}개 글 발견"
-    )
+        80
 
-    return posts
+    )
 
 
 # ============================================================
-# 공식 포럼 게시판 하나
+# 공식 포럼 하나
 # ============================================================
 
-def collect_one_official_board(url):
+def collect_one_official(
+    url
+):
 
     source = SOURCES[
         "nexon_forum"
     ]
 
+
     try:
 
-        html = fetch(url)
-
-        posts = parse_posts(
-            html,
-            url,
-            source["name"],
-            40
+        html = fetch(
+            url
         )
 
-        return posts
+
+        return parse_posts(
+
+            html,
+
+            url,
+
+            source["name"],
+
+            50
+
+        )
+
 
     except Exception as error:
 
         print(
-            f"[공식 포럼 실패] "
-            f"{url} / {error}"
+            "[공식 포럼 실패]",
+            url,
+            "->",
+            error
         )
+
 
         return []
 
 
 # ============================================================
-# 넥슨 공식 포럼
+# 공식 포럼
 # ============================================================
 
 def collect_nexon_forum():
-
-    print("[공식 포럼] 접속 중...")
 
     posts = []
 
     seen = set()
 
+
+    # 게시판 3개 동시에
     with ThreadPoolExecutor(
         max_workers=3
     ) as pool:
 
         futures = [
+
             pool.submit(
-                collect_one_official_board,
+                collect_one_official,
                 url
             )
+
             for url in OFFICIAL_BOARDS
+
         ]
+
 
         for future in as_completed(
             futures
@@ -813,49 +1122,54 @@ def collect_nexon_forum():
             except Exception as error:
 
                 print(
-                    f"[공식 포럼 오류] "
-                    f"{error}"
+                    "[공식 포럼 작업 실패]",
+                    error
                 )
 
                 result = []
 
+
             for post in result:
 
-                url = post.get(
-                    "url",
-                    ""
-                )
+                url = post[
+                    "url"
+                ]
 
-                if not url:
-                    continue
 
                 if url in seen:
+
                     continue
 
-                seen.add(url)
 
-                posts.append(post)
+                seen.add(
+                    url
+                )
 
-    print(
-        f"[공식 포럼] {len(posts)}개 글 발견"
-    )
 
-    return posts[:100]
+                posts.append(
+                    post
+                )
+
+
+    return posts[:120]
 
 
 # ============================================================
-# 이벤트 정리
+# 이벤트 중복 제거
 # ============================================================
 
-def clean_events(events):
+def clean_events(
+    events
+):
 
     result = []
 
     seen = set()
 
+
     for event in events:
 
-        date_text = clean_text(
+        date = clean(
             str(
                 event.get(
                     "date",
@@ -864,7 +1178,8 @@ def clean_events(events):
             )
         )
 
-        title = clean_text(
+
+        title = clean(
             str(
                 event.get(
                     "title",
@@ -873,66 +1188,83 @@ def clean_events(events):
             )
         )
 
-        if not date_text:
-            continue
+
+        if date:
+
+            try:
+
+                datetime.strptime(
+                    date,
+                    "%Y-%m-%d"
+                )
+
+            except ValueError:
+
+                continue
+
 
         if not title:
-            continue
-
-        try:
-
-            datetime.strptime(
-                date_text,
-                "%Y-%m-%d"
-            )
-
-        except ValueError:
 
             continue
+
 
         key = (
-            date_text,
+
+            date,
+
             title,
+
             event.get(
                 "source",
                 ""
-            ),
+            )
+
         )
 
+
         if key in seen:
+
             continue
 
-        seen.add(key)
 
-        result.append({
-            "date": date_text,
-            "title": title,
-            "url": event.get(
-                "url",
-                ""
-            ),
-            "source": event.get(
-                "source",
-                ""
-            ),
-        })
+        seen.add(
+            key
+        )
+
+
+        event[
+            "date"
+        ] = date
+
+
+        event[
+            "title"
+        ] = title
+
+
+        result.append(
+            event
+        )
+
 
     result.sort(
-        key=lambda item: (
-            item.get(
+
+        key=lambda x: (
+
+            x.get(
                 "date",
                 "9999-99-99"
             ),
-            item.get(
+
+            x.get(
                 "title",
                 ""
-            ),
-            item.get(
-                "source",
-                ""
-            ),
+            )
+
         )
+
     )
+
 
     return result
 
@@ -941,249 +1273,60 @@ def clean_events(events):
 # JSON 읽기
 # ============================================================
 
-def load_json(path, default):
+def load_json(
+    path,
+    default
+):
 
     try:
 
-        if not path.exists():
-            return default
+        if path.exists():
 
-        return json.loads(
-            path.read_text(
-                encoding="utf-8"
+            return json.loads(
+
+                path.read_text(
+                    encoding="utf-8"
+                )
+
             )
-        )
 
     except Exception as error:
 
         print(
-            f"[JSON 읽기 실패] "
-            f"{error}"
+            "[JSON 읽기 실패]",
+            error
         )
 
-        return default
+
+    return default
 
 
 # ============================================================
 # JSON 저장
 # ============================================================
 
-def save_json(path, data):
-
-    path.write_text(
-        json.dumps(
-            data,
-            ensure_ascii=False,
-            indent=2
-        ) + "\n",
-        encoding="utf-8"
-    )
-
-
-# ============================================================
-# 기존 데이터 추출
-# ============================================================
-
-def get_old_events(old_data):
-
-    if isinstance(
-        old_data,
-        dict
-    ):
-
-        events = old_data.get(
-            "events",
-            []
-        )
-
-        if isinstance(
-            events,
-            list
-        ):
-            return events
-
-    if isinstance(
-        old_data,
-        list
-    ):
-        return old_data
-
-    return []
-
-
-# ============================================================
-# 출처 비교용 evidence 생성
-# ============================================================
-
-def make_evidence(results):
-
-    evidence = []
-
-    for source_id, items in results.items():
-
-        source = SOURCES.get(
-            source_id,
-            {}
-        )
-
-        source_name = source.get(
-            "name",
-            source_id
-        )
-
-        if not isinstance(
-            items,
-            list
-        ):
-            continue
-
-        for item in items:
-
-            if not isinstance(
-                item,
-                dict
-            ):
-                continue
-
-            dates = item.get(
-                "dates",
-                []
-            )
-
-            # 몰루로그는 date 하나로 저장되어 있음
-            if not dates and item.get(
-                "date"
-            ):
-                dates = [
-                    item["date"]
-                ]
-
-            evidence.append({
-                "source": source_name,
-                "title": clean_text(
-                    str(
-                        item.get(
-                            "title",
-                            ""
-                        )
-                    )
-                ),
-                "url": item.get(
-                    "url",
-                    ""
-                ),
-                "dates": dates,
-            })
-
-    return evidence
-
-
-# ============================================================
-# 일정 병합
-# ============================================================
-
-def merge_events(
-    old_events,
-    new_events
+def save_json(
+    path,
+    data
 ):
 
-    combined = []
+    path.write_text(
 
-    # 기존 데이터도 유지
-    combined.extend(
-        old_events
-    )
+        json.dumps(
 
-    # 새 데이터 추가
-    combined.extend(
-        new_events
-    )
+            data,
 
-    return clean_events(
-        combined
-    )
+            ensure_ascii=False,
 
+            indent=2
 
-# ============================================================
-# 미래 일정만 추출
-# ============================================================
-
-def filter_future_events(events):
-
-    today = datetime.now().date()
-
-    result = []
-
-    for event in events:
-
-        try:
-
-            event_date = datetime.strptime(
-                event["date"],
-                "%Y-%m-%d"
-            ).date()
-
-        except Exception:
-
-            continue
-
-        # 오늘 이후 일정
-        if event_date >= today:
-
-            result.append(
-                event
-            )
-
-    return result
-
-
-# ============================================================
-# 출처별 통계
-# ============================================================
-
-def make_source_counts(events):
-
-    counts = {}
-
-    for event in events:
-
-        source = event.get(
-            "source",
-            "알 수 없음"
         )
 
-        counts[source] = (
-            counts.get(
-                source,
-                0
-            ) + 1
-        )
+        + "\n",
 
-    return counts
+        encoding="utf-8"
 
-
-# ============================================================
-# 가장 먼 미래 일정
-# ============================================================
-
-def get_latest_date(events):
-
-    dates = []
-
-    for event in events:
-
-        value = event.get(
-            "date",
-            ""
-        )
-
-        if value:
-            dates.append(value)
-
-    if not dates:
-        return None
-
-    return max(dates)
+    )
 
 
 # ============================================================
@@ -1197,46 +1340,56 @@ def main():
         "=========================================="
     )
     print(
-        " 블루 아카이브 미래시 자동 업데이트"
+        " 블루 아카이브 미래시 빠른 자동 업데이트"
     )
     print(
         "=========================================="
     )
     print()
 
+
     now = (
+
         datetime.now()
+
         .astimezone()
+
         .isoformat(
             timespec="seconds"
         )
+
     )
+
 
     old_data = load_json(
+
         OUTPUT_FILE,
+
         {}
+
     )
 
-    # --------------------------------------------------------
-    # 기존 데이터
-    # --------------------------------------------------------
 
-    old_events = get_old_events(
-        old_data
+    config = load_json(
+
+        CONFIG_FILE,
+
+        {}
+
     )
 
-    print(
-        f"[기존 데이터] "
-        f"{len(old_events)}개 일정"
-    )
 
-    print()
+    results = {}
 
-    # --------------------------------------------------------
-    # 수집 함수
-    # --------------------------------------------------------
+    errors = {}
+
+
+    # ========================================================
+    # 3개 사이트 동시에 조사
+    # ========================================================
 
     collectors = {
+
         "mollulog":
             collect_mollulog,
 
@@ -1245,34 +1398,32 @@ def main():
 
         "nexon_forum":
             collect_nexon_forum,
+
     }
 
-    results = {}
-
-    errors = {}
-
-    # --------------------------------------------------------
-    # 3사이트 동시 수집
-    # --------------------------------------------------------
 
     print(
         "3개 출처 동시 수집 시작..."
     )
-
     print()
+
 
     with ThreadPoolExecutor(
         max_workers=3
     ) as pool:
 
         futures = {
+
             pool.submit(
                 function
-            ): source_id
+            ):
+                source_id
 
             for source_id, function
             in collectors.items()
+
         }
+
 
         for future in as_completed(
             futures
@@ -1282,29 +1433,33 @@ def main():
                 future
             ]
 
-            source_name = SOURCES[
-                source_id
-            ]["name"]
 
             try:
 
-                result = future.result()
-
-                if not isinstance(
-                    result,
-                    list
-                ):
-                    result = []
-
                 results[
                     source_id
-                ] = result
+                ] = future.result()
+
 
                 print(
-                    f"[완료] "
-                    f"{source_name}: "
-                    f"{len(result)}개"
+
+                    "[완료]",
+                    SOURCES[
+                        source_id
+                    ]["name"],
+
+                    ":",
+
+                    len(
+                        results[
+                            source_id
+                        ]
+                    ),
+
+                    "개"
+
                 )
+
 
             except Exception as error:
 
@@ -1312,184 +1467,364 @@ def main():
                     source_id
                 ] = []
 
+
                 errors[
                     source_id
-                ] = str(error)
+                ] = str(
+                    error
+                )
+
 
                 print(
-                    f"[실패] "
-                    f"{source_name}: "
-                    f"{error}"
+
+                    "[실패]",
+
+                    SOURCES[
+                        source_id
+                    ]["name"],
+
+                    ":",
+
+                    error
+
                 )
 
-    print()
 
-    # --------------------------------------------------------
-    # 새 일정 생성
-    # --------------------------------------------------------
+    # ========================================================
+    # 결과
+    # ========================================================
 
-    new_events = []
-
-    for source_id, items in results.items():
-
-        if source_id == "mollulog":
-
-            for item in items:
-
-                if not item.get(
-                    "date"
-                ):
-                    continue
-
-                new_events.append({
-                    "date": item.get(
-                        "date",
-                        ""
-                    ),
-                    "title": item.get(
-                        "title",
-                        ""
-                    ),
-                    "url": item.get(
-                        "url",
-                        ""
-                    ),
-                    "source": item.get(
-                        "source",
-                        SOURCES[source_id]["name"]
-                    ),
-                })
-
-        else:
-
-            for item in items:
-
-                dates = item.get(
-                    "dates",
-                    []
-                )
-
-                if not isinstance(
-                    dates,
-                    list
-                ):
-                    continue
-
-                for found_date in dates:
-
-                    new_events.append({
-                        "date": found_date,
-                        "title": item.get(
-                            "title",
-                            ""
-                        ),
-                        "url": item.get(
-                            "url",
-                            ""
-                        ),
-                        "source": item.get(
-                            "source",
-                            SOURCES[source_id]["name"]
-                        ),
-                    })
-
-    # --------------------------------------------------------
-    # 기존 + 새 데이터
-    # --------------------------------------------------------
-
-    combined_events = merge_events(
-        old_events,
-        new_events
+    mollulog_events = results.get(
+        "mollulog",
+        []
     )
 
-    print(
-        f"[병합] "
-        f"{len(combined_events)}개 일정"
+
+    gallery_posts = results.get(
+        "bluearchive_gallery",
+        []
     )
 
-    # --------------------------------------------------------
-    # 미래 일정만 유지
-    # --------------------------------------------------------
 
-    future_events = filter_future_events(
-        combined_events
+    forum_posts = results.get(
+        "nexon_forum",
+        []
     )
 
-    # --------------------------------------------------------
-    # evidence
-    # --------------------------------------------------------
 
-    evidence = make_evidence(
-        results
+    # ========================================================
+    # 메인 미래시
+    #
+    # 몰루로그의 날짜 일정만 메인 events에 넣는다.
+    #
+    # 갤러리/공식 포럼은 보조 자료로 저장한다.
+    #
+    # 이렇게 해야 게시판 글의 날짜가
+    # 미래시 일정으로 잘못 들어가는 것을 막을 수 있다.
+    # ========================================================
+
+    all_events = clean_events(
+        mollulog_events
     )
 
-    # --------------------------------------------------------
-    # 출처별 통계
-    # --------------------------------------------------------
 
-    source_counts = make_source_counts(
-        future_events
-    )
+    # ========================================================
+    # 출처별 증거
+    # ========================================================
 
-    # --------------------------------------------------------
-    # 가장 먼 일정
-    # --------------------------------------------------------
+    evidence = [
 
-    latest = get_latest_date(
-        future_events
-    )
+        {
 
-    # --------------------------------------------------------
-    # 최종 JSON
-    # --------------------------------------------------------
+            "sourceId":
+                "mollulog",
 
-    output = {
-        "updated_at": now,
+            "name":
+                SOURCES[
+                    "mollulog"
+                ]["name"],
 
-        "sources": {
-            source_id: {
-                "name": source["name"],
-                "url": source["url"],
-            }
-            for source_id, source
-            in SOURCES.items()
-        },
+            "kind":
+                "future",
 
-        "events": future_events,
+            "url":
+                SOURCES[
+                    "mollulog"
+                ]["url"],
 
-        "evidence": evidence,
-
-        "source_counts": source_counts,
-
-        "errors": errors,
-
-        "stats": {
-            "total_events":
-                len(future_events),
-
-            "evidence_count":
-                len(evidence),
-
-            "latest_date":
-                latest,
-
-            "updated_at":
+            "checkedAt":
                 now,
-        },
-    }
 
-    # --------------------------------------------------------
+            "items":
+                mollulog_events,
+
+        },
+
+
+        {
+
+            "sourceId":
+                "bluearchive_gallery",
+
+            "name":
+                SOURCES[
+                    "bluearchive_gallery"
+                ]["name"],
+
+            "kind":
+                "community",
+
+            "url":
+                SOURCES[
+                    "bluearchive_gallery"
+                ]["url"],
+
+            "checkedAt":
+                now,
+
+            "items":
+                gallery_posts,
+
+        },
+
+
+        {
+
+            "sourceId":
+                "nexon_forum",
+
+            "name":
+                SOURCES[
+                    "nexon_forum"
+                ]["name"],
+
+            "kind":
+                "official",
+
+            "url":
+                SOURCES[
+                    "nexon_forum"
+                ]["url"],
+
+            "checkedAt":
+                now,
+
+            "items":
+                forum_posts,
+
+        },
+
+    ]
+
+
+    # ========================================================
+    # 기존 JSON 구조 유지
+    # ========================================================
+
+    new_data = dict(
+        old_data
+    )
+
+
+    new_data[
+        "updatedAt"
+    ] = now
+
+
+    new_data[
+        "server"
+    ] = "KR"
+
+
+    # 기간 제한을 넓게 유지
+    new_data[
+        "defaultRangeMonths"
+    ] = 12
+
+
+    new_data[
+        "supportedRangeMonths"
+    ] = [
+
+        2,
+        4,
+        6,
+        12,
+        24,
+        36,
+
+    ]
+
+
+    new_data[
+        "events"
+    ] = all_events
+
+
+    new_data[
+        "sourceEvidence"
+    ] = evidence
+
+
+    new_data[
+        "errors"
+    ] = errors
+
+
+    validation = (
+
+        config
+
+        .get(
+            "autoUpdate",
+            {}
+        )
+
+        .get(
+            "validation",
+            {}
+        )
+
+    )
+
+
+    new_data[
+        "rules"
+    ] = validation
+
+
+    # ========================================================
+    # 출처
+    # ========================================================
+
+    new_data[
+        "sources"
+    ] = [
+
+        {
+
+            "id":
+                "mollulog",
+
+            "name":
+                "몰루로그",
+
+            "type":
+                "미래시",
+
+            "url":
+                SOURCES[
+                    "mollulog"
+                ]["url"],
+
+        },
+
+
+        {
+
+            "id":
+                "bluearchive_gallery",
+
+            "name":
+                "블루 아카이브 갤러리",
+
+            "type":
+                "커뮤니티",
+
+            "url":
+                SOURCES[
+                    "bluearchive_gallery"
+                ]["url"],
+
+        },
+
+
+        {
+
+            "id":
+                "nexon_forum",
+
+            "name":
+                "블루 아카이브 공식 포럼",
+
+            "type":
+                "공식",
+
+            "url":
+                SOURCES[
+                    "nexon_forum"
+                ]["url"],
+
+        },
+
+    ]
+
+
+    new_data[
+        "note"
+    ] = (
+
+        "몰루로그를 메인 미래시 일정 출처로 사용하고, "
+
+        "블루 아카이브 갤러리와 "
+
+        "블루 아카이브 공식 포럼을 "
+
+        "보조 출처로 수집합니다. "
+
+        "몰루로그의 날짜 일정은 페이지의 실제 날짜 블록을 "
+
+        "기준으로 추출합니다."
+
+    )
+
+
+    # ========================================================
     # 저장
-    # --------------------------------------------------------
+    # ========================================================
 
     save_json(
+
         OUTPUT_FILE,
-        output
+
+        new_data
+
     )
 
-    # --------------------------------------------------------
+
+    # ========================================================
     # 결과 출력
-    # --------------------------------------------------------
+    # ========================================================
+
+    dates = [
+
+        event["date"]
+
+        for event in all_events
+
+        if event.get(
+            "date"
+        )
+
+    ]
+
+
+    if dates:
+
+        min_date = min(
+            dates
+        )
+
+        max_date = max(
+            dates
+        )
+
+    else:
+
+        min_date = "없음"
+
+        max_date = "없음"
+
 
     print()
     print(
@@ -1502,80 +1837,113 @@ def main():
         "=========================================="
     )
 
-    print(
-        f"미래 일정: "
-        f"{len(future_events)}개"
-    )
 
     print(
-        f"출처 자료: "
-        f"{len(evidence)}개"
+        f"몰루로그 일정: "
+        f"{len(mollulog_events)}개"
     )
+
 
     print(
-        f"가장 먼 일정: "
-        f"{latest or '없음'}"
+        f"갤러리 자료: "
+        f"{len(gallery_posts)}개"
     )
 
-    print()
 
     print(
-        "출처별 일정:"
+        f"공식 포럼 자료: "
+        f"{len(forum_posts)}개"
     )
 
-    for source, count in sorted(
-        source_counts.items()
-    ):
 
-        print(
-            f"  {source}: "
-            f"{count}개"
+    print(
+        f"전체 일정: "
+        f"{len(all_events)}개"
+    )
+
+
+    print(
+        f"일정 범위: "
+        f"{min_date} ~ {max_date}"
+    )
+
+
+    print(
+        f"오류 출처: "
+        f"{len(errors)}개"
+    )
+
+
+    print(
+        f"저장: "
+        f"{OUTPUT_FILE}"
+    )
+
+
+    # ========================================================
+    # 12월 확인
+    # ========================================================
+
+    december = [
+
+        event
+
+        for event in all_events
+
+        if event.get(
+            "date",
+            ""
+        ).startswith(
+            "2026-12-"
         )
 
-    print()
+    ]
 
-    if latest:
-
-        print(
-            "가장 뒤쪽 일정:"
-        )
-
-        for event in future_events[-10:]:
-
-            print(
-                f"  "
-                f"{event['date']} | "
-                f"{event['title']} | "
-                f"{event['source']}"
-            )
 
     print()
-
-    if errors:
-
-        print(
-            "일부 출처에서 오류가 발생함:"
-        )
-
-        for source, error in errors.items():
-
-            print(
-                f"  {source}: {error}"
-            )
-
-    else:
-
-        print(
-            "모든 출처 수집 완료"
-        )
-
-    print()
-
     print(
-        f"저장 위치: {OUTPUT_FILE}"
+        f"2026년 12월 일정: "
+        f"{len(december)}개"
     )
 
-    print()
+
+    for event in december:
+
+        print(
+
+            "-",
+
+            event[
+                "date"
+            ],
+
+            "|",
+
+            event[
+                "title"
+            ][:180]
+
+        )
+
+
+    # ========================================================
+    # 안전장치
+    # ========================================================
+
+    if not december:
+
+        print()
+        print(
+            "[경고]"
+        )
+
+        print(
+            "2026년 12월 일정이 0개입니다."
+        )
+
+        print(
+            "몰루로그 HTML 구조가 변경되었는지 확인하세요."
+        )
 
 
 # ============================================================
@@ -1583,4 +1951,5 @@ def main():
 # ============================================================
 
 if __name__ == "__main__":
+
     main()
