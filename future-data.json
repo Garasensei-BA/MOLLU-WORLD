@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,26 +435,8 @@
       "dates": []
     },
     {
-      "title": "다음 일정 보니까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213355&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "코코로 EX 수치 상당하네... 미래시에 뽑을 게 늘어난다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213345&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 정공전 오랜만에 풀로 봤는데 왜 이지랄남?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213342&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "와 어제 총력전 치는거 까먹었는데 티켓이 있어",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213327&page=1",
+      "title": "일섭 스토리 념글에 나온 저게 다임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213380&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-26T11:41:19+00:00",
+  "updatedAt": "2026-08-26T11:48:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
