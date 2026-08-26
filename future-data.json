@@ -1,433 +1,158 @@
 {
   "updated_at": "2026-08-26T11:31:59+00:00",
-  "sources": {
-    "mollulog": {
+  "sources": [
+    {
+      "id": "mollulog",
       "name": "몰루로그",
+      "type": "미래시",
       "url": "https://mollulog.net/futures"
     },
-    "bluearchive_gallery": {
+    {
+      "id": "bluearchive_gallery",
       "name": "블루 아카이브 갤러리",
+      "type": "커뮤니티",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx"
     },
-    "nexon_forum": {
+    {
+      "id": "nexon_forum",
       "name": "블루 아카이브 공식 포럼",
+      "type": "공식",
       "url": "https://forum.nexon.com/bluearchive/"
     }
-  },
+  ],
   "events": [
     {
       "date": "2026-08-28",
-      "title": "메인 스토리",
+      "title": "캠페인",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "총력전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "캠페인 확정 계정 경험치 보상량 2배",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-30",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-01",
-      "title": "메인 스토리",
+      "title": "이벤트 · 종합전술시험 · 51차: 방어시험 · Pray-Ball! ~노려라! 만루 홈런~",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "복각 이벤트 확정 Pray-Ball! ~노려라! 만루 홈런~ 7 복각 스미레 아르바이트 10 복각 레이 7 복각 아카리 새해 6 복각 이즈미 새해 15 복각 하루카 새해 25 의견을 남겨보세요 종합전술시험 확정 51차: 방어시험",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-01",
-      "title": "총력전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-08",
-      "title": "메인 스토리",
+      "title": "이벤트 상설화 · 미니 스토리 · 대결전 · 미니 이벤트 · 와글와글하며 오손도손하게 · 쿠로카게 시가지 신비 특수장갑 토먼트 경장갑 토먼트 탄력장갑 인세인",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "복각",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "이벤트 상설화 확정 와글와글하며 오손도손하게 298 신규 에리카 17 복각 키라라 10 복각 츠바키 가이드 9 복각 우미카 9 복각 피나 가이드 42 의견을 남겨보세요 미니 스토리 확정 ON AIR: 게헨나 대결전 확정 쿠로카게 시가지 신비 특수장갑 토먼트 경장갑 토먼트 탄력장갑 인세인 미니 이벤트 확정 샬레 총결산",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-15",
-      "title": "메인 스토리",
+      "title": "이벤트 상설화 · 메인 스토리 · 미니 스토리 · 잡초는 홀로 피지 않는다 · 0068 오페라로부터 사랑을 담아서! · 2부 Ex. 로어추적 편 제2장: 드럼통 속에 숨은 것",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "미니 이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "이벤트 상설화 확정 0068 오페라로부터 사랑을 담아서! 164 신규 무츠키 드레스 184 신규 하루카 드레스 156 복각 아루 드레스 47 복각 카요코 드레스 40 복각 사오리 드레스 29 의견을 남겨보세요 메인 스토리 확정 2부 Ex. 로어추적 편 제2장: 드럼통 속에 숨은 것 미니 스토리 확정 잡초는 홀로 피지 않는다",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-16",
-      "title": "메인 스토리",
+      "title": "제약해제결전 · 세트의 분노",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "미니 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "제약해제결전 확정 세트의 분노 야외 폭발 특수장갑",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-22",
-      "title": "메인 스토리",
+      "title": "총력전 · 드럼통 게 시가지 관통 특수장갑 경장갑 루나틱",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "미니 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "총력전 확정 드럼통 게 시가지 관통 특수장갑 경장갑 루나틱",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-28",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-09-29",
-      "title": "메인 스토리",
+      "title": "이벤트 · 종합전술시험 · 52차: 사격시험 · 백에서 피어난 한 송이 ~정정당당하게, 수상 승부~",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "복각 이벤트 백에서 피어난 한 송이 ~정정당당하게, 수상 승부~ 301 신규 나구사 수영복 17 복각 유카리 수영복 25 복각 키쿄 수영복 7 복각 렌게 수영복 30 의견을 남겨보세요 종합전술시험 52차: 사격시험",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-29",
-      "title": "총력전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-10-06",
-      "title": "메인 스토리",
+      "title": "이벤트 상설화 · 대결전 · -ive aLIVE! · 호버크래프트 야외 관통 경장갑 인세인 특수장갑 토먼트 탄력장갑 토먼트",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "복각",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "이벤트 상설화 -ive aLIVE! 75 한정 복각 카즈사 밴드 43 한정 복각 요시미 밴드 23 복각 나츠 밴드 24 배포 아이리 밴드 24 의견을 남겨보세요 대결전 호버크래프트 야외 관통 경장갑 인세인 특수장갑 토먼트 탄력장갑 토먼트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-10-13",
-      "title": "대결전",
+      "title": "이벤트 · 람과천청",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "이벤트 람과천청 563 신규 키사키 수영복 204 신규 슌 수영복 40 의견을 남겨보세요",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-10-14",
-      "title": "메인 스토리",
+      "title": "제약해제결전 · 티페레트",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "제약해제결전 티페레트 실내 관통 탄력장갑",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-10-20",
-      "title": "메인 스토리",
+      "title": "총력전 · 그레고리오 실내 신비 경장갑 루나틱",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "총력전 그레고리오 실내 신비 경장갑 루나틱",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-10-27",
-      "title": "메인 스토리",
+      "title": "이벤트 · 이벤트 상설화 · 미니 스토리 · 픽업 모집 · 종합전술시험 · 약사의 방황 · 53차: 돌파시험 · 하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-27",
-      "title": "총력전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-02",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-11-03",
-      "title": "대결전 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트",
+      "title": "대결전 · 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "리콜렉트 모집",
-      "url": "https://mollulog.net/events/recollect-recruitment-2",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-03",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-09",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-11-10",
-      "title": "대결전",
+      "title": "이벤트 상설화 · 빛으로 나아가는 그녀들의 소야곡",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "이벤트 상설화 빛으로 나아가는 그녀들의 소야곡 71 배포 이부키 48 한정 복각 마코토 36 한정 복각 아코 드레스 10 복각 사츠키 15 복각 치아키 35 복각 칸나 수영복 23 의견을 남겨보세요",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-11-17",
-      "title": "메인 스토리",
+      "title": "이벤트 · 출항! 만마선 ~마코토 의장님의 화려한 피서~",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "복각",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "이벤트 100회 무료 출항! 만마선 ~마코토 의장님의 화려한 피서~ 172 배포 치아키 수영복 347 한정 신규 마코토 수영복 418 한정 신규 사츠키 수영복 23 의견을 남겨보세요",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-11-24",
-      "title": "메인 스토리",
+      "title": "픽업 모집 · 총력전 · 페스 모집 · 예로니무스 시가지 폭발 경장갑 루나틱",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-24",
-      "title": "픽업 모집 페스 모집 픽업 학생 628 페스 신규 이부키 수영복 621 페스 신규 이로하 수영복 225 한정 복각 네루 교복 226 한정 복각 리오 픽업 대상 외 모집 가능 학생 54 페스 복각 호시노 무장 46 페스 복각 시로코 테러 73 페스 복각 나기사 수영복 72 페스 복각 미카 수영복 64 페스 복각 아리스 무장 63 페스 복각 케이 47 의견을 남겨보세요 총력전 예로니무스 시가지 폭발 경장갑 루나틱",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-30",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-12-01",
-      "title": "메인 스토리",
+      "title": "이벤트 · 메인 스토리 · 종합전술시험 · 54차: 호위시험 · 팬데믹 해저드 ~기적의 팬케이크~ · 2부 Vol.1 불꽃과 그림자 편 제1장: 게헨나를 다시 위대하게!",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-01",
-      "title": "복각 이벤트 팬데믹 해저드 ~기적의 팬케이크~ 5 복각 세나 사복 1 복각 주리 아르바이트 5 복각 나구사 1 복각 니야 19 의견을 남겨보세요 메인 스토리 2부 Vol.1 불꽃과 그림자 편 제1장: 게헨나를 다시 위대하게! 종합전술시험 54차: 호위시험",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-01",
-      "title": "총력전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-07",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-12-08",
-      "title": "메인 스토리",
+      "title": "메인 스토리 · 미니 스토리 · 대결전 · 이부키의 가출사건 · 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 · 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-08",
-      "title": "메인 스토리 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 미니 스토리 이부키의 가출사건 대결전 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     },
     {
       "date": "2026-12-15",
-      "title": "대결전",
+      "title": "이벤트 · 메인 스토리 · DIVE into OCEAN! · 2부 Vol.2 오디세이아 편 제1장: 눈동자에 비친 수평선 (전편) · GitHub",
       "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-15",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-22",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-29",
-      "title": "메인 스토리",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
+      "source": "몰루로그",
+      "status": "예상"
     }
   ],
   "evidence": [
@@ -993,5 +718,225 @@
     "evidence_count": 71,
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
-  }
+  },
+  "updatedAt": "2026-08-26T11:37:13+00:00",
+  "server": "KR",
+  "defaultRangeMonths": 12,
+  "supportedRangeMonths": [
+    2,
+    4,
+    6,
+    12,
+    24,
+    36
+  ],
+  "sourceEvidence": [
+    {
+      "sourceId": "mollulog",
+      "name": "몰루로그",
+      "kind": "future",
+      "url": "https://mollulog.net/futures",
+      "checkedAt": "2026-08-26T11:37:13+00:00",
+      "items": [
+        {
+          "date": "2026-08-28",
+          "title": "캠페인",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-01",
+          "title": "이벤트 · 종합전술시험 · 51차: 방어시험 · Pray-Ball! ~노려라! 만루 홈런~",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-08",
+          "title": "이벤트 상설화 · 미니 스토리 · 대결전 · 미니 이벤트 · 와글와글하며 오손도손하게 · 쿠로카게 시가지 신비 특수장갑 토먼트 경장갑 토먼트 탄력장갑 인세인",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-15",
+          "title": "이벤트 상설화 · 메인 스토리 · 미니 스토리 · 잡초는 홀로 피지 않는다 · 0068 오페라로부터 사랑을 담아서! · 2부 Ex. 로어추적 편 제2장: 드럼통 속에 숨은 것",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-16",
+          "title": "제약해제결전 · 세트의 분노",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-22",
+          "title": "총력전 · 드럼통 게 시가지 관통 특수장갑 경장갑 루나틱",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "이벤트 · 종합전술시험 · 52차: 사격시험 · 백에서 피어난 한 송이 ~정정당당하게, 수상 승부~",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-10-06",
+          "title": "이벤트 상설화 · 대결전 · -ive aLIVE! · 호버크래프트 야외 관통 경장갑 인세인 특수장갑 토먼트 탄력장갑 토먼트",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-10-13",
+          "title": "이벤트 · 람과천청",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-10-14",
+          "title": "제약해제결전 · 티페레트",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "총력전 · 그레고리오 실내 신비 경장갑 루나틱",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "이벤트 · 이벤트 상설화 · 미니 스토리 · 픽업 모집 · 종합전술시험 · 약사의 방황 · 53차: 돌파시험 · 하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "대결전 · 호드 실내 신비 경장갑 인세인 중장갑 토먼트 탄력장갑 토먼트",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-11-10",
+          "title": "이벤트 상설화 · 빛으로 나아가는 그녀들의 소야곡",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-11-17",
+          "title": "이벤트 · 출항! 만마선 ~마코토 의장님의 화려한 피서~",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-11-24",
+          "title": "픽업 모집 · 총력전 · 페스 모집 · 예로니무스 시가지 폭발 경장갑 루나틱",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-12-01",
+          "title": "이벤트 · 메인 스토리 · 종합전술시험 · 54차: 호위시험 · 팬데믹 해저드 ~기적의 팬케이크~ · 2부 Vol.1 불꽃과 그림자 편 제1장: 게헨나를 다시 위대하게!",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-12-08",
+          "title": "메인 스토리 · 미니 스토리 · 대결전 · 이부키의 가출사건 · 2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들 · 비나 야외 관통 경장갑 토먼트 중장갑 토먼트 탄력장갑 인세인",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        },
+        {
+          "date": "2026-12-15",
+          "title": "이벤트 · 메인 스토리 · DIVE into OCEAN! · 2부 Vol.2 오디세이아 편 제1장: 눈동자에 비친 수평선 (전편) · GitHub",
+          "url": "https://mollulog.net/futures",
+          "source": "몰루로그",
+          "status": "예상"
+        }
+      ]
+    },
+    {
+      "sourceId": "bluearchive_gallery",
+      "name": "블루 아카이브 갤러리",
+      "kind": "community",
+      "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
+      "checkedAt": "2026-08-26T11:37:13+00:00",
+      "items": [
+        {
+          "title": "이벤트",
+          "url": "https://event.dcinside.com",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "현재 진행중 이벤트/총력,대결,제결전/종전시 정보글 모음",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "신규 『특수작전: 로어추적 편 (1차)』 이벤트 종합 가이드",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "블루 아카이브 미래시 정보",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "100연차에 픽업 << 이거 뜨는거 맞음?",
+          "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19213312&page=1",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        },
+        {
+          "title": "260826 츄스토리",
+          "url": "https://gall.dcinside.com/board/view/?id=blackpink&no=5330054",
+          "source": "블루 아카이브 갤러리",
+          "dates": []
+        }
+      ]
+    },
+    {
+      "sourceId": "nexon_forum",
+      "name": "블루 아카이브 공식 포럼",
+      "kind": "official",
+      "url": "https://forum.nexon.com/bluearchive/",
+      "checkedAt": "2026-08-26T11:37:13+00:00",
+      "items": []
+    }
+  ],
+  "rules": {
+    "minSources": 3,
+    "conflictLabel": "의견 갈림",
+    "separateOfficialAndEstimated": true
+  },
+  "note": "몰루로그를 메인 미래시 일정 출처로 사용하고, 블루 아카이브 갤러리와 블루 아카이브 공식 포럼을 보조 출처로 수집합니다. 몰루로그의 날짜 일정은 페이지의 실제 날짜 블록을 기준으로 추출합니다."
 }
