@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -405,6 +405,12 @@
   ],
   "evidence": [
     {
+      "title": "블루 아카이브 미래시 정보",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -423,14 +429,14 @@
       "dates": []
     },
     {
-      "title": "블루 아카이브 미래시 정보",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "title": "한섭 선호 선물 패키지좀 늦게 살걸",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19225539&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭 스포) 핑뚝부장의 공통/차이점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19215107&page=1",
+      "title": "일섭 좆물찾기 라인업 진짜 왜이러냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19225527&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -445,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-26T14:31:32+00:00",
+  "updatedAt": "2026-08-28T00:59:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
