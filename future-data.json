@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -421,24 +421,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "총력전 티켓 9장으로 올려달라고 하면 욕먹음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19234857&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "똥아로프라 채널 여름의 잔향이라면 늦여름 이벤트",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19234837&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "⭐대회 관리 담당해주실 부매니저를 모집합니다⭐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19078329&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -451,7 +433,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-29T08:27:03+00:00",
+  "updatedAt": "2026-08-29T08:47:46+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
