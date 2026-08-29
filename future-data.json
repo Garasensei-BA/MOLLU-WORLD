@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 63
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -423,8 +429,14 @@
       "dates": []
     },
     {
-      "title": "리츠복각좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19233184&page=1",
+      "title": "⭐대회 관리 담당해주실 부매니저를 모집합니다⭐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19078329&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "육성 순서 및 아카이브 모집 확정권 선택",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19233280&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -439,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-29T03:07:03+00:00",
+  "updatedAt": "2026-08-29T03:27:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
