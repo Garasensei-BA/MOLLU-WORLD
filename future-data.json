@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -423,8 +423,14 @@
       "dates": []
     },
     {
-      "title": "모의 총력전도 기록이 남네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19232759&page=1",
+      "title": "패스전까지 미래시 단축 될것같음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19232880&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "카이텐 인천컷 일섭보다 높을거같은데 아닌가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19232876&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -439,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-29T01:47:00+00:00",
+  "updatedAt": "2026-08-29T02:07:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
