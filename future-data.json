@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -135,6 +129,12 @@
     {
       "date": "2026-09-08",
       "title": "이벤트 상설화 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-09",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -429,14 +429,8 @@
       "dates": []
     },
     {
-      "title": "총력전 지금 당장 문 닫으면 안될까요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19237130&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "칼학 일섭에서 스토리 어디까지나옴",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19237103&page=1",
+      "title": "대결전이랑 총력전 보스 똑같은거야??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19237193&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-29T15:07:16+00:00",
+  "updatedAt": "2026-08-29T15:26:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
