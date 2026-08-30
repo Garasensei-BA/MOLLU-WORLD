@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -489,8 +489,14 @@
       "dates": []
     },
     {
-      "title": "그냥 이번 이벤트는 씹호감 그 자체임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245932&page=1",
+      "title": "근데 미쿠 복각 안하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245986&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "내년 예산 800조+α 정부안 공개·정기국회 개원…이번주 주요 일정",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=458611",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T19:07:07+00:00",
+  "updatedAt": "2026-08-30T19:26:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
