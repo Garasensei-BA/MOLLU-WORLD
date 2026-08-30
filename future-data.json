@@ -31,12 +31,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-01-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-02-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -117,6 +111,12 @@
     {
       "date": "2026-09-01",
       "title": "복각 이벤트 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -439,7 +439,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T01:27:33+00:00",
+  "updatedAt": "2026-08-30T01:47:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
