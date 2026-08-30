@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -489,14 +489,20 @@
       "dates": []
     },
     {
-      "title": "아... ap팩을 이벤트 시작할때 깠어야했구나....",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246221&page=1",
+      "title": "선생님들 건강 안좋으면 총력전 인센딱이 좋겠죠",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246257&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "쿠로코 이벤트 하나 안나오나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246215&page=1",
+      "title": "다음 페스 선택권으로 꾸꾸나를 데려와야하다니",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246245&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아... ap팩을 이벤트 시작할때 깠어야했구나....",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246221&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -517,7 +523,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T20:47:04+00:00",
+  "updatedAt": "2026-08-30T21:07:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
