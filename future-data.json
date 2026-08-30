@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,18 +495,6 @@
       "dates": []
     },
     {
-      "title": "일섭 카이텐저 컷 31이라 들었는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243987&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "진짜 일섭스토리 유혹이 온다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243979&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "내년 예산 800조+α 정부안 공개·정기국회 개원…이번주 주요 일정",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=458611",
       "source": "블루 아카이브 갤러리",
@@ -523,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T14:47:15+00:00",
+  "updatedAt": "2026-08-30T15:06:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
