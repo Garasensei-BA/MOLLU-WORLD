@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 75
+      "count": 76
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -495,8 +501,20 @@
       "dates": []
     },
     {
-      "title": "뭐야 웹이벤트에서 의자 누르니까 청휘석 주는데?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241728&page=1",
+      "title": "이번이벤트는 4434244를 외워",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241865&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번 이벤트 효율이 왜이리 맛없죠",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241851&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "4월 이벤트는 이랬었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241841&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +529,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T09:26:58+00:00",
+  "updatedAt": "2026-08-30T09:47:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
