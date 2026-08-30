@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,20 +495,8 @@
       "dates": []
     },
     {
-      "title": "코스) 1페(일러스타페스란뜻)에서뭘봤냐면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242856&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 쳐야하는데 너무 귀찮네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242853&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 각잡고 해보니까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242841&page=1",
+      "title": "다음주는 점검 없네?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243016&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -529,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T12:07:57+00:00",
+  "updatedAt": "2026-08-30T12:26:58+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
