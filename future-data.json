@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -423,14 +423,8 @@
       "dates": []
     },
     {
-      "title": "자다가도 일어나서 빵캐 더블페스 찬성함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19240081&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 이벤트할때 9번 파밍하는 이유가 뭐임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19240070&page=1",
+      "title": "페스 서폿들은 무지성 전2 + 스킬작 박아줘도 ㄱㅊ?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19240180&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -445,7 +439,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T05:07:00+00:00",
+  "updatedAt": "2026-08-30T05:27:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
