@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,14 +495,20 @@
       "dates": []
     },
     {
-      "title": "와헌 복각이랑 신규이벤이랑 같이나가려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241375&page=1",
+      "title": "아바오 << 거의 페스급 성능같어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241497&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "⭐대회 관리 담당해주실 부매니저를 모집합니다⭐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19078329&page=1",
+      "title": "총력전 방제한시간 2시간으로 늘려줘야함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241489&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "리오 복각 전까지 리오없으면 토먼트 힘든보스 뭐뭐있어??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241485&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +523,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T08:27:14+00:00",
+  "updatedAt": "2026-08-30T08:46:58+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
