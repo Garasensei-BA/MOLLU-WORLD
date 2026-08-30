@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,20 +495,8 @@
       "dates": []
     },
     {
-      "title": "미쿠는 복각 안해주나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19244601&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전이랑 챌린지 하니까 어째서 똥퍼떡인????",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19244597&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "모모이총력전 <- 이거 혹시 하면 특별한 보상 있음???",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19244589&page=1",
+      "title": "미쿠 복각해줄때까지 우리 학생 인정 안함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19244783&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -529,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T16:07:11+00:00",
+  "updatedAt": "2026-08-30T16:27:04+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
