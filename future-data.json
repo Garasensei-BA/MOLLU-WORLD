@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -423,26 +423,8 @@
       "dates": []
     },
     {
-      "title": "시로쿠로 이정도면 드쿠요 복각하고 올생각인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19239450&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "결국 또 시로쿠로는 루나틱은 안오고 또 대결전으로 왔습니다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19239444&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "씨발 또 시로쿠로 대결전이잖아",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19239443&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭) 총력전, 대결전 예고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19239435&page=1",
+      "title": "지금 폭스소대 픽업중임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19239537&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +439,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T03:07:12+00:00",
+  "updatedAt": "2026-08-30T03:27:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
