@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 75
+      "count": 76
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -495,20 +501,14 @@
       "dates": []
     },
     {
-      "title": "아바오 << 거의 페스급 성능같어",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241497&page=1",
+      "title": "이벤트 꼬라지 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241600&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "총력전 방제한시간 2시간으로 늘려줘야함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241489&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "리오 복각 전까지 리오없으면 토먼트 힘든보스 뭐뭐있어??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241485&page=1",
+      "title": "총력전 하면서 느낀건 처음부터 꿈을 크게 가지라는거임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241599&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -523,7 +523,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T08:46:58+00:00",
+  "updatedAt": "2026-08-30T09:07:28+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
