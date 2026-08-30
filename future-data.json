@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,26 +495,14 @@
       "dates": []
     },
     {
-      "title": "용산모펀 4주년페스 굿즈 입고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241297&page=1",
+      "title": "와헌 복각이랑 신규이벤이랑 같이나가려나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241375&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "돌맹이 86000개, 머결10연 1개, 총력전 돌맹이 1000개에",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241294&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 매일매일 했으면 좋겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241291&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이짤 업데이트가 필요하다 진짜",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241272&page=1",
+      "title": "⭐대회 관리 담당해주실 부매니저를 모집합니다⭐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19078329&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -529,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T08:07:03+00:00",
+  "updatedAt": "2026-08-30T08:27:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
