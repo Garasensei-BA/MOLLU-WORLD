@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,8 +495,14 @@
       "dates": []
     },
     {
-      "title": "이번 총력전도 일섭 플래컷 넘을거같누",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243837&page=1",
+      "title": "일섭 카이텐저 컷 31이라 들었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243987&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "진짜 일섭스토리 유혹이 온다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19243979&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -517,7 +523,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T14:27:14+00:00",
+  "updatedAt": "2026-08-30T14:47:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
