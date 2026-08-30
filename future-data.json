@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 75
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -489,8 +495,8 @@
       "dates": []
     },
     {
-      "title": "예전에는 이벤트때 9충 풀충도 했었는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246322&page=1",
+      "title": "팔푼이 이벤트땐 뭐가 있더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246394&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -511,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T22:07:02+00:00",
+  "updatedAt": "2026-08-30T22:27:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
