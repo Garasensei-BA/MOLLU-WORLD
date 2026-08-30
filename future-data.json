@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,8 +495,26 @@
       "dates": []
     },
     {
-      "title": "화요일날 점검 있으면 안되는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241136&page=1",
+      "title": "용산모펀 4주년페스 굿즈 입고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241297&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "돌맹이 86000개, 머결10연 1개, 총력전 돌맹이 1000개에",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241294&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 매일매일 했으면 좋겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241291&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이짤 업데이트가 필요하다 진짜",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19241272&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +529,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T07:47:05+00:00",
+  "updatedAt": "2026-08-30T08:07:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
