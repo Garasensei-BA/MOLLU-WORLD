@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -495,14 +495,8 @@
       "dates": []
     },
     {
-      "title": "오늘은 티켓 이월되니 총력전은 안해야징",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245681&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "야구 카요코 드히나 메리스로 총력전이라 비유하니 개웃기네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245674&page=1",
+      "title": "근데 총력전 리트할때 시간 훅 가있던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245796&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T18:27:01+00:00",
+  "updatedAt": "2026-08-30T18:47:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
