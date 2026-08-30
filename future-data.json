@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -489,14 +489,20 @@
       "dates": []
     },
     {
-      "title": "근데 미쿠 복각 안하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19245986&page=1",
+      "title": "총력전중에서 뜯어고쳐야할 놈들 누구 있나 대보기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246118&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "내년 예산 800조+α 정부안 공개·정기국회 개원…이번주 주요 일정",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=458611",
+      "title": "AP 총력전 딸깍 일퀘 상점 털이 다 끝냄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246113&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭 1위 점수 넘는 사람이 10명이네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19246107&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T19:26:41+00:00",
+  "updatedAt": "2026-08-30T19:47:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
