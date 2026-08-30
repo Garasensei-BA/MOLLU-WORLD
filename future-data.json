@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -493,6 +493,26 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "페도 빙고 또 업데이트 됐네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242267&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 6/6패치는 반쪽짜리 개선임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242238&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    {
+      "title": "'페스딜러는 키워서 서폿빌릴수도있으니 인권이다' < 이거",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19242235&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -505,7 +525,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-30T10:26:57+00:00",
+  "updatedAt": "2026-08-30T10:47:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
