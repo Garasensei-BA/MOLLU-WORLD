@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,12 +38,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-02-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -117,6 +111,12 @@
     {
       "date": "2026-09-01",
       "title": "복각 이벤트 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -495,8 +495,14 @@
       "dates": []
     },
     {
-      "title": "이 이벤트를 30회차 넘긴 사람이 있어??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247829&page=1",
+      "title": "[한섭] '전국노노미협회' 선생님 모집중 (47/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247949&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "돌 3만7천돌있으면 다음이벤트 3충전해말어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247934&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T04:07:35+00:00",
+  "updatedAt": "2026-08-31T04:27:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
