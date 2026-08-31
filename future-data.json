@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 75
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -489,14 +495,14 @@
       "dates": []
     },
     {
-      "title": "통게는 신규 총력전인데 숨기지도 않네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249473&page=1",
+      "title": "9월 총력대결전 빡세네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249577&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "뭐야 다음 쿠로카게 대결전에 폭발도 있어?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249470&page=1",
+      "title": "그니깐 할배들은 가챠개선 + 엔저이벤트까지 받고있다는거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249566&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T08:27:24+00:00",
+  "updatedAt": "2026-08-31T08:47:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
