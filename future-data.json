@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 73
+      "count": 74
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,6 +38,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -483,14 +489,8 @@
       "dates": []
     },
     {
-      "title": "다음달은 5연복각인것인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252284&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "도대체 그림그릴때 선 일정하게 어케함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252264&page=1",
+      "title": "ap 패키지 두개다 사는게 낫겠지? 내일부터시작하는 이벤트도?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252389&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T15:07:11+00:00",
+  "updatedAt": "2026-08-31T15:27:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
