@@ -459,14 +459,14 @@
   ],
   "evidence": [
     {
-      "title": "블루 아카이브 미래시 정보",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "title": "블루 아카이브 미래시 정보",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -483,8 +483,8 @@
       "dates": []
     },
     {
-      "title": "한섭) 갤클 '스쿼드' 에서 선생님 세 분을 모집중!!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252695&page=1",
+      "title": "이벤트 3충풀초 결과",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252817&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T16:07:24+00:00",
+  "updatedAt": "2026-08-31T16:27:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
