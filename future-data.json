@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -489,20 +489,8 @@
       "dates": []
     },
     {
-      "title": "??? 머야 내일 패치 없이 11시에 바로 에리카 픽업 열림?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19250508&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 한섭이름은 그냥 드럼통게네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19250504&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "딱 페스딜러랑 자주쓰는 스페셜 이격까지만 인연50 찍고싶네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19250475&page=1",
+      "title": "내일 무점검임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19250603&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T11:07:15+00:00",
+  "updatedAt": "2026-08-31T11:27:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
