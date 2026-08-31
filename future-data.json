@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,32 +471,32 @@
       "dates": []
     },
     {
+      "title": "아 미래시진자 조오오오온나맵네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253696&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "파딱모집글 보니까 예전 작업물들 예시 글에서 지웠네 ㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253688&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아! 이벤트ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253678&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "폭스이벤트 상점 털었는데 노충 전1이면 ㅅㅌㅊ겠지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253670&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "이번이벤트엘리그마많이줌?",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253659&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "효율이랑 게임성으로 좆물찾기랑 비비는 이벤트였네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253639&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "브론즈 없는거 보니까 총력전 치는사람만 하나보네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253638&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 치다가 화 존나 내고 골딱이다...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253626&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그래도 일섭 플레컷 넘겼네 이번 총력전",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253616&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T20:07:12+00:00",
+  "updatedAt": "2026-08-31T20:27:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
