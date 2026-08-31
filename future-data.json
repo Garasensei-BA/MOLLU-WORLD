@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -465,26 +465,32 @@
       "dates": []
     },
     {
+      "title": "이번이벤트엘리그마많이줌?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253659&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "효율이랑 게임성으로 좆물찾기랑 비비는 이벤트였네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253639&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "브론즈 없는거 보니까 총력전 치는사람만 하나보네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253638&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 치다가 화 존나 내고 골딱이다...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253626&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "그래도 일섭 플레컷 넘겼네 이번 총력전",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253616&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 1번 어케 잡음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253606&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번대결전엔 수로하 전4달아야겟지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253600&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "헌혈이벤트 또한다는건 뭐임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253585&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T19:47:01+00:00",
+  "updatedAt": "2026-08-31T20:07:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
