@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -483,26 +483,20 @@
       "dates": []
     },
     {
-      "title": "아 시발 총력전 쳐야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253046&page=1",
+      "title": "4시 넘어서 이벤트 ap털까 말까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253127&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "우주 최고의 이벤트면 자러감",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253027&page=1",
+      "title": "디시 댓글 업데이트 뭐노",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253095&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "24년 5월에 녹화했던 호드 대결전",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253018&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "수동기 이벤트 결과",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253012&page=1",
+      "title": "빠따 이벤트때 하드2배 있던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253086&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T17:07:10+00:00",
+  "updatedAt": "2026-08-31T17:27:13+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
