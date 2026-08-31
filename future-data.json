@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 75
+      "count": 74
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -495,14 +489,14 @@
       "dates": []
     },
     {
-      "title": "9월 총력대결전 빡세네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249577&page=1",
+      "title": "아니 내일 점검 없는거?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249714&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "그니깐 할배들은 가챠개선 + 엔저이벤트까지 받고있다는거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249566&page=1",
+      "title": "뭐냐 현상수배 티켓 이벤트하냐?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19249697&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T08:47:02+00:00",
+  "updatedAt": "2026-08-31T09:07:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
