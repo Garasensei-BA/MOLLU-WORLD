@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 75
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-04-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -489,14 +495,20 @@
       "dates": []
     },
     {
-      "title": "근데 수마전 나오고나니까 다음 페스캐 예측이 안되네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19248768&page=1",
+      "title": "뭐야 ㅅㅂ 총력전 이틀에 한번만 쳐도 되는걸로 바뀜?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19248906&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭으로 오토기 파밍 다시하다가 우러써..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19248766&page=1",
+      "title": "총력전도 한번이라도 클했으면 소탕 가능하게 해야함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19248894&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수나코<정공전 스토리 대결전 총력전 시험 다 씀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19248888&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +523,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T06:46:59+00:00",
+  "updatedAt": "2026-08-31T07:07:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
