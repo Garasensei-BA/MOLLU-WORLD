@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 75
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -489,20 +495,8 @@
       "dates": []
     },
     {
-      "title": "미래시 이정도만 뽑고 넘어가야겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247306&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "난 블갤에서 미쿠 복각해달라는 새끼들이 제일 어이없음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247302&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 주간에 2일 미접이라...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247287&page=1",
+      "title": "이번 이벤트는 대체 누구아이디어였을까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247384&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T02:27:09+00:00",
+  "updatedAt": "2026-08-31T02:47:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
