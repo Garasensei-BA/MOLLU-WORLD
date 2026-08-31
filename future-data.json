@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -487,6 +487,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "넥겜도 느낀 게 있는지 요새는 복각 곁다리 실장 잘 안 하더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247182&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "내년 예산 800조+α 정부안 공개·정기국회 개원…이번주 주요 일정",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=458611",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -499,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T01:47:05+00:00",
+  "updatedAt": "2026-08-31T02:07:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
