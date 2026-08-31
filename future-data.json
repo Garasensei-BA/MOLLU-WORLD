@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -31,12 +31,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-01-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-02-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -44,6 +38,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -495,14 +495,8 @@
       "dates": []
     },
     {
-      "title": "오늘 이벤트막날인데 오토기조각 한참부족함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247744&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 칠 놈들은 다 쳤겠지ㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247728&page=1",
+      "title": "이 이벤트를 30회차 넘긴 사람이 있어??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19247829&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T03:47:13+00:00",
+  "updatedAt": "2026-08-31T04:07:35+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
