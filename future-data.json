@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 73
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,12 +26,6 @@
     },
     {
       "date": "2026-01-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -489,32 +483,26 @@
       "dates": []
     },
     {
-      "title": "미래시에 통게 때 쓰이는 학생들 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253254&page=1",
+      "title": "총력전 첫 싱글도전 개같이 패배한 후기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253339&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭 << 그냥 대결전을 시러함...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253251&page=1",
+      "title": "이번 페스에서 미야코가 나왔으면 좋겠네…",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253313&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭컷만 믿고 잠자러 간 블붕이 아침에 오열하겠네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253249&page=1",
+      "title": "총력전 치는 도중에 새벽4시 넘어가면 어케됨",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253310&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "오랜만에 총력전치는맛 났음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253248&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "진짜 총력전 치는 색기...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253246&page=1",
+      "title": "내일 점검있지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253309&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -529,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T18:07:34+00:00",
+  "updatedAt": "2026-08-31T18:27:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
