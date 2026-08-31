@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 73
+      "count": 74
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -481,24 +487,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "4시 넘어서 이벤트 ap털까 말까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253127&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "디시 댓글 업데이트 뭐노",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253095&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "빠따 이벤트때 하드2배 있던데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253086&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -511,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T17:27:13+00:00",
+  "updatedAt": "2026-08-31T17:47:10+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
