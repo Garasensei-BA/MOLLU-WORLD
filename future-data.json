@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-05-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,6 +465,12 @@
       "dates": []
     },
     {
+      "title": "블린이 총력전 결산",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253785&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "총력전 트로피 받기 기다리는 중",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253755&page=1",
       "source": "블루 아카이브 갤러리",
@@ -479,12 +479,6 @@
     {
       "title": "오늘 노점검 맞지?",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253748&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "씽씽한 뉴비의 총력전 결산",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253725&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T21:07:13+00:00",
+  "updatedAt": "2026-08-31T21:27:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
