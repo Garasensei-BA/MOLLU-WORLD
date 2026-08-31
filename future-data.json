@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -483,26 +483,14 @@
       "dates": []
     },
     {
-      "title": "총력전 첫 싱글도전 개같이 패배한 후기",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253339&page=1",
+      "title": "슬슬 일섭상점 털까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253394&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이번 페스에서 미야코가 나왔으면 좋겠네…",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253313&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 치는 도중에 새벽4시 넘어가면 어케됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253310&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "내일 점검있지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253309&page=1",
+      "title": "반박불가 블아 역사상 이벤트 GOAT",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253370&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -517,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T18:27:09+00:00",
+  "updatedAt": "2026-08-31T18:47:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
