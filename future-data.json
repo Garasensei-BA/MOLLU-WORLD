@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 75
+      "count": 74
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -111,12 +111,6 @@
     {
       "date": "2026-09-01",
       "title": "복각 이벤트 확정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-04",
-      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -495,8 +489,20 @@
       "dates": []
     },
     {
-      "title": "8월 낙서 모음(일섭 포함)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19251152&page=1",
+      "title": "니미랄 왜 내가 한번 유기치니까 한섭새끼들 또 다같이 1팟지랄함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19251333&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "픽업 한번 걸렀다고 선생 개패는 미친년",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19251329&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번총력전도 돈쓴깔개다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19251308&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +517,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T12:47:01+00:00",
+  "updatedAt": "2026-08-31T13:07:21+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
