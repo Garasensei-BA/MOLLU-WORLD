@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 73
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -73,26 +73,8 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-24",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-08-31",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-31",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -483,14 +465,14 @@
       "dates": []
     },
     {
-      "title": "슬슬 일섭상점 털까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253394&page=1",
+      "title": "총력전 세자릿수 등수는 실패했지만 기록은 갱신했네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253480&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "반박불가 블아 역사상 이벤트 GOAT",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253370&page=1",
+      "title": "한섭 12000등 = 일섭 19631등",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19253477&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-08-31T18:47:18+00:00",
+  "updatedAt": "2026-08-31T19:07:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
