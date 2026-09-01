@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,20 +453,14 @@
       "dates": []
     },
     {
-      "title": "8월 10일부터 계속 모집해도 신규 노예가 모집되지 않는거면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256793&page=1",
+      "title": "이벤트 1지역 깨고 2지역 오토로 넘어가는 기능 추가쩜",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256961&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭 게헨나 멘스 언제쯤이지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256792&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 루나틱 난이도는 시간제한좀 늘려주면안되나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256791&page=1",
+      "title": "뭔 시간드립이여 여름이벤트횟수만 세보면 되겠네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256953&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T08:50:45+00:00",
+  "updatedAt": "2026-09-01T09:14:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
