@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,20 @@
       "dates": []
     },
     {
-      "title": "이번 이벤트 질문",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19258727&page=1",
+      "title": "개블븽 이벤트 일퀘 해씀 안해씀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19258896&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭 공지 이거 좀 웃기네 ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19258872&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "폭스 이벤트재화 날아가지??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19258871&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -481,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T14:14:02+00:00",
+  "updatedAt": "2026-09-01T14:32:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
