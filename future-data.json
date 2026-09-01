@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -459,20 +459,8 @@
       "dates": []
     },
     {
-      "title": "용하야 종전시랑 총력전 티켓 최대보유량은 늘렸는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260179&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "왜 하필 쿠로카게 끝나고 드아루 픽업인데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260176&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "복각 시즌 1호 꽝!!!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260169&page=1",
+      "title": "카페스냅(16장)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -493,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T19:47:17+00:00",
+  "updatedAt": "2026-09-01T20:13:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
