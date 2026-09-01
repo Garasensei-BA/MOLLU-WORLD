@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "이벤트 축전 컄ㅋㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256613&page=1",
+      "title": "클뜯)에 다음 이벤트 일정있나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256728&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블할배들 이벤트 복각하면 심심해서 어떻게 산대",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256712&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T08:15:10+00:00",
+  "updatedAt": "2026-09-01T08:33:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
