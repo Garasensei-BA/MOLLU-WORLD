@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,14 +441,32 @@
       "dates": []
     },
     {
+      "title": "현재 진행중 이벤트/총력,대결,제결전/종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "블루 아카이브 미래시 정보",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "현재 진행중 이벤트/총력,대결,제결전/종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "title": "수미카가 주력으로 나가는 총력전이 예소드 뿐인가?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255241&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번 이벤트 파밍질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255240&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "늅 이오리 읍는데 아카이브 모집 해도될까?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255223&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T03:14:02+00:00",
+  "updatedAt": "2026-09-01T03:32:26+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
