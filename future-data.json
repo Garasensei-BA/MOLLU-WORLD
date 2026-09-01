@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,20 +453,8 @@
       "dates": []
     },
     {
-      "title": "이번 이벤트 뭐 캐면 됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257710&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "코기브레이브스 복각",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257696&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "\"바다\" 전 순위 점검",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257680&page=1",
+      "title": "이번 이벤트 9지가 안깨져",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257792&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -487,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T11:30:52+00:00",
+  "updatedAt": "2026-09-01T11:48:22+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
