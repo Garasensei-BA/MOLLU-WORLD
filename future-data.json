@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -74,12 +74,6 @@
     },
     {
       "date": "2026-09-01",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,32 +453,8 @@
       "dates": []
     },
     {
-      "title": "소신발언) 총력전 종전시 일일보상도 대결전처럼 개편해라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259435&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "종전시랑 총력전 티켓 수 늘어난거 존나 편하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259427&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "혹시 게헨나페스전에 뽑아야할 통상친구있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259422&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 종전시 일퀘는 개선없음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259421&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 보니까 수코토 수츠키 전에는 뽑을게 없네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259413&page=1",
+      "title": "카페스냅(16장)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -505,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T15:51:08+00:00",
+  "updatedAt": "2026-09-01T16:38:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
