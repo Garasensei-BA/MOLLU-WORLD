@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,26 @@
       "dates": []
     },
     {
-      "title": "한섭 전용OST GOAT ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259845&page=1",
+      "title": "아무래도 한섭 노래는 “온도”가 최고지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259904&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭버전보다 한섭버전 더 좋아하는 블브 OST",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259824&page=1",
+      "title": "뉴비인데 이 게임도 이벤트 나오면 올스탑하고 이벤트 맵만 돌아?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19259901&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "카페스냅(16장)",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "부다페스트 기록",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T17:30:30+00:00",
+  "updatedAt": "2026-09-01T17:47:04+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
