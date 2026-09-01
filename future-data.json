@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "노조미 복각하면 뽑을까 고민됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260203&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "카페스냅(16장)",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
+      "title": "IOS 업데이트가 있네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260251&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T20:13:44+00:00",
+  "updatedAt": "2026-09-01T20:30:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
