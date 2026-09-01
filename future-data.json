@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-04-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "님들 이번 플레이볼 이벤트 몇충했음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257376&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 시간 업적 코구는 원래 90초였나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257357&page=1",
+      "title": "이벤트 보너스 숨이 턱 막히네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257457&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -481,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T10:34:12+00:00",
+  "updatedAt": "2026-09-01T10:50:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
