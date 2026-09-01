@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,6 +453,18 @@
       "dates": []
     },
     {
+      "title": "한섭 통게는 몇명이나 깨려나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260349&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "쿠지락스 대결전은 또 왤케 어려워보이지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260346&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "요즘 총력전에 대한 애정이 식었어",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260339&page=1",
       "source": "블루 아카이브 갤러리",
@@ -465,8 +477,8 @@
       "dates": []
     },
     {
-      "title": "야구이벤 끝나면 페스까지 풀초할거 없나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260300&page=1",
+      "title": "부다페스트 기록",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T21:47:24+00:00",
+  "updatedAt": "2026-09-01T22:12:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
