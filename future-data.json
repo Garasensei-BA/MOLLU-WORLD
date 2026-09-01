@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,8 +459,20 @@
       "dates": []
     },
     {
-      "title": "페스전에 뽑을 것",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255711&page=1",
+      "title": "절대 1천장 내로는 픽업을 안주네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255810&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "님들 통게때나오는 로어추적은 아무이벤트아니라들엇는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255803&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "업데이트는 미리미리 해 놔야겠음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255772&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T05:12:20+00:00",
+  "updatedAt": "2026-09-01T05:30:48+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
