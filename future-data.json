@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,14 +453,20 @@
       "dates": []
     },
     {
-      "title": "부다페스트 기록",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
+      "title": "님들 이번 플레이볼 이벤트 몇충했음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257376&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "더벤티 포카 이벤트 참여 매장 & 세트 구성 공개",
-      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=902405",
+      "title": "이벤트 시간 업적 코구는 원래 90초였나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257357&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "부다페스트 기록",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T10:14:05+00:00",
+  "updatedAt": "2026-09-01T10:34:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
