@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,20 +453,14 @@
       "dates": []
     },
     {
-      "title": "와 이벤트 씨발 밀레책에 게임기선물 ㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256044&page=1",
+      "title": "왜 종전시는 총력전같은 패치 안들어옴",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256125&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "지금은 걍 이벤트돌면됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256037&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "파딱모집 끌올해도 상관 없는 이유ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256036&page=1",
+      "title": "미요 이벤트창 대사 다시봐도 소름이돋네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19256122&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T06:17:59+00:00",
+  "updatedAt": "2026-09-01T06:39:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
