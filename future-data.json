@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,20 @@
       "dates": []
     },
     {
-      "title": "유우카 페스 의외로 가능성이 보이기 시작했음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260083&page=1",
+      "title": "언젠가 나올 카구야 이벤트 기대중임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260130&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "와뭐야 누가 나무위키 블아 이벤트 이쁘게 정리했네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260126&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "인술부특) 각자 주인공인 이벤트가 하나씩 있음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260115&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -481,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T18:50:54+00:00",
+  "updatedAt": "2026-09-01T19:12:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
