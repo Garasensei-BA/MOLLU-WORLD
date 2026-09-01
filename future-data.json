@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,6 +38,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,26 +459,14 @@
       "dates": []
     },
     {
-      "title": "한섭 통게는 몇명이나 깨려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260349&page=1",
+      "title": "복각) 스타디움 모티브",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260389&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "쿠지락스 대결전은 또 왤케 어려워보이지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260346&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "요즘 총력전에 대한 애정이 식었어",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260339&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "어제 이벤트 일퀘 못했다 ㅅㅂㅅㅂ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260336&page=1",
+      "title": "이번 총력전은... 현생과 귀찮음으로 마무리",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260376&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T22:12:14+00:00",
+  "updatedAt": "2026-09-01T22:30:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
