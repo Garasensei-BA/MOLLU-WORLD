@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,22 +453,18 @@
       "dates": []
     },
     {
-      "title": "[한섭] 역사와 전통있는 갤클 '오리' 정교사 구인 41/50",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257965&page=1",
+      "title": "캄보디아 취업모집 자꾸 뜨네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19258068&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "정말 플레이볼 이벤트는",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257961&page=1",
+      "title": "⭐대회 관리 담당 부매니저를 모집합니다⭐ (~9/4)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19078329&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "부다페스트 기록",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
+      "dates": [
+        "2026-09-04"
+      ]
     }
   ],
   "source_counts": {
@@ -481,7 +477,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T12:18:01+00:00",
+  "updatedAt": "2026-09-01T12:38:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
