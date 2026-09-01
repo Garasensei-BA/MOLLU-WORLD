@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "이번 이벤트 9지가 안깨져",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257792&page=1",
+      "title": "[한섭] 역사와 전통있는 갤클 '오리' 정교사 구인 41/50",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257965&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "정말 플레이볼 이벤트는",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257961&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T11:48:22+00:00",
+  "updatedAt": "2026-09-01T12:18:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
