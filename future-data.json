@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-17",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,26 +465,20 @@
       "dates": []
     },
     {
-      "title": "총력전 고점갱신 성공",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254558&page=1",
+      "title": "한섭 수슌 이벤 언제임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254657&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "복각이 올동안 레이 알바스미레 둘 다 못 뽑았군",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254549&page=1",
+      "title": "완장모집글 끌올할게 아니라 웹이벤 정보를 끌올했었어야하는거아님?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254626&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "로어 추적 작전 복각하는 거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254527&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "니코 웹 이벤트 어떻게 하는거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254517&page=1",
+      "title": "새삼 volks소대 이벤트 굉장히 개쓰레기구나...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19254623&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T01:12:43+00:00",
+  "updatedAt": "2026-09-01T01:29:10+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
