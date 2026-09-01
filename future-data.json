@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-04-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-05-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "이벤트 보너스 숨이 턱 막히네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257457&page=1",
+      "title": "종합전술시험 쌀먹캐 140코",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257573&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "작년 프레이볼 이벤트 시기땐 야구판 재밌게 돌아갔는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19257567&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -481,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T10:50:52+00:00",
+  "updatedAt": "2026-09-01T11:12:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
