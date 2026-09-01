@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,6 +429,12 @@
   ],
   "evidence": [
     {
+      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -445,36 +451,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "신규 『특수작전: 로어추적 편 (1차)』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19124997&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 파밍 끗",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255032&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "머야 오늘 무점검이야?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255030&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 왜 무점검임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255019&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "Pray-Ball 이벤트에서 3충까지만 추천하는 이유",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19255007&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -487,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T02:48:48+00:00",
+  "updatedAt": "2026-09-01T03:14:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
