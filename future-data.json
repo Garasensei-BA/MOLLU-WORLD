@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "학생회/최강자/주인공들/칠수인 페스캐가 되어도 안이상한듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19264967&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음주는 역시 신규스토리없이 복각이려나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19264962&page=1",
+      "title": "한섭) 공산당에서 아쎄이 모집중!!!!!!!!!!(48/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19265119&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T14:32:32+00:00",
+  "updatedAt": "2026-09-02T14:51:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
