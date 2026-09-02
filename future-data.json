@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "총력전 전술시 일퀘 좀 대결전화 해다오",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19264486&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "3성 선택권 누구 모집함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19264470&page=1",
+      "title": "일섭) 친추할 블빙",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19264588&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T13:15:34+00:00",
+  "updatedAt": "2026-09-02T13:32:35+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
