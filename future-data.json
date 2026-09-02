@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,6 +38,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,14 +435,14 @@
   ],
   "evidence": [
     {
-      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -453,8 +459,14 @@
       "dates": []
     },
     {
-      "title": "왜이리 좆구떡밥이 많나 했더니 한섭 좆구이벤이구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19265350&page=1",
+      "title": "갠적으로 페스캐 있고 없고 제일 크게 느낀건 수나코임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19265463&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "직전 대결전 티켓 에리카에 털거같은데 매너연만 하는게 낫지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19265459&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T15:37:32+00:00",
+  "updatedAt": "2026-09-02T15:53:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
