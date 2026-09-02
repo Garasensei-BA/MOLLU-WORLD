@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,20 @@
       "dates": []
     },
     {
-      "title": "이번 픽업은 거르고 돌 모아야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19261064&page=1",
+      "title": "아아아 호버 대결전 드치루 머죠",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19261185&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "카페스냅(16장)",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
+      "title": "총력전에 B붙은 학생 뭐임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19261182&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "어제 종전시도 안 하고 이벤트도 안 밀고 카페ap도 안 뺐네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19261152&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T02:32:44+00:00",
+  "updatedAt": "2026-09-02T02:52:20+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
