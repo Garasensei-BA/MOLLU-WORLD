@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -74,6 +74,12 @@
     },
     {
       "date": "2026-09-01",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "생각해보니 다음페스부턴 수나코 드히나 안나오는거아님?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266180&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아 이벤트 일퀘 수령 안하고 껐다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266178&page=1",
+      "title": "5주년 페스티벌이 언제지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266226&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T20:32:18+00:00",
+  "updatedAt": "2026-09-02T20:49:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
