@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,20 +453,14 @@
       "dates": []
     },
     {
+      "title": "미래시 계획",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266369&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "가챠 미래시 엄청 여유롭네",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266365&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전은 익스트림까지만 해야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266331&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "픽업 패키지로 수코토 전4 찍기 편한게 진짜 좋음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266327&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T22:31:57+00:00",
+  "updatedAt": "2026-09-02T22:48:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
