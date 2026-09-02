@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-04-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-04-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,20 +459,20 @@
       "dates": []
     },
     {
-      "title": "뭔가 와헌 복각 할때쯤",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260571&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "부다페스트 기록",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
+      "title": "한섭은 이제 돌모으는 돌릿고개 시기임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19260636&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
       "title": "카페스냅(16장)",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459265",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "부다페스트 기록",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=459199",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-01T23:47:05+00:00",
+  "updatedAt": "2026-09-02T00:21:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
