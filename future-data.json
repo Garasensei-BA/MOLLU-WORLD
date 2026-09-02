@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-04-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,8 +459,20 @@
       "dates": []
     },
     {
-      "title": "일섭에서 슌만 들고갔다가 지옥이었음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266289&page=1",
+      "title": "총력전은 익스트림까지만 해야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266331&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "픽업 패키지로 수코토 전4 찍기 편한게 진짜 좋음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266327&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아 어제 총력전 안 쳤네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19266309&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-02T21:48:06+00:00",
+  "updatedAt": "2026-09-02T22:13:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
