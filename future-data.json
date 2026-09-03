@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "페로로 대결전 티켓 1장 어따쓰지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268089&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 페스 방송이 두려움",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268059&page=1",
+      "title": "이번에 2주복각임 3주 복각임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268178&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T05:14:12+00:00",
+  "updatedAt": "2026-09-03T05:49:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
