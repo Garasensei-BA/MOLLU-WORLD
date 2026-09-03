@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -74,6 +74,12 @@
     },
     {
       "date": "2026-09-01",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "좆냥이대결전 폭발 히나가 인기많나 토키가 인기많나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268688&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이거 복각 했으면 좋을듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268670&page=1",
+      "title": "미쿠 복각 원츄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268771&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T07:31:53+00:00",
+  "updatedAt": "2026-09-03T07:49:46+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
