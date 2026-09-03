@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "한섭붕이 이때까지 게헨나스토리 스포당한것들",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19271288&page=1",
+      "title": "쿠로카게 대결전 10뽑 언제까지임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19271410&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "샬레에서 모집 안 한 애들은 선생한테 생일 축하도 못 받겠네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19271402&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T15:49:12+00:00",
+  "updatedAt": "2026-09-03T16:14:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
