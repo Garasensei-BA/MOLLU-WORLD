@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,12 +56,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "갤클 9340 정실은시로코 모집중....(49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19270222&page=1",
+      "title": "아니시발나일섭이정도였나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19270282&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수야코 뽑고싶은데 이제 복각 안하지??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19270278&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T12:39:33+00:00",
+  "updatedAt": "2026-09-03T12:56:10+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
