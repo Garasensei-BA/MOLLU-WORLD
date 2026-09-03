@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,14 @@
       "dates": []
     },
     {
-      "title": "캄보디아 취업모집 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19267058&page=1",
+      "title": "페로로 대결전 티켓 1장 어따쓰지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268089&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "념글 정독하려고 올때마다 파딱 모집글 끌올돼있노",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19267029&page=1",
+      "title": "다음 페스 방송이 두려움",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19268059&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T02:17:32+00:00",
+  "updatedAt": "2026-09-03T05:14:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
