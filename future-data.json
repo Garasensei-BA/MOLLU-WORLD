@@ -61,6 +61,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-06-06",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-08-19",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -385,12 +391,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-12-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-12-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -459,8 +459,8 @@
       "dates": []
     },
     {
-      "title": "일섭 100만 구독자 보너스는 언제 주는거삼??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19269788&page=1",
+      "title": "여기 한정중에 복각하면 뽑을만한애들있음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19269855&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-03T11:12:47+00:00",
+  "updatedAt": "2026-09-03T11:30:28+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
