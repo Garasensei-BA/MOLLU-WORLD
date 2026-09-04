@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -61,12 +61,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-07-09",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-08-19",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -80,6 +74,12 @@
     },
     {
       "date": "2026-09-01",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,20 +459,14 @@
       "dates": []
     },
     {
-      "title": "슬슬 레드윈터 이벤트할 시기인데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275052&page=1",
+      "title": "종합전술시험 ❌️",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275187&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭도 칼학때 카케로우 풀버젼 나옴?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275049&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "에리카 픽업 기념 \"그거\" 재업",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275016&page=1",
+      "title": "에리카 픽업은 물론이고 걍 수마전까지 가챠를 참고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275171&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T08:50:42+00:00",
+  "updatedAt": "2026-09-04T09:14:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
