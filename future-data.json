@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "아니씨발 이벤트 일일미션 있었네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277083&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 대머리 하기 싫으니깐 총력루나틱 영상 봐야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277073&page=1",
+      "title": "페스때 수사키랑 수야코 통언뜬할수있게해주세요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277181&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T15:13:34+00:00",
+  "updatedAt": "2026-09-04T15:31:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
