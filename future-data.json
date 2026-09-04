@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "빡빡이 야구 이벤트 브금에 소비에트 연방 찬가 넣었네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276992&page=1",
+      "title": "아니씨발 이벤트 일일미션 있었네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277083&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전 대머리 하기 싫으니깐 총력루나틱 영상 봐야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277073&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T14:49:30+00:00",
+  "updatedAt": "2026-09-04T15:13:34+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
