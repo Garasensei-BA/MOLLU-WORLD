@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,8 +459,20 @@
       "dates": []
     },
     {
-      "title": "모든 통상 학생들이 언젠간 다 복각함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19274979&page=1",
+      "title": "슬슬 레드윈터 이벤트할 시기인데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275052&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭도 칼학때 카케로우 풀버젼 나옴?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275049&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "에리카 픽업 기념 \"그거\" 재업",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19275016&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T08:33:19+00:00",
+  "updatedAt": "2026-09-04T08:50:42+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
