@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -451,30 +451,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "일섭에 아직 수부키 성능검증 된거 없지??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276444&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 쿠로카게 폭발 아루 질문점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276441&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 주 에리카 픽업이 진짜진짜 중요함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276434&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "담주 픽업 에리카 가바키 가피나 우미카임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276416&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -487,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T13:14:37+00:00",
+  "updatedAt": "2026-09-04T13:31:58+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
