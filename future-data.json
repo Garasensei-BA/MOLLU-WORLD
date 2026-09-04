@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,32 @@
       "dates": []
     },
     {
-      "title": "페스때 수사키랑 수야코 통언뜬할수있게해주세요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277181&page=1",
+      "title": "블아 PC방 이벤트 하면 어케됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277250&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수나코 제일 큰 문제점이 복각 주기임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277245&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "피시방이벤트 = 개좆같은 이벤이 맞음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277236&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 다들 뭘로침 친구에 수코토 한명도없네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277229&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블아는 피시방 이벤트 없어서 다행이다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19277224&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T15:31:45+00:00",
+  "updatedAt": "2026-09-04T15:48:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
