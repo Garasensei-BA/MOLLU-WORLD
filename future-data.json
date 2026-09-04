@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -451,6 +451,24 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "일섭에 나온 엘레프패키지 이거 맞음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19273451&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이벤트 지역소탕에 만계도 넣어둔게 ㄹㅇ 개좋네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19273445&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "핫산) 공식 4컷 288화 - 인원 점검",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19273434&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -463,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T03:48:56+00:00",
+  "updatedAt": "2026-09-04T04:13:38+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
