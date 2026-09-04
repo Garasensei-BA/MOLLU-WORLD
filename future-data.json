@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-04-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -99,12 +105,6 @@
     {
       "date": "2026-09-08",
       "title": "이벤트 상설화 확정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -457,6 +457,24 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "근데 총대결전 솔직히 재밌을때는 재밌긴함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276875&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "쿠로카게 대결전 첫날 플레 주차 저장용",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276862&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "[한섭] 아루는멍청하고 생각이 없어 (47/50) 모집중",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19276855&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -469,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-04T14:12:54+00:00",
+  "updatedAt": "2026-09-04T14:31:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
