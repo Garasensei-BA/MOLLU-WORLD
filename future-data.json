@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 11
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,18 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -422,6 +434,18 @@
     },
     {
       "date": "2026-12-29",
+      "title": "메인 스토리",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-01-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,44 +477,8 @@
       "dates": []
     },
     {
-      "title": "일섭 메인스 주기 무슨 일이냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280509&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 픽업 뭐가 나와도 대박인데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280498&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "어이, 준비는 되었나 한섭?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280494&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "\"렌고쿠. 너도 일섭을 하지 않겠나?\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280492&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "스미카사유리사나에픽업기대합니다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280487&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이시발미래시삭제해!!!!!!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280465&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "60만돌뿌리고 미래시없애줘",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280464&page=1",
+      "title": "저번 대결전 티켓 어디 털지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19280635&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T06:16:29+00:00",
+  "updatedAt": "2026-09-05T06:34:27+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
