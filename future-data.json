@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,26 @@
       "dates": []
     },
     {
-      "title": "에리카 픽업때 기우제라도 지내야하겠는디...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279333&page=1",
+      "title": "후유 픽업 완료",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279384&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이벤트 탄력장갑 추천좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279321&page=1",
+      "title": "일섭 이때방송은 머하는거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279380&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "트위터 일섭 계정 역대 좋아요 Top 10.tweet",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279377&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "잘있어라 스레기이벤트",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19279365&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T02:31:43+00:00",
+  "updatedAt": "2026-09-05T02:48:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
