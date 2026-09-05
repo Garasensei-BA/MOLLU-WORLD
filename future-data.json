@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 0
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,12 +62,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -451,32 +445,7 @@
       "source": "몰루로그"
     }
   ],
-  "evidence": [
-    {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "현재 진행중 이벤트/총력,대결,제결전/종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "블루 아카이브 미래시 정보",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    }
-  ],
+  "evidence": [],
   "source_counts": {
     "몰루로그": 69
   },
@@ -487,7 +456,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T14:47:14+00:00",
+  "updatedAt": "2026-09-05T15:12:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
