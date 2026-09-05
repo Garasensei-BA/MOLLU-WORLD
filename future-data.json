@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,20 @@
       "dates": []
     },
     {
-      "title": "옆집 페스 근황 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19283847&page=1",
+      "title": "이벤트 페이지 들어갈때마다 레이 보니까 뭔가 좋네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19283903&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "모던워페어2(2009)가 업데이트를 하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19283835&page=1",
+      "title": "모의총력전에 속성변경도 있으면 좋았을텐데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19283898&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "쿠로카게 대결전은 이렇게 3개 해볼까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19283893&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -499,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T15:29:45+00:00",
+  "updatedAt": "2026-09-05T15:46:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
