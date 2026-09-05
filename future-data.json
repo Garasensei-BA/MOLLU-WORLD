@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,12 +471,6 @@
       "dates": []
     },
     {
-      "title": "그냥 여름하늘 복각픽업이려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19284591&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "싱글벙글 갈수록 뮤직페스티벌 라인업이 구려지는 이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460496",
       "source": "블루 아카이브 갤러리",
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T18:32:57+00:00",
+  "updatedAt": "2026-09-05T18:49:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
