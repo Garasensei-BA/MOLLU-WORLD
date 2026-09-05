@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -56,6 +56,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,8 +459,20 @@
       "dates": []
     },
     {
-      "title": "종전시 일퀘 삭제하고 대결전처럼 주간퀘로 바꿔",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19278691&page=1",
+      "title": "전역하고 복학하니까 블브 일섭 오픈하던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19278866&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭기준이면 블아오픈때 중1이었으면 지금 수능치는애들아님?ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19278862&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수영복 페스 이젠 멈춰야할때",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19278845&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T00:21:28+00:00",
+  "updatedAt": "2026-09-05T00:51:20+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
