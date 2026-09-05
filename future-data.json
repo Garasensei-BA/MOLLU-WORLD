@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,20 @@
       "dates": []
     },
     {
-      "title": "한섭 미니스하나 나오니 일섭 메인스하나 더 나오네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281034&page=1",
+      "title": "수파티 다음은 와헌 복각으로 츠무기 실장일가 매지컬 복각일가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281183&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "스토리 몰아서 보려는데 이벤트 스토리는 ap먹음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281025&page=1",
+      "title": "일섭 신캐들 그림",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281165&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수파티 복각하면서 추가 실장 있으려나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281157&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T07:47:20+00:00",
+  "updatedAt": "2026-09-05T08:13:29+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
