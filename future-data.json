@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,8 @@
       "dates": []
     },
     {
-      "title": "수파티 복각기념 무거운 마음으로 소신발언",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281343&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "원래 디시콘 업데이트가 됐었나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281329&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 몇달남았음??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281325&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "여름수영복이벤트GOAT복각임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281306&page=1",
+      "title": "그냥 에브리데이가 페스티벌이니까 모든 캐릭이 페스캐라고 하면 안됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19281410&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-05T08:47:51+00:00",
+  "updatedAt": "2026-09-05T09:12:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
