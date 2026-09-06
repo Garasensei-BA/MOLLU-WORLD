@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,24 +471,6 @@
       "dates": []
     },
     {
-      "title": "용하 혹시 이상한 이벤트 하는거 좋아함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19285152&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "개인적으로 대결전 그렇게 싫어하지 않음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19285150&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 이틀전 두근거리더라구요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19285139&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "싱글벙글 갈수록 뮤직페스티벌 라인업이 구려지는 이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460496",
       "source": "블루 아카이브 갤러리",
@@ -511,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T00:23:23+00:00",
+  "updatedAt": "2026-09-06T00:53:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
