@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,20 @@
       "dates": []
     },
     {
-      "title": "\"제가 이 차량으로 픽업해드리죠\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290699&page=1",
+      "title": "뭐? 이벤트 일퀘가 있었다고?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290784&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
       "title": "공무원 악성 민원 업데이트.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "안내산악회 일정 확인할 수 있는 사이트 만들었어",
+      "url": "https://gall.dcinside.com/board/view/?id=climbing&no=384062",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T23:29:04+00:00",
+  "updatedAt": "2026-09-06T23:47:04+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
