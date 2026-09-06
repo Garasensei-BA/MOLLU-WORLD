@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,19 +471,10 @@
       "dates": []
     },
     {
-      "title": "근데이번일섭페로로는 사람 반속문제아님??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290143&page=1",
+      "title": "엘리그마 4천개인데 페스 딜러 전원 전3이면 슬슬 투자좀 할까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290175&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "임시노 첫출시 페로로 일섭 토먼트클 3.3만 한섭 1.7만이었네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290127&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-01-07",
-        "2026-03-03"
-      ]
     },
     {
       "title": "공무원 악성 민원 업데이트.jpg",
@@ -502,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T17:28:54+00:00",
+  "updatedAt": "2026-09-06T17:47:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
