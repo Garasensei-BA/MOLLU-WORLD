@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,18 +471,6 @@
       "dates": []
     },
     {
-      "title": "한섭 빠따 끝나면 매화원인가??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19286707&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "플딱이만 할건데 픽업 질문!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19286705&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "싱글벙글 갈수록 뮤직페스티벌 라인업이 구려지는 이유",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460496",
       "source": "블루 아카이브 갤러리",
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T06:36:07+00:00",
+  "updatedAt": "2026-09-06T06:52:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
