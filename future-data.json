@@ -55,12 +55,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-03-08",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-04-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -68,6 +62,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,14 +477,14 @@
       "dates": []
     },
     {
-      "title": "혹시 이번주 점검후에 총결산이냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290367&page=1",
+      "title": "코구가 개노잼 이벤트라는 잼알못들 주목.",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290407&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "공무원 악성 민원 업데이트.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
+      "title": "이 노잼 이벤트는 뭔데 기간이 8일이나 더 남음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290402&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T19:11:25+00:00",
+  "updatedAt": "2026-09-06T19:28:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
