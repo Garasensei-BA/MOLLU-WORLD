@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,10 +471,18 @@
       "dates": []
     },
     {
-      "title": "공무원 악성 민원 업데이트.jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
+      "title": "현재 미쳐버린 일섭 페로로 점수 근황 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19289936&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "4.5pv 공개일 23년4월22일 , 2부 업데이트 26년4월21일",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19289919&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-04-05"
+      ]
     }
   ],
   "source_counts": {
@@ -487,7 +495,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T16:13:57+00:00",
+  "updatedAt": "2026-09-06T16:31:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
