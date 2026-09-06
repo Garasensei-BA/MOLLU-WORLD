@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -469,24 +469,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "복각실장<<본편 이타도리 같은 거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19285696&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 수파티 정도면 걍 복각에 신캐 둘 넣어주지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19285680&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "싱글벙글 갈수록 뮤직페스티벌 라인업이 구려지는 이유",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460496",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -499,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T03:13:20+00:00",
+  "updatedAt": "2026-09-06T03:31:36+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
