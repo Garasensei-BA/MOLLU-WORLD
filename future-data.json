@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,12 +471,6 @@
       "dates": []
     },
     {
-      "title": "총력전도우미 만들어봄",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19289762&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "공무원 악성 민원 업데이트.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
       "source": "블루 아카이브 갤러리",
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T15:47:27+00:00",
+  "updatedAt": "2026-09-06T16:13:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
