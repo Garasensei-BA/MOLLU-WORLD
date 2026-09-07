@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "한섭 한줌단 새끼들 진짜 눈치도없이 끼어드는거 ㅈ같음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293825&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "드아루<<없으면 이번 픽업 무조건 들어가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293822&page=1",
+      "title": "다음 페스 남들이 2중픽업 할 때",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293961&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T10:14:09+00:00",
+  "updatedAt": "2026-09-07T10:32:58+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
