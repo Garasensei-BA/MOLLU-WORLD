@@ -67,6 +67,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-07-03",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-08-19",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -80,12 +86,6 @@
     },
     {
       "date": "2026-09-01",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +477,8 @@
       "dates": []
     },
     {
-      "title": "이오치 총리(15) '쮸글과의 총력전 선포' 작심발언",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19291756&page=1",
+      "title": "쿠로카게 대결전 거짓말이라고 해줘...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19291803&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T04:14:12+00:00",
+  "updatedAt": "2026-09-07T04:33:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
