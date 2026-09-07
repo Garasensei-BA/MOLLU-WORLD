@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,8 @@
       "dates": []
     },
     {
-      "title": "한섭 더빙 진도 못 따라잡을 것 같지 않음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293428&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭과 한섭은 레이 캐릭터 해석에 괴리가 심해 보임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293414&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "집에 가면 종전시랑 총력전해야 하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293398&page=1",
+      "title": "근데 수오리 수스미 복각 언제 함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19293538&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T09:15:05+00:00",
+  "updatedAt": "2026-09-07T09:34:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
