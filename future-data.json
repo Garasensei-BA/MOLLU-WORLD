@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -224,7 +224,7 @@
     },
     {
       "date": "2026-09-29",
-      "title": "종합전술시험",
+      "title": "이벤트 기간과 모집 개최 기간이 달라요",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -356,7 +356,7 @@
     },
     {
       "date": "2026-11-17",
-      "title": "이벤트 100회 무료",
+      "title": "이벤트 기간과 모집 개최 기간이 달라요",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -469,12 +469,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "다음페스는 유키노 실장 무조건이겠지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296440&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -487,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T17:49:01+00:00",
+  "updatedAt": "2026-09-07T18:16:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
