@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,14 @@
       "dates": []
     },
     {
-      "title": "넥슨(한섭)으로부터 컬래보는 못하나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19292406&page=1",
+      "title": "난 정공 끝난다길래 일섭인줄 알고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19292547&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭은 정공 언제 끝나드라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19292530&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T06:20:02+00:00",
+  "updatedAt": "2026-09-07T06:42:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
