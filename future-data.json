@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "야심하고 어지러운 엣찌한 새벽에 갤클 모집 12/50",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296376&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페로로지라 실내전 한섭에서 한적이 없었나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296360&page=1",
+      "title": "다음페스는 유키노 실장 무조건이겠지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296440&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T17:30:41+00:00",
+  "updatedAt": "2026-09-07T17:49:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
