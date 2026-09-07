@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -459,8 +459,20 @@
       "dates": []
     },
     {
-      "title": "김용하 들으시오 오늘도 연장점검 해서 4시에 오픈하면 아로나는 죽소",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296773&page=1",
+      "title": "점검하기전에 ❗전술대회❗ 크레딧 받기 꼭 눌러",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296836&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 전에 정공전 하면 새 시즌할때 새로 안생김?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296817&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "하드2배 vs 특임2배 vs 이벤트",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296810&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T22:30:47+00:00",
+  "updatedAt": "2026-09-07T22:47:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
