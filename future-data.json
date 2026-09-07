@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,14 @@
       "dates": []
     },
     {
-      "title": "일섭 쇼츠받고 이격안나온적 한번도 없던가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290981&page=1",
+      "title": "이번 대결전은 그냥 히나를 쓰는구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19291014&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "단서찾기같은 좆같은 거 만든 새끼는 제발 다시는 이벤트 기획하지 마라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290970&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "내일점검임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290961&page=1",
+      "title": "공무원 악성 민원 업데이트.jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T00:54:21+00:00",
+  "updatedAt": "2026-09-07T01:12:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
