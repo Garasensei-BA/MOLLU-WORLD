@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,6 +44,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,20 +477,8 @@
       "dates": []
     },
     {
-      "title": "뭐? 이벤트 일퀘가 있었다고?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19290784&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "공무원 악성 민원 업데이트.jpg",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=460697",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "안내산악회 일정 확인할 수 있는 사이트 만들었어",
-      "url": "https://gall.dcinside.com/board/view/?id=climbing&no=384062",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-06T23:47:04+00:00",
+  "updatedAt": "2026-09-07T00:22:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
