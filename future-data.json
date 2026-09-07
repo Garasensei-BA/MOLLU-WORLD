@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -49,6 +49,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -73,12 +79,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-31",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-09-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -87,12 +87,6 @@
     {
       "date": "2026-09-07",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -471,14 +465,14 @@
       "dates": []
     },
     {
-      "title": "한섭도 정공 바뀌면 야쿠모 욕하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296542&page=1",
+      "title": "지금 일섭 총력전이 약 3개월 뒤의 미래라니",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296573&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "내일 ap쓰는이벤트하던데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296529&page=1",
+      "title": "한섭도 정공 바뀌면 야쿠모 욕하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296542&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T18:52:42+00:00",
+  "updatedAt": "2026-09-07T19:12:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
