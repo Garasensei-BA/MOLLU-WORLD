@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-03-02",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,14 +459,20 @@
       "dates": []
     },
     {
-      "title": "지금 일섭 총력전이 약 3개월 뒤의 미래라니",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296573&page=1",
+      "title": "DJ페스투어 티 사놓고 까 본건 어젠가 그랬는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296603&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭도 정공 바뀌면 야쿠모 욕하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296542&page=1",
+      "title": "일섭 넘 빡세다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296594&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "지금 일섭 총력전이 약 3개월 뒤의 미래라니",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19296573&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-07T19:12:14+00:00",
+  "updatedAt": "2026-09-07T19:30:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
