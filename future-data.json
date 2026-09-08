@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,26 +453,8 @@
       "dates": []
     },
     {
-      "title": "한섭 정신병원 49",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300808&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통상캐 픽업은 많은 고민을 하게 됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300802&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 대결전 히나 토먼 1팟 많이 빡셈?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300791&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "에리카? 그거 복각아님? 많이들 뽑네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300787&page=1",
+      "title": "이번에 에리카 픽업 들어가는놈들 싹다메모함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300963&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T09:51:35+00:00",
+  "updatedAt": "2026-09-08T10:15:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
