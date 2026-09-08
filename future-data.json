@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,20 @@
       "dates": []
     },
     {
-      "title": "대결전 토토인으로 셋다 1팟클하면 플레돼?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304300&page=1",
+      "title": "픽업문구 찡하구나..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304371&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭점검있슴?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304299&page=1",
+      "title": "총력전샵 오디세이아 노트bd생겼네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304355&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭영상보는데 이거 머임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304349&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T22:31:12+00:00",
+  "updatedAt": "2026-09-08T22:48:36+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
