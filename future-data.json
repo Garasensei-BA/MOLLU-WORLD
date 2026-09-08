@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,20 @@
       "dates": []
     },
     {
-      "title": "경장 좆냥이가 총력전 루나틱보다 어려워...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304261&page=1",
+      "title": "대결전 토토인으로 셋다 1팟클하면 플레돼?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304300&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "하얀깡통아 나대신 총력전좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304254&page=1",
+      "title": "일섭점검있슴?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304299&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "오늘 일섭 마시멜로 나오는 날인가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304286&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T21:48:10+00:00",
+  "updatedAt": "2026-09-08T22:13:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
