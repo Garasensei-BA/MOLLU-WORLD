@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,38 +453,26 @@
       "dates": []
     },
     {
-      "title": "이런쓰발 연장점검 뭔데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299189&page=1",
+      "title": "점검 끝나는거 무조건 30분 정각 이렇게 염?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299319&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "연장점검인데 완장들 뭐해 지금?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299184&page=1",
+      "title": "점검끝나면댓글좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299310&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "5시가 연장점검이었던거군",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299179&page=1",
+      "title": "연장점검하는건 그거때문인가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299301&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "근데 연장점검을 해도",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299161&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "뭐야 점검 연장됐네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299157&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "또 모의총력전 찐빠내면 1페 견적보기 ㅆㄱㄴ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299153&page=1",
+      "title": "와까모 페스티벌은 뭐야",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299291&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T06:57:24+00:00",
+  "updatedAt": "2026-09-08T07:19:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
