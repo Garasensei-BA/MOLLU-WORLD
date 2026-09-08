@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "대결전 제1수칙 일단 징징대라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19301797&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 전 통상 중에 제일 쓸만한 기 에리카임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19301783&page=1",
+      "title": "픽업 사인할때 수직으로 나만 잘 안되냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19301916&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T12:19:02+00:00",
+  "updatedAt": "2026-09-08T12:41:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
