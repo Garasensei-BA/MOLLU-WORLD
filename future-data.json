@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -26,12 +26,6 @@
     },
     {
       "date": "2026-01-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -68,12 +62,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,8 +453,8 @@
       "dates": []
     },
     {
-      "title": "요즘 총력전 고점치려고 뽑는 것보다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302777&page=1",
+      "title": "한섭 블아 시작한지 30분만에 30렙 찍음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302976&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T14:35:22+00:00",
+  "updatedAt": "2026-09-08T14:53:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
