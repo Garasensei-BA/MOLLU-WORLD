@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,26 +453,14 @@
       "dates": []
     },
     {
-      "title": "대결전 쌀먹 완료",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300516&page=1",
+      "title": "에리카 픽업은 진짜 뽑기 싫어지는 라인업이네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300670&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 전4 임시노 빌려줄분구함뇨..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300505&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 딜러 올50 달성",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300484&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "와 미래시 막막하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300477&page=1",
+      "title": "대결전 좆냥이네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19300648&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T09:15:00+00:00",
+  "updatedAt": "2026-09-08T09:33:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
