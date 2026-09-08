@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,26 +453,8 @@
       "dates": []
     },
     {
-      "title": "그냥 대결전은 구작 보스 로테 짬처리로 쓰죠?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297810&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "점검 메시까지 함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297803&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "내일 일섭 메인스 업뎃인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297799&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "드럼통게 총력전 플레만 생각하고 에리카 안 뽑는다하는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297796&page=1",
+      "title": "점검끝나후 바로 접속한다 나중에 접속한다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297912&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T02:50:31+00:00",
+  "updatedAt": "2026-09-08T03:14:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
