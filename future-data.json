@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-03-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,32 @@
       "dates": []
     },
     {
-      "title": "게임 업데이트 중에 딴 짓해도 업데이트 안 끊기네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298527&page=1",
+      "title": "제발 4시까지 연장점검",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298624&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "외아직도점검중?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298494&page=1",
+      "title": "보지맛) 내가 할 쿠로카게 대결전 택틱 (개선판)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298620&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "조기도입이든 조기점검이든 조기가 필요하다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298597&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "연장점검 각인가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298588&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 후 정공전 달릴 거 아니면 순위보상은 내일 14시 전에 받기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298587&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T05:13:25+00:00",
+  "updatedAt": "2026-09-08T05:32:50+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
