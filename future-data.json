@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,38 +453,26 @@
       "dates": []
     },
     {
-      "title": "점검끝나고 들어가면 전4히나 올려놓은 할배 하나정돈 있겠지..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297758&page=1",
+      "title": "그냥 대결전은 구작 보스 로테 짬처리로 쓰죠?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297810&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아니 점검중에 할얘기 없어서 아무거나 만들어오다 그런거임..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297745&page=1",
+      "title": "점검 메시까지 함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297803&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "어제 1등갔다가 점검직전 300등대인거보니 기분묘함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297744&page=1",
+      "title": "내일 일섭 메인스 업뎃인가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297799&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭 또 섭종함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297729&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아 맞다 점검전에 쓰담안했다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297715&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 줄일시기가 딱 두개 있는듯?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297712&page=1",
+      "title": "드럼통게 총력전 플레만 생각하고 에리카 안 뽑는다하는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297796&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T02:32:57+00:00",
+  "updatedAt": "2026-09-08T02:50:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
