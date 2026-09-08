@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,12 +62,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,26 +453,8 @@
       "dates": []
     },
     {
-      "title": "요즘 대결전하는것보다 택틱따는게 더귀찮음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302293&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭) 스미카밥… (hikokin)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302283&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭) 속삭이는 총학생회장 쨩… (hikokin)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302273&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "에리카 픽업드가자 ㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302268&page=1",
+      "title": "아로프라 합동연출 ← 픽업 확정임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302395&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T13:34:40+00:00",
+  "updatedAt": "2026-09-08T13:52:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
