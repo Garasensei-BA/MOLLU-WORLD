@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-02-28",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -93,12 +87,6 @@
     {
       "date": "2026-09-08",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "이벤트 상설화 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -465,8 +453,26 @@
       "dates": []
     },
     {
-      "title": "점검 있는 줄 몰랐네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297525&page=1",
+      "title": "올해 미래시 줄일날이있나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297659&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "한섭일섭같아지면 ai패치도 사라지지않을가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297656&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이제 시즌11 개막하자마자 일섭이랑다른데? 올라오는거임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297625&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뭐야 점검임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19297617&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T01:50:37+00:00",
+  "updatedAt": "2026-09-08T02:13:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
