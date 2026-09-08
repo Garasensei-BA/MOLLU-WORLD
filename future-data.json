@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 13
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -49,12 +49,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-03-03",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -68,6 +62,18 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-13",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,60 +465,28 @@
       "dates": []
     },
     {
-      "title": "아로나야 연장점검이 대체 무슨 소리니",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298978&page=1",
+      "title": "코코로는 총력전 랭킹에 있던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299087&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "그나저나 이번엔 복각 중간에 픽업 안바꾸고 2주동안 5중 픽업하네?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298973&page=1",
+      "title": "현 일섭 실로로 침수컷 ㄹ황",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299069&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "연장점검 이거 오토기 숙증상점 입점 막아서임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298960&page=1",
+      "title": "총력전대결전 모니터 두개쓰면 편하려나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299067&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "연장점검은 1분당 돌 60개주면안되나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298955&page=1",
+      "title": "점검 5시까지네?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19299060&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "아 점검 하면 난 강의시간에 뭐하냐고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298953&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번에 정공전 시즌바뀌는거랑 한양대 픽업이 끝아님?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298950&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 점검도 미래시 단축인가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298948&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그냥 1년 점검하고 105만돌 뿌려",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298944&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "9/9 11~17시 점검 이후로 주목할 만한 정보",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298943&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-09-09"
-      ]
     }
   ],
   "source_counts": {
@@ -525,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T06:17:51+00:00",
+  "updatedAt": "2026-09-08T06:39:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
