@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,32 @@
       "dates": []
     },
     {
-      "title": "특이하게 이벤트 중인데 점검하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298339&page=1",
+      "title": "업뎃노트보니 다음주에 또 점검하겠구만",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298422&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "오늘 점검2시면 끝날것같은데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298414&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "보지맛) 내가할 쿠로카게 대결전 택틱",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298409&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "님들 점검 메시지도 바뀐거 앎?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298404&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "업뎃 후 픽업 바끠나? 복각이라 보지(푸씨아님)도 않았네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298391&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T04:33:18+00:00",
+  "updatedAt": "2026-09-08T04:51:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
