@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "대결전 완",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304196&page=1",
+      "title": "경장 좆냥이가 총력전 루나틱보다 어려워...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304261&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "하얀깡통아 나대신 총력전좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304254&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T21:29:40+00:00",
+  "updatedAt": "2026-09-08T21:48:10+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
