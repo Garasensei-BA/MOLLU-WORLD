@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,20 @@
       "dates": []
     },
     {
-      "title": "아로프라 합동연출 ← 픽업 확정임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302395&page=1",
+      "title": "대결전은 몰아서 하는거 가능?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302601&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수카스미 티파티 수영복 복각이랑 같이 나오는거?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302599&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "야구 이벤트 챌린지3 공략법 감격스럽네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19302587&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T13:52:41+00:00",
+  "updatedAt": "2026-09-08T14:15:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
