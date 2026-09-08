@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -67,7 +67,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-06-09",
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -457,30 +457,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "우리 대학 동아리 가두 모집중이네~",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298136&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "핫산, 일섭 스포) 헬싱의 그 대사를 말하는 게헨나의",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298119&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아니 오늘 점검이엿어..?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298104&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 하는 중간에 점검을 한 적이 있엇나?????",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19298096&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -493,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-08T03:50:57+00:00",
+  "updatedAt": "2026-09-08T04:14:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
