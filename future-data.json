@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -224,6 +224,12 @@
     },
     {
       "date": "2026-10-06",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,14 @@
       "dates": []
     },
     {
-      "title": "스포) 이번 메인스는 한섭에 들어오면 감당 안될거같은데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307745&page=1",
+      "title": "오늘 애플이벤트 하는구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307886&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한 2년 뒤면 일섭 글섭 업데이트 같아 지려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307707&page=1",
+      "title": "아맞다 나 쌀먹단인데 왜 대결전에 화내고있었지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307860&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T10:14:30+00:00",
+  "updatedAt": "2026-09-09T10:33:34+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
