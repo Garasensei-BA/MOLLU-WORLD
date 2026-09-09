@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,6 +471,18 @@
       "dates": []
     },
     {
+      "title": "일섭 쇼츠 모델링이 진짜 지리는거가틈",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310799&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "4주년 페스티벌 너무 재밌었는디",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310788&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "6주년만큼 페스 예상안되는 경우도 오랜만인듯",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310775&page=1",
       "source": "블루 아카이브 갤러리",
@@ -479,12 +491,6 @@
     {
       "title": "대결전 점수 주는 기준이 뭐임?",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310763&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아침을 여는 모낭 대결전",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310760&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T21:30:58+00:00",
+  "updatedAt": "2026-09-09T21:48:12+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
