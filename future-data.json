@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-03-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-04-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -453,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "근데 진짜 총력전 대결전 ai한테 딸깍 맡기는 애들",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310019&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "왜 하필 오늘 애플 이벤트여서 아오",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19309983&page=1",
+      "title": "이번 일섭 메인스 공개된거 양 적음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310070&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T16:34:23+00:00",
+  "updatedAt": "2026-09-09T16:51:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
