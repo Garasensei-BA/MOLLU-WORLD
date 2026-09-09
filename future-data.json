@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "드아루 픽업 다음주 진짜 ㅈ같다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306250&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 치려다가 걍 물학 짤이나 만듦",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306230&page=1",
+      "title": "가엾은 한섭 아직 수키키도 안나왔어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306356&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T05:49:37+00:00",
+  "updatedAt": "2026-09-09T06:18:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
