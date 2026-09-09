@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "일섭 페로로지라 토먼트 근황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304674&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아시발 이벤트 일퀘 청휘석있었네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304639&page=1",
+      "title": "이번 복각 끝나고 바로 신규 이벤 나오려나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19304768&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T00:22:57+00:00",
+  "updatedAt": "2026-09-09T00:53:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
