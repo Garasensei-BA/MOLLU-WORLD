@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -451,24 +451,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "일섭은 벌써 여름하늘의 스타크래프트 종족 goatㅋㅋ 복각이네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19305777&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "12년만에 라노벨 복각하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19305756&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "더벤티 영수증 응원 메시지 이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=902732",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -481,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T04:32:43+00:00",
+  "updatedAt": "2026-09-09T04:50:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
