@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,14 @@
       "dates": []
     },
     {
-      "title": "일섭할배들 어부바해서 산에다 버림",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307308&page=1",
+      "title": "블리전 일정 나왔어?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307473&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "스포) 이번 미니스 보니까 일섭애들",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19307468&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T09:14:24+00:00",
+  "updatedAt": "2026-09-09T09:33:53+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
