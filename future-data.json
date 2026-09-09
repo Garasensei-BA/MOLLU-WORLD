@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,14 +453,8 @@
       "dates": []
     },
     {
-      "title": "쿠로카게 대결전 순위 ㅁㅌㅊ?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19309368&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한국 행사 이벤트 정보 캘린더 만들어봄",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19309365&page=1",
+      "title": "와 근데 일섭 예로랑 페로로 그래프보니까 살벌하긴하다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19309520&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T14:52:00+00:00",
+  "updatedAt": "2026-09-09T15:13:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
