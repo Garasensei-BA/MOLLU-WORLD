@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,6 +471,18 @@
       "dates": []
     },
     {
+      "title": "대결전 점수 주는 기준이 뭐임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310763&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아침을 여는 모낭 대결전",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310760&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "그래서 대결전 3개중 뭐가 제일 할만함",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310736&page=1",
       "source": "블루 아카이브 갤러리",
@@ -493,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T20:48:54+00:00",
+  "updatedAt": "2026-09-09T21:12:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
