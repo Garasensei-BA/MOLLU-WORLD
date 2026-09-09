@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,6 +471,12 @@
       "dates": []
     },
     {
+      "title": "블뷔들은 새 픽업 나오면 매너연 함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310908&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "쿠로대결전 기갱종료",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310867&page=1",
       "source": "블루 아카이브 갤러리",
@@ -487,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T22:31:01+00:00",
+  "updatedAt": "2026-09-09T22:48:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
