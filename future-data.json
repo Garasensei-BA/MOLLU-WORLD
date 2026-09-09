@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,8 @@
       "dates": []
     },
     {
-      "title": "블뷔들은 새 픽업 나오면 매너연 함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310908&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "쿠로대결전 기갱종료",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310867&page=1",
+      "title": "마리콘 업데이트됐네ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310937&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T22:48:00+00:00",
+  "updatedAt": "2026-09-09T23:12:13+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
