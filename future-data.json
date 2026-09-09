@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -62,12 +62,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,14 +453,14 @@
       "dates": []
     },
     {
-      "title": "대결전 끝남",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306688&page=1",
+      "title": "솔직히 총력전만 보면 드치루 걸러도 문제없긴 했음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306788&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭 학생 정원 몇명인지 어디서 볼수잇어",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306669&page=1",
+      "title": "패로로 총력전 1등 소감올라왔네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19306785&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T07:36:04+00:00",
+  "updatedAt": "2026-09-09T07:52:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
