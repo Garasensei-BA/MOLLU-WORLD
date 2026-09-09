@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -415,6 +409,18 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-12-22",
+      "title": "총력전",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-28",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-12-29",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -459,8 +465,8 @@
       "dates": []
     },
     {
-      "title": "이번 일섭 메인스 공개된거 양 적음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310070&page=1",
+      "title": "일섭 블아 결제방법 질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19310163&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-09T16:51:18+00:00",
+  "updatedAt": "2026-09-09T17:13:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
