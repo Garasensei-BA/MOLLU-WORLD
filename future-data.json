@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "에리카 매너연 해보니까 이년 무조건 수로하 페스에 쳐나올듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19318065&page=1",
+      "title": "대결전 타임라인 개웃김 ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19318239&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "갤클 [인연] 에서 인연작하는 개블빙 모집 중 12/50",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19318235&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "갤클 무료급식소 인원모집!!!!![47/50]",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19318224&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-10T15:49:57+00:00",
+  "updatedAt": "2026-09-10T16:14:20+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
