@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,6 +44,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,8 @@
       "dates": []
     },
     {
-      "title": "일섭 종전시는 대체 무슨일이 일어난거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19311222&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "쿠로카게 대결전 그냥 포기함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19311192&page=1",
+      "title": "미래시 3주가 적당한거 같음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19311284&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-10T00:39:32+00:00",
+  "updatedAt": "2026-09-10T00:56:35+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
