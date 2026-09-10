@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +471,26 @@
       "dates": []
     },
     {
-      "title": "에리 복각 기원1일차",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19316925&page=1",
+      "title": "대결전 쿠로카게한테 무츠키 1스 안쓰는거 버그임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19317064&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭정공전 질문)혹시 정공전픽용으로 드츠키 뽑고가는거 ㄱㅊ음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19317063&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "그래서 미쿠복각은 언제해줌",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19317051&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "인게임은 할거 없으니 한섭 방송에 신창섭 데려오면 안됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19317037&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-10T13:14:26+00:00",
+  "updatedAt": "2026-09-10T13:31:34+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
