@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "블아에 메이플 픽업캐가 나오는건 아니지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19314846&page=1",
+      "title": "콜라보 기념으로 일섭 가챠를 롤백합니다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19315253&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "님들 대결전 쳐야되는데 엘든링이 더 재밌으면 어캄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19315250&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "메푸리 진짜 스토리는 이벤트 스토리 답게만 만들었으면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19315221&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-10T10:14:49+00:00",
+  "updatedAt": "2026-09-10T10:33:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
