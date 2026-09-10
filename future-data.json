@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -92,6 +92,12 @@
     },
     {
       "date": "2026-09-08",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,8 @@
       "dates": []
     },
     {
-      "title": "학생 복사 이벤트 당첨됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19319111&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "서코가기전에 대결전 완료",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19319106&page=1",
+      "title": "메푸리 블아 콜라보하면 이벤트만 찍먹하는거 할만함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19319151&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-10T22:47:35+00:00",
+  "updatedAt": "2026-09-10T23:11:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
