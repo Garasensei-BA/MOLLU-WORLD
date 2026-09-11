@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-06-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,8 +477,8 @@
       "dates": []
     },
     {
-      "title": "한섭 정공전이 빡세긴 빡세다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19321703&page=1",
+      "title": "야구 vs 잠입 이벤트 어디에 ap 쓰는게 정배임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19321790&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T08:33:55+00:00",
+  "updatedAt": "2026-09-11T08:52:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
