@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "미카 짜는장면 일섭에서 더빙되었었나요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322421&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 만천등이면 이제 걍클고해도 되겠지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322401&page=1",
+      "title": "이번픽업",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322524&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T10:50:13+00:00",
+  "updatedAt": "2026-09-11T11:13:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
