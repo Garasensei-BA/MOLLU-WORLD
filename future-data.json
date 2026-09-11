@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +471,8 @@
       "dates": []
     },
     {
-      "title": "한섭 갤클 '블루'에서 한 명 모집합니다요~ (49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19320518&page=1",
+      "title": "아 대결전 쳐야하눈데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19320577&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T04:32:57+00:00",
+  "updatedAt": "2026-09-11T04:49:50+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
