@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,8 @@
       "dates": []
     },
     {
-      "title": "아니 픽업보다 확률높으면 성공할만한데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322226&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 기간이 ㄹㅇ좋음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322225&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번에 흥신소 픽업 ㄹㅇ 고민되네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322218&page=1",
+      "title": "그냥 70중픽업 열고 미래시 땡기면 안돼?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322341&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T10:14:26+00:00",
+  "updatedAt": "2026-09-11T10:32:43+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
