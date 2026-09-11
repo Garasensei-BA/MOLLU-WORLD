@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "토키쓰는 대결전이 은근 ㅈㄴ빡침",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322689&page=1",
+      "title": "아카이브 모집은 언제 범위 늘리냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322879&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이제 페스전까지 뽑을만한게 수구사정도임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322853&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "좆냥이 대결전은 진짜 왜이리 빡쌜까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322852&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T11:48:37+00:00",
+  "updatedAt": "2026-09-11T12:18:35+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
