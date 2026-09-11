@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "스타트대시 모집 2인가 이거 사도 됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324689&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스토롤 구움",
-      "url": "https://gall.dcinside.com/board/view/?id=sweets&no=390119",
+      "title": "일섭 아직 반밖에 안했다는거 충격이었음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324748&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T18:16:01+00:00",
+  "updatedAt": "2026-09-11T18:35:22+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
