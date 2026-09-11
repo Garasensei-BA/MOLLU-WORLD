@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "스포) 이번 한섭 신규 보스인데 좀 힘들거다 얘들아",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322087&page=1",
+      "title": "아니 픽업보다 확률높으면 성공할만한데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322226&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전 기간이 ㄹㅇ좋음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322225&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번에 흥신소 픽업 ㄹㅇ 고민되네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322218&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T09:50:22+00:00",
+  "updatedAt": "2026-09-11T10:14:26+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
