@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,16 +471,8 @@
       "dates": []
     },
     {
-      "title": "FM2024 블루아카이브 모드 (5.5주년 업데이트)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322019&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-05-05"
-      ]
-    },
-    {
-      "title": "이번 대결전 토토인 하면 어지간하면 침수 안당하지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19321975&page=1",
+      "title": "스포) 이번 한섭 신규 보스인데 좀 힘들거다 얘들아",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19322087&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -495,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T09:32:24+00:00",
+  "updatedAt": "2026-09-11T09:50:22+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
