@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,20 @@
       "dates": []
     },
     {
-      "title": "한섭 플레컷이 논술 최초합컷이면 좋겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324478&page=1",
+      "title": "페스쌍천장이 진짜 꼬접 머신인거같음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324539&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "머냐 아까 새벽 5시에 하던 대결전 방 아직 안 꺼졌네;;",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324463&page=1",
+      "title": "총력전 제일 열심히 했던게 쿠로카게였음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324529&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 인게임 가장 기억나는 장면 딱 3개",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324519&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T16:49:49+00:00",
+  "updatedAt": "2026-09-11T17:12:29+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
