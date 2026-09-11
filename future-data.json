@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -469,24 +475,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "페스쌍천장이 진짜 꼬접 머신인거같음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324539&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 제일 열심히 했던게 쿠로카게였음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324529&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 인게임 가장 기억나는 장면 딱 3개",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19324519&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T17:12:29+00:00",
+  "updatedAt": "2026-09-11T17:31:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
