@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,14 @@
       "dates": []
     },
     {
-      "title": "아직 주말이 아니라 그런가 대결전 치는사람적네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19323063&page=1",
+      "title": "아 한정 짬통픽업 또 안하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19323155&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 이정도면 충분하겠지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19323046&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 쿠로카게 처음으로 박제해봄",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19323041&page=1",
+      "title": "쿠로카게 대결전 이거 걍클고만해도 플레되겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19323119&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T12:56:20+00:00",
+  "updatedAt": "2026-09-11T13:16:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
