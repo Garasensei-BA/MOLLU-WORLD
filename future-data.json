@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "100만 구독자면 100만 회 모집 티켓을 뿌려야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19320303&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스토롤 구움",
-      "url": "https://gall.dcinside.com/board/view/?id=sweets&no=390119",
+      "title": "용하형 또 일섭 한섭 갈라치기하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19320453&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-11T03:50:25+00:00",
+  "updatedAt": "2026-09-11T04:14:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
