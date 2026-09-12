@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,8 +477,14 @@
       "dates": []
     },
     {
-      "title": "일섭 세이아 << 매우 약함..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19329900&page=1",
+      "title": "오케이 대결전은 내일부터",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330004&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 은근 기믹은 잘 만든 거 같지 않냐?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19329989&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T15:29:56+00:00",
+  "updatedAt": "2026-09-12T15:47:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
