@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,8 @@
       "dates": []
     },
     {
-      "title": "한섭 갤클 '블루'에서 한 명 모집합니다요~ (49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19327889&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음주 점검 오후 3시까지네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19327888&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전은 내일 퇴근하고 쳐야겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19327879&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭 갤클 '블루",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19327878&page=1",
+      "title": "대결전이란게 굳이 3속성 3마리 다 나올 필요가 있나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19327952&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T09:12:50+00:00",
+  "updatedAt": "2026-09-12T09:30:27+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
