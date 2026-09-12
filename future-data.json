@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-03-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +471,14 @@
       "dates": []
     },
     {
-      "title": "다음 리콜 픽업때 꼭 가져가야할거 머임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19331282&page=1",
+      "title": "다음 복각이 그건가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19331346&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "드아루가 딱 하루만 일찍 픽업이 왔다면 폭발 토먼트 걍클고를 했겠지...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19331311&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T22:49:01+00:00",
+  "updatedAt": "2026-09-12T23:12:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
