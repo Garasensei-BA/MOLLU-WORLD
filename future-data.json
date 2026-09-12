@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,26 +477,8 @@
       "dates": []
     },
     {
-      "title": "미래시 얼른 줄여라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19326516&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "채용공고 보는데 모집인원 0명은 뭐냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19326487&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "픽업트럭 사고 싶다아…",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19326485&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 신비 전4 필요해서 에반데;; 하고 봤더니",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19326477&page=1",
+      "title": "저번 페로로때 한섭 일섭 얼마나 차이 났지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19326652&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T04:49:11+00:00",
+  "updatedAt": "2026-09-12T05:12:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
