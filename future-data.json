@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,8 +477,14 @@
       "dates": []
     },
     {
-      "title": "생각해보니 곧 샬레 정식 부임 이벤트있어서 장비걱정 안해도되네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19328049&page=1",
+      "title": "다음 페스캐는 관통이나 폭0팔 범위 딜러일듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19328184&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "의외로 블아 5대시책 DJ페스장에 못들고 가는것...jpg",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19328179&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T09:47:18+00:00",
+  "updatedAt": "2026-09-12T10:13:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
