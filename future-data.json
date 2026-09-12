@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-04-06",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-04-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,8 @@
       "dates": []
     },
     {
-      "title": "오 블리즈컨 이벤트 하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330912&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스전 성능캐라인 뭐지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330898&page=1",
+      "title": "쿠로카게가 대결전 지금까지 본거중에서 제일빡침",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330956&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T19:11:07+00:00",
+  "updatedAt": "2026-09-12T19:28:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
