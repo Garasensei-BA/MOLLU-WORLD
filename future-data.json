@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,14 +471,14 @@
       "dates": []
     },
     {
-      "title": "총력전 1억 7백만인데 플레 안정 맞지? ㅠㅠ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330841&page=1",
+      "title": "오 블리즈컨 이벤트 하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330912&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아스트라한테 총력전 맡기면 핵이냐?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330839&page=1",
+      "title": "페스전 성능캐라인 뭐지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330898&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T18:48:12+00:00",
+  "updatedAt": "2026-09-12T19:11:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
