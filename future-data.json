@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -469,30 +469,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "이벤트 일퀘 있는거 좀 악랄한거같음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330549&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 스포) 게헨나 그장면 브금 따로 넘버라던가 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330538&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "....사실 아직 대결전 1대도 안침",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330516&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일정 좀 빡빡하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19330506&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -505,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T17:29:05+00:00",
+  "updatedAt": "2026-09-12T17:47:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
