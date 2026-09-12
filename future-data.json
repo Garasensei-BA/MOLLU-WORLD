@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -469,6 +469,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "제약해제결전 가성비가 너무 안좋음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19329655&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번 대결전 졸업",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19329652&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -481,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-12T14:31:52+00:00",
+  "updatedAt": "2026-09-12T14:47:47+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
