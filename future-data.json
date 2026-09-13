@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 0
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -445,7 +445,50 @@
       "source": "몰루로그"
     }
   ],
-  "evidence": [],
+  "evidence": [
+    {
+      "title": "블루 아카이브 미래시 정보",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이봐 대답해 인간은 왜 대결전을 치도록 설계돼있지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19335527&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "외국인 연금 논란에 정부, 복지제도 전면 점검",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=462590",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "영구결번 스탯 업데이트…txt",
+      "url": "https://gall.dcinside.com/board/view/?id=lgtwins_new&no=18835358",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    }
+  ],
   "source_counts": {
     "몰루로그": 69
   },
@@ -456,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T12:52:26+00:00",
+  "updatedAt": "2026-09-13T13:12:43+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
