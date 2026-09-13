@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,14 @@
       "dates": []
     },
     {
-      "title": "대결전 인인인만 해도 플레네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336690&page=1",
+      "title": "아 총력전 대결전할때마다 스트레스네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336736&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "왜 이새기들은 콜라보 일러 잘뽑고 한섭엔 수입 안해줌",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336678&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 씨발 존나 귀찮다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336648&page=1",
+      "title": "유키노는 최소 한정 아니면 페스로 나오겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336730&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T16:13:54+00:00",
+  "updatedAt": "2026-09-13T16:31:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
