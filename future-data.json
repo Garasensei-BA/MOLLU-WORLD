@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,8 @@
       "dates": []
     },
     {
-      "title": "저번 한섭 방송에서 퍼리 좋다고 커밍아웃 된거 누구였더라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19333698&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "레이죠 복각하면 무조건 들어간다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19333684&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전도 슬슬 루나틱 도입하죠",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19333675&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "외국인 연금 논란에 정부, 복지제도 전면 점검",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=462590",
+      "title": "대결전 종료",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19333787&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T07:48:57+00:00",
+  "updatedAt": "2026-09-13T08:14:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
