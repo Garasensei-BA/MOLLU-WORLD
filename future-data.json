@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "대결전 치는거 깜빡할뻔;;",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19334789&page=1",
+      "title": "내맘대로 일섭비교법 쓰면 토인인도 플래임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19334946&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "한섭 갤클 차르봄바 서클원 한분 찾아요 49/50",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19334912&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아로프라 확정 가챠 픽업 나오는건 아니군",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19334906&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -493,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T10:48:15+00:00",
+  "updatedAt": "2026-09-13T11:13:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
