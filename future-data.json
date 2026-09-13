@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -44,6 +44,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,14 @@
       "dates": []
     },
     {
-      "title": "한섭갤클) ' 가을 ' 에서 서클원 모집중 (49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332724&page=1",
+      "title": "님들 저 대결전 택틱 좀 주셈..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332805&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이번 대결전에서 간만에 도파민 풀충전한듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332686&page=1",
+      "title": "에리카 안뽑아놓으면 뭔가 대결전에서 좆될거 같은데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332790&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T04:32:05+00:00",
+  "updatedAt": "2026-09-13T04:48:35+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
