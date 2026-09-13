@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,14 @@
       "dates": []
     },
     {
-      "title": "마법의소라고동님 제가 대결전을 내일해도될까요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336452&page=1",
+      "title": "미쿠는 필요없고 레일건 좀 복각하면 안되나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336545&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "스토리랑 떡인지 짤 안보고 총력전만 치는사람있으려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336441&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "약간 한섭은 기회주의자들 모임같은거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336431&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "브부이 통게 중간점검",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336424&page=1",
+      "title": "이번 대결전 하면서 느낀 거 솔직하게 말할게",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19336531&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T15:30:31+00:00",
+  "updatedAt": "2026-09-13T15:47:34+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
