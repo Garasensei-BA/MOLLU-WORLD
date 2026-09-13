@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,14 @@
       "dates": []
     },
     {
-      "title": "이벤트 뽑기 일퀘 하러 가면 이것만 보다옴",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19331982&page=1",
+      "title": "대결전 끝!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332087&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "따개 복각 없이 냈다는 게 뭐겠어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332065&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T01:49:08+00:00",
+  "updatedAt": "2026-09-13T02:13:42+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
