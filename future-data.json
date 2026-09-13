@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -469,6 +469,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "한섭갤클) ' 가을 ' 에서 서클원 모집중 (49/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332724&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번 대결전에서 간만에 도파민 풀충전한듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19332686&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -481,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-13T04:13:47+00:00",
+  "updatedAt": "2026-09-13T04:32:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
