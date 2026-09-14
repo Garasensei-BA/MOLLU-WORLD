@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,20 +471,26 @@
       "dates": []
     },
     {
-      "title": "드럼통 이벤트는 ap 충전 안해도 되지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344194&page=1",
+      "title": "이번 대결전 티켓 리콜렉트까지 아슬아슬하게 사네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344275&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "그러고보니 일섭 방송 언제 하냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344192&page=1",
+      "title": "아니 내 대결전 플래가 !!!!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344267&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "다음 페스캐는 얘네 어떰",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344170&page=1",
+      "title": "11시까지 야구이벤트에 털거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344241&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "의외로 흥미로운 일섭 가설",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344234&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T18:37:00+00:00",
+  "updatedAt": "2026-09-14T18:55:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
