@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,38 +453,20 @@
       "dates": []
     },
     {
+      "title": "근데 이벤트 보상 습득 방식 개선 안 하는 이유가 뭐임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344434&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "진짜 3시에 점검 끝낼 수 있을까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344424&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "페스 말고 잘쓰는 딜러 뭐 있나 생각해봤는데",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344395&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "프레이볼 이벤스 + 대결전으로 벌어들인 엘리그마",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344389&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 점검하나??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344382&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스딜러 제외하고 제일 많이 쓰이는 딜러 뭐임???",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344377&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 점검 있으니 5시 전까진 쮸글해라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344372&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 페로로 그짓을 해서 140등이었는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344363&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T19:32:32+00:00",
+  "updatedAt": "2026-09-14T19:48:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
