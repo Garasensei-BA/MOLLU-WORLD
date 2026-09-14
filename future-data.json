@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "이번 대결전은 토키 덕분에 잘나왔네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19342738&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "의외로 최강자 라인업에선 츠루기가 페스가 없는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19342721&page=1",
+      "title": "진짜 모르겠는거: 대결전 막날에 실버 없는걸로 왜 아직도 근들갑임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19342888&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T14:36:09+00:00",
+  "updatedAt": "2026-09-14T14:54:38+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
