@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,8 @@
       "dates": []
     },
     {
-      "title": "난 총력전 안하는 사이코패스라 쿠루미 거름",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19340917&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 수로코는 총대결전 기준 주가가 나중에 떡상한거도 있긴 함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19340913&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아 근데 일섭에 신규 콘텐츠 안 들어옴?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19340890&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 빠따이벤트 개호감이었음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19340888&page=1",
+      "title": "빠따 이벤트 룰렛 오늘 다 돌려야함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19341174&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T10:51:14+00:00",
+  "updatedAt": "2026-09-14T11:14:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
