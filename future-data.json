@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -451,6 +451,24 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "출시이후 언급X 스토리X 이벤트X 이격X인 학생이잇습니다..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344895&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "2024년 시라스아즈사 이벤트/메인스등장장면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344889&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "오늘 점검 몇시까지임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344884&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -463,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T23:12:23+00:00",
+  "updatedAt": "2026-09-14T23:29:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
