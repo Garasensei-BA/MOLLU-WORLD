@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 73
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -49,19 +49,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-02-09",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -483,14 +471,26 @@
       "dates": []
     },
     {
-      "title": "낸내 5분전인데 드아루 픽업 드갈까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343601&page=1",
+      "title": "미래시도움",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343704&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페질라 대결전티켓 수나구까지네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343594&page=1",
+      "title": "대결전 익스만 해도 골드 나오나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343703&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "한섭 7pv 언제들어옴",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343697&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전코인 뭐부터 사는게 좋음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343691&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +505,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T16:14:21+00:00",
+  "updatedAt": "2026-09-14T16:33:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
