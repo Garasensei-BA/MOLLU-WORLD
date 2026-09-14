@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,20 @@
       "dates": []
     },
     {
-      "title": "아 ㅅㅂ 맞다대결전",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344134&page=1",
+      "title": "드럼통 이벤트는 ap 충전 안해도 되지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344194&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "술마시고 대결전치기 이건 뭐 루나틱급이네요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344097&page=1",
+      "title": "그러고보니 일섭 방송 언제 하냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344192&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "다음 페스캐는 얘네 어떰",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344170&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T18:15:37+00:00",
+  "updatedAt": "2026-09-14T18:37:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
