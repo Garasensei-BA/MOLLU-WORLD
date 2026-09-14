@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,12 +471,16 @@
       "dates": []
     },
     {
-      "title": "5.5페스엔 앵콜픽업 안하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337884&page=1",
+      "title": "일섭 프롤로그만 더빙되어 있는거 넘 웃김 그냥",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337959&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-05-05"
-      ]
+      "dates": []
+    },
+    {
+      "title": "한섭 통게 언제지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337928&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -489,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T01:31:36+00:00",
+  "updatedAt": "2026-09-14T01:50:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
