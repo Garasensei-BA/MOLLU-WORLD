@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-28",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,26 +477,26 @@
       "dates": []
     },
     {
-      "title": "미래시도움",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343704&page=1",
+      "title": "대결전 새벽 침수쇼 기대 중",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343800&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 익스만 해도 골드 나오나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343703&page=1",
+      "title": "이번 대결전 특",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343798&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭 7pv 언제들어옴",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343697&page=1",
+      "title": "대결전 이제 신비 하나했네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343778&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전코인 뭐부터 사는게 좋음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343691&page=1",
+      "title": "대결전 끝",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343770&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T16:33:30+00:00",
+  "updatedAt": "2026-09-14T16:53:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
