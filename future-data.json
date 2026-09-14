@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,22 +471,12 @@
       "dates": []
     },
     {
-      "title": "밀린 챌린지랑 대결전 다쳣다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337828&page=1",
+      "title": "5.5페스엔 앵콜픽업 안하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337884&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "AGF 일정 나온듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337810&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 수영복 사오리랑 노조미 같이 픽업임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19337794&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
+      "dates": [
+        "2026-05-05"
+      ]
     }
   ],
   "source_counts": {
@@ -499,7 +489,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T01:13:30+00:00",
+  "updatedAt": "2026-09-14T01:31:36+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
