@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,20 +453,8 @@
       "dates": []
     },
     {
-      "title": "근데 이벤트 보상 습득 방식 개선 안 하는 이유가 뭐임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344434&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "진짜 3시에 점검 끝낼 수 있을까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344424&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 말고 잘쓰는 딜러 뭐 있나 생각해봤는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344395&page=1",
+      "title": "설마 오늘 바로 드럼 통게 총력전임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344467&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T19:48:56+00:00",
+  "updatedAt": "2026-09-14T20:14:36+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
