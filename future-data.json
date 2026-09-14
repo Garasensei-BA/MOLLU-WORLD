@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 68
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -73,19 +73,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-19",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-09-01",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -99,12 +87,6 @@
     {
       "date": "2026-09-14",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-14",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -459,38 +441,38 @@
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이번 대결전 티켓 리콜렉트까지 아슬아슬하게 사네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344275&page=1",
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아니 내 대결전 플래가 !!!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344267&page=1",
+      "title": "대결전 나보다 등수 높은 사람 있냐?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344339&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "11시까지 야구이벤트에 털거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344241&page=1",
+      "title": "대결전 안치면 돌 안줌?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344325&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "의외로 흥미로운 일섭 가설",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344234&page=1",
+      "title": "블빙들 왜 04시가 다되어서야 대결전을...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344324&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블붕이 블생 3년만에 총력전 대결전 둘다 플레 달았어..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344313&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T18:55:15+00:00",
+  "updatedAt": "2026-09-14T19:14:26+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
