@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 72
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-17",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -471,14 +477,8 @@
       "dates": []
     },
     {
-      "title": "이벤트 일주일만 더했으면 좋겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338097&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번주는 왜 점검하는거지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338092&page=1",
+      "title": "내일 뭐 이벤트있나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338178&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T02:33:07+00:00",
+  "updatedAt": "2026-09-14T02:50:29+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
