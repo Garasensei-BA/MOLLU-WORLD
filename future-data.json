@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,26 +471,8 @@
       "dates": []
     },
     {
-      "title": "이번 대결전 크리가 진짜 왜이랬던거지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338363&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭 겜한분은 기본 2플레인듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338361&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "남은티켓 소탕하고 이제 대결전 끝",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338332&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통상인데 천장 들어간 픽업들 있냐?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338331&page=1",
+      "title": "대결전 쿠로카게라 그런가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19338415&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -505,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T03:34:04+00:00",
+  "updatedAt": "2026-09-14T03:51:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
