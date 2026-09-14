@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,8 +453,32 @@
       "dates": []
     },
     {
-      "title": "아니 대결전 순위표 보는데 ㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344633&page=1",
+      "title": "프레이볼 이벤트로 획득한 엘리그마 484개",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344719&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "픽업 때 배너 외의 애도 확률 높아짐?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344714&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "팔푼이 이벤트 끝",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344703&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "고해성사)대결전치려다 졸았음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344699&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭은 옥외전이구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19344693&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T22:13:55+00:00",
+  "updatedAt": "2026-09-14T22:32:42+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
