@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "저 대결전 오늘 쳐야하는데 어렵나요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19339289&page=1",
+      "title": "쿠로카게는 총력전으로만 보자",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19339415&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전 순위보는거 재밋네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19339402&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "좆로씹케는 수나코를 전제하고 만들다보니 대결전이 좆같음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19339398&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-14T07:15:21+00:00",
+  "updatedAt": "2026-09-14T07:34:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
