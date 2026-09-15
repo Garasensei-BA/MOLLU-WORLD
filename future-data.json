@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -435,8 +435,14 @@
       "dates": []
     },
     {
-      "title": "일섭) 갤클) 샬레 인원 모집",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350452&page=1",
+      "title": "2성 픽업도 천장 200뽑임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350580&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "싱글벙글 국군 지상전 페스티벌 신규 규정...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463232",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T13:52:31+00:00",
+  "updatedAt": "2026-09-15T14:14:58+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
