@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -433,36 +433,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "뭔 드아루 픽업 뽑는데서 드츠키가 나오네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19347943&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "지금 픽업중 뽑을만한거 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19347933&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 한번 치면 저장공간이 지랄남..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19347925&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "드루카 드츠키 한섭실장 이번이 첨임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19347905&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "싱글벙글 국군 지상전 페스티벌 신규 규정...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463232",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -475,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T07:53:14+00:00",
+  "updatedAt": "2026-09-15T08:16:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
