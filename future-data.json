@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -435,8 +435,14 @@
       "dates": []
     },
     {
-      "title": "지금부터 히카리 픽업 전까지 3충 필수이벤 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351833&page=1",
+      "title": "가챠때 아로나,프라나 둘다 나오면 픽업캐 확정인거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351916&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "처음으로 총력전 대결전 다 플레갔는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351894&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T17:48:45+00:00",
+  "updatedAt": "2026-09-15T18:14:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
