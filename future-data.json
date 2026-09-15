@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -411,6 +411,12 @@
   ],
   "evidence": [
     {
+      "title": "신규 『특수작전: 로어추적 편 (2차)』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -423,32 +429,20 @@
       "dates": []
     },
     {
-      "title": "복각 『Pray-Ball!』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19252654&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "오늘픽업에서반드시 리츠가나와줘야하는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346247&page=1",
+      "title": "뉴비 미래시보고 갸차 계획중인데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346338&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "누비 픽업 질문좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346232&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "드디어 드아루픽업이오늘",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346229&page=1",
+      "title": "한섭은 끝났다!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346320&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T03:52:13+00:00",
+  "updatedAt": "2026-09-15T04:15:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
