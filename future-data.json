@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -441,12 +435,10 @@
       "dates": []
     },
     {
-      "title": "1.5천장남은 개블빙 수키키 거르고 페스존버 돌입간다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351771&page=1",
+      "title": "지금부터 히카리 픽업 전까지 3충 필수이벤 있음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351833&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-01-05"
-      ]
+      "dates": []
     }
   ],
   "source_counts": {
@@ -459,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T17:29:59+00:00",
+  "updatedAt": "2026-09-15T17:48:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
