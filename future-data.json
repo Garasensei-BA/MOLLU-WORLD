@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -367,6 +361,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-12-09",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-12-15",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -441,8 +441,14 @@
       "dates": []
     },
     {
-      "title": "싱글벙글 국군 지상전 페스티벌 신규 규정...jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463232",
+      "title": "총력대결전 순위에 익숙한 닉넴 있으면 반가움..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19349557&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭 스포) 오뚜기의 발언에는 뭔가가 있다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19349551&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T11:13:46+00:00",
+  "updatedAt": "2026-09-15T11:31:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
