@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,32 +453,26 @@
       "dates": []
     },
     {
-      "title": "그럼 세이아가 페스를 받으면 되잖아?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345413&page=1",
+      "title": "총결산도 점검 이후 가능함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345505&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "미카 3페스면 해외반응은 잘 몰겟고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345405&page=1",
+      "title": "아니 아카이브 모집 이게 말이 되는거야??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345478&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 무지 기쁘다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345391&page=1",
+      "title": "점검전 등수 확인하기",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345470&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 많은걸 포기했는데도 순위방어 잘되네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345388&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다른건 모르겠고 미소노 3격도 페스로나오면 진짜화낼거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345385&page=1",
+      "title": "룰렛 돌리는거 점검 이후에도 됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345468&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T01:14:29+00:00",
+  "updatedAt": "2026-09-15T01:33:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
