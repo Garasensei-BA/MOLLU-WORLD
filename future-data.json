@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 68
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -73,13 +73,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-09-01",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
+      "date": "2026-06-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -93,12 +87,6 @@
     {
       "date": "2026-09-15",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-15",
-      "title": "이벤트 상설화 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -441,50 +429,32 @@
       "dates": []
     },
     {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검 전 쓰담 끝",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345586&page=1",
+      "title": "다음 수칸나 쓰는 시기가 대결전 비나네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345723&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검까지 앞으로 14분 남았다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345567&page=1",
+      "title": "드신소 3번째 픽업에서 에리카 통언뜬 기원",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345722&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검 전 애정충",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345566&page=1",
+      "title": "점검 3시까지구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345713&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페이백 담 페스때할건데 이거 어케사란거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345560&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "점검 전 일퀘용 룰렛티켓 21개는 남겨놓으셨죠?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345548&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "점검 전 상점까지 깔끔하게 털었다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345546&page=1",
+      "title": "뭐야 오늘점검 있었음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345703&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T01:52:01+00:00",
+  "updatedAt": "2026-09-15T02:15:42+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
