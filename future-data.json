@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -73,7 +73,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-05",
+      "date": "2026-06-02",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -441,8 +441,32 @@
       "dates": []
     },
     {
-      "title": "한섭 갤클 차르봄바에서 서클원 한분 구함 49/50",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19349933&page=1",
+      "title": "갤클 더불어민1주당에서 당원 모집중 (20/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350070&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "내가 페스전통상 이론때문에 물중국인 못거르겠음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350060&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "와 앞으로 미래시 봤는데 ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350055&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "드치루 픽업 시기가 불만이냐도뇨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19350049&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "싱글벙글 국군 지상전 페스티벌 신규 규정...jpg",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463232",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T12:38:49+00:00",
+  "updatedAt": "2026-09-15T12:56:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
