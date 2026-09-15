@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -435,14 +435,8 @@
       "dates": []
     },
     {
-      "title": "엘선권 살거면 수나구 픽업 때 사야겠네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351625&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 보상 이거 받는 시기 따라 10연권 기간 연장은 안됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351613&page=1",
+      "title": "나 왜 픽업만 누르면 영상이 멈출까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351681&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T16:51:07+00:00",
+  "updatedAt": "2026-09-15T17:12:38+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
