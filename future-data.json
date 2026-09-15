@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -453,26 +453,38 @@
       "dates": []
     },
     {
-      "title": "총결산도 점검 이후 가능함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345505&page=1",
+      "title": "점검 전 쓰담 끝",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345586&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아니 아카이브 모집 이게 말이 되는거야??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345478&page=1",
+      "title": "점검까지 앞으로 14분 남았다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345567&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검전 등수 확인하기",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345470&page=1",
+      "title": "점검 전 애정충",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345566&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "룰렛 돌리는거 점검 이후에도 됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345468&page=1",
+      "title": "페이백 담 페스때할건데 이거 어케사란거임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345560&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 전 일퀘용 룰렛티켓 21개는 남겨놓으셨죠?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345548&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 전 상점까지 깔끔하게 털었다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345546&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T01:33:57+00:00",
+  "updatedAt": "2026-09-15T01:52:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
