@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -435,20 +435,32 @@
       "dates": []
     },
     {
-      "title": "아니 무츄킹이랑 잡초녀 옷갈 들어왔는데 이벤트 복각은 없네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348780&page=1",
+      "title": "대결전이 근데 확실히 많이 안치긴 하나봄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348912&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이번 픽업 중에 페이백 이벤트 가능성 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348770&page=1",
+      "title": "iOS 27 업데이트 괜히했네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348905&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "총력전 보스 기믹 점점 어려워지네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348761&page=1",
+      "title": "드루카 드츠키 픽업 ㅇㄱㅈㅉㅇㅇ???",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348902&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "신가챠 픽업마다 초기화 되는데 그럼 아카이브는 언제 초기화됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348895&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "집무실 이벤트 상설화 기념 미션",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19348888&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -469,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T09:38:11+00:00",
+  "updatedAt": "2026-09-15T09:57:43+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
