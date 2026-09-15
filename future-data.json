@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,20 +429,8 @@
       "dates": []
     },
     {
-      "title": "아 맞다 대결전 순위 확인 못 했네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345901&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "블아 지금 점검중임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345896&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "와 오늘 드레스 메스가키 픽업이네?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345890&page=1",
+      "title": "왜 아직도 점검?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19346008&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T02:52:18+00:00",
+  "updatedAt": "2026-09-15T03:15:24+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
