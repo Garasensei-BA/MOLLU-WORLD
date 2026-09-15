@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -73,7 +79,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-06-06",
+      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -435,26 +441,8 @@
       "dates": []
     },
     {
-      "title": "다음 수칸나 쓰는 시기가 대결전 비나네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345723&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "드신소 3번째 픽업에서 에리카 통언뜬 기원",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345722&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "점검 3시까지구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345713&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "뭐야 오늘점검 있었음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345703&page=1",
+      "title": "이번 점검 몇시에 끝날꺼 같음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19345813&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T02:15:42+00:00",
+  "updatedAt": "2026-09-15T02:34:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
