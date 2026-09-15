@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -435,14 +435,26 @@
       "dates": []
     },
     {
-      "title": "이래보니까 올해 이벤트 좆도 안나왔구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351437&page=1",
+      "title": "미래시 이거 어카냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351532&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이번대결전티켓 어디까지 쓸수있냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351401&page=1",
+      "title": "님들 이번 대결전 티켓 수영복키사키떄 가능?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351527&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아 대결전 생각안하고 뽑았네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351512&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전티켓이 계륵이 됐어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19351505&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-15T16:14:08+00:00",
+  "updatedAt": "2026-09-15T16:33:13+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
