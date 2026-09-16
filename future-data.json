@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,6 +429,12 @@
       "dates": []
     },
     {
+      "title": "모집포인트를 어따써야되나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358243&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "아카이브모집 이거3성 나오는뽑기 맞음...????",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358222&page=1",
       "source": "블루 아카이브 갤러리",
@@ -451,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T20:32:17+00:00",
+  "updatedAt": "2026-09-16T20:50:27+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
