@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 65
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -87,12 +87,6 @@
     {
       "date": "2026-09-16",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-16",
-      "title": "제약해제결전 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -435,8 +429,8 @@
       "dates": []
     },
     {
-      "title": "제결전도 총력전도 없으니 뭔가 심심하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19352956&page=1",
+      "title": "일섭) 미니스토리 [용궁으로의 길] 개막 알림",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19353044&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T01:49:27+00:00",
+  "updatedAt": "2026-09-16T02:13:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
