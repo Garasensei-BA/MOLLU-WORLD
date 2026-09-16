@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 65
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-03-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -435,8 +429,14 @@
       "dates": []
     },
     {
-      "title": "이번 대결전 연차권 던질 곳 vs",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356433&page=1",
+      "title": "뉴비 이번 픽업에서 뽑을꺼 있을까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356553&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이번 이벤트포인트로 소라이 엘래프 사야되나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356537&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -457,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T12:39:41+00:00",
+  "updatedAt": "2026-09-16T12:58:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
