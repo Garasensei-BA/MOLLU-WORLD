@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -417,32 +417,20 @@
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "블루 아카이브 미래시 정보",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "총력전 예고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355034&page=1",
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아니 초파리로 총력전 뭐임? ㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355011&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "\"윤석열, '대왕고래' 동해 가스전 시추 일정 앞당기도록 지시·",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463503",
+      "title": "드뎌 한섭에도!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355120&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T08:34:21+00:00",
+  "updatedAt": "2026-09-16T08:51:34+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
