@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -49,6 +49,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -68,6 +74,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,8 +441,8 @@
       "dates": []
     },
     {
-      "title": "미카는 삼격도 페스 받으려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19353144&page=1",
+      "title": "페스딜러 거의다 전3찍었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19353186&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -445,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T02:32:19+00:00",
+  "updatedAt": "2026-09-16T02:50:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
