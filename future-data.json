@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 0
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -403,7 +403,68 @@
       "source": "몰루로그"
     }
   ],
-  "evidence": [],
+  "evidence": [
+    {
+      "title": "신규 『특수작전: 로어추적 편 (2차)』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블루 아카이브 미래시 정보",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이런 무친 폭스소대 이벤트 새로 열린거구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358328&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "미래시 그냥 수영복 게헨나 페스올때까지 기다려?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358303&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "가챠 개편후 통상 성능이 좋아져서 미래시가 불안함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358300&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "능력개방 페스캐 담에 뭐해줬음??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358296&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블청년 첨으로 대결전 플래티넘단 합류함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358289&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아카이브 모집은 가챠 개편 적용 안 되나유?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19358288&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    }
+  ],
   "source_counts": {
     "몰루로그": 69
   },
@@ -414,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T21:49:26+00:00",
+  "updatedAt": "2026-09-16T22:13:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
