@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,14 +429,8 @@
       "dates": []
     },
     {
-      "title": "뉴비 이번 픽업에서 뽑을꺼 있을까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356553&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 이벤트포인트로 소라이 엘래프 사야되나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356537&page=1",
+      "title": "매 픽업마다 10뽑컷 내는게 그렇게 큰 욕심임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19356678&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -457,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T12:58:06+00:00",
+  "updatedAt": "2026-09-16T13:20:22+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
