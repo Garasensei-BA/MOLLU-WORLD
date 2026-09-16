@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -427,30 +427,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "미래시에 수시노 미카 까모 픽업 연달아 하던데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355256&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전 공지 재업 문구 왤케 묘하지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355236&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "특별모집 학생 중에",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19355221&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "\"윤석열, '대왕고래' 동해 가스전 시추 일정 앞당기도록 지시·",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463503",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -463,7 +439,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T09:14:22+00:00",
+  "updatedAt": "2026-09-16T09:32:50+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
