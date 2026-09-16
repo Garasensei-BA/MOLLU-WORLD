@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,20 +429,8 @@
       "dates": []
     },
     {
-      "title": "이런 ㅅㅂ 통게는 시작부터 대결전임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19354715&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통게대결전 구라지???",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19354703&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통게 대결전은 진짜 끔찍하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19354694&page=1",
+      "title": "\"윤석열, '대왕고래' 동해 가스전 시추 일정 앞당기도록 지시·",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463503",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-16T07:36:08+00:00",
+  "updatedAt": "2026-09-16T07:51:37+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
