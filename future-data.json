@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,14 +429,8 @@
       "dates": []
     },
     {
-      "title": "이벤트 포인트 보너스 70퍼밖에 못받는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19359607&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "블카브 총력전 브금 왤케 좋음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19359590&page=1",
+      "title": "히비키나옴->아리우스교복선정이벤트떡밥임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19359711&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T03:14:15+00:00",
+  "updatedAt": "2026-09-17T03:32:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
