@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,6 +50,12 @@
     },
     {
       "date": "2026-03-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,8 +435,14 @@
       "dates": []
     },
     {
-      "title": "안경 픽업",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364725&page=1",
+      "title": "그 직전 폭스소대 이벤트 스토리 있었음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364797&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이벤트나 스토리 공지 보통 무슨 요일에 뜨지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364768&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -445,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T23:28:08+00:00",
+  "updatedAt": "2026-09-17T23:47:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
