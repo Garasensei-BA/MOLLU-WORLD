@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 65
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,12 +62,6 @@
     },
     {
       "date": "2026-04-06",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-05-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -441,18 +435,6 @@
       "dates": []
     },
     {
-      "title": "이 시발 술먹고 픽업 돌렸다가 200 천장 찍고 술깼네 ㅅㅂ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364376&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아카이브 픽업 특)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364364&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "재정난이라며 제주도 2박3일?..경기도의회 업무보고 일정 '발칵'",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463841",
       "source": "블루 아카이브 갤러리",
@@ -469,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T19:47:33+00:00",
+  "updatedAt": "2026-09-17T20:14:43+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
