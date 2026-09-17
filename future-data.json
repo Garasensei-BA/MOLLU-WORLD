@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,18 +429,6 @@
       "dates": []
     },
     {
-      "title": "난 리오 수나기는 페스때 복각하면 전4 줄거임..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19361742&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번주말에 신규 이벤트 공지뜨나 일섭",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19361723&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "재정난이라며 제주도 2박3일?..경기도의회 업무보고 일정 '발칵'",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=463841",
       "source": "블루 아카이브 갤러리",
@@ -457,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T09:51:05+00:00",
+  "updatedAt": "2026-09-17T10:14:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
