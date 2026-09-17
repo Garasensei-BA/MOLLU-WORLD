@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-04-06",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,20 +435,20 @@
       "dates": []
     },
     {
+      "title": "술먹고 픽업 돌렸다가 200 폭사 맞고 미래시 대비 질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364388&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이 시발 술먹고 픽업 돌렸다가 200 천장 찍고 술깼네 ㅅㅂ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364376&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "아카이브 픽업 특)",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364364&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "3성은 확률만큼 떴는데 픽업0",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364349&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "헉 아카이브에서 픽업 첨뜸",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364345&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -463,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T19:30:15+00:00",
+  "updatedAt": "2026-09-17T19:47:33+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
