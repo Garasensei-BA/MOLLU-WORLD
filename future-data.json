@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 65
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-02-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -435,20 +429,14 @@
       "dates": []
     },
     {
-      "title": "학교 와이파이로 블카브 업데이트도 하고 일퀘도 했는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19360137&page=1",
+      "title": "아카이브 픽업 뭐해야됨",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19360269&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "제일 좋아하는 이벤트 스토리 뭐있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19360116&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "방디부 콜라보면 무조건 복각 해야하는거 ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19360113&page=1",
+      "title": "블루아카이브 총대결전 유용한 잔기술",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19360259&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T04:50:58+00:00",
+  "updatedAt": "2026-09-17T05:13:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
