@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 65
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,12 +50,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -435,8 +429,14 @@
       "dates": []
     },
     {
-      "title": "올해는 미래시 줄일거 다 줄인건가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19363622&page=1",
+      "title": "갑자기 든 생각인데 왜 미래시 당기는 걸로 불편해하는 사람은 없음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19363708&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "미래시 보고 왔는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19363695&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -457,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T15:31:48+00:00",
+  "updatedAt": "2026-09-17T15:50:29+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
