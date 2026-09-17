@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,8 +429,14 @@
       "dates": []
     },
     {
-      "title": "술먹고 픽업 돌렸다가 200 폭사 맞고 미래시 대비 질문",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364388&page=1",
+      "title": "아카이브뽑 이자식은 픽업캐 나온적이 없어 ㅅㅂ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364453&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "사키 많이 씀? 이벤트 포인트 사키 엘레프 사야하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19364444&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -451,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-17T20:14:43+00:00",
+  "updatedAt": "2026-09-17T20:32:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
