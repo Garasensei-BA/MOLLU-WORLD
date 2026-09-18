@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,20 +435,20 @@
       "dates": []
     },
     {
-      "title": "신규 이벤트 나온대?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365038&page=1",
+      "title": "시기상 일섭 여름페스 다음 라이브가 언제더라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365114&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "클뜯)스포?)대결전 내용에 이거 원래 있었나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365033&page=1",
+      "title": "이벤트 뭔가 어색하다 싶었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365106&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "뉴비 이벤트 소탕 질문점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365028&page=1",
+      "title": "오늘 일섭 공지 나오겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365105&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T01:12:48+00:00",
+  "updatedAt": "2026-09-18T01:30:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
