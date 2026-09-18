@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,20 +429,8 @@
       "dates": []
     },
     {
-      "title": "아카이브 픽업 질문좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19366267&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "정배는 스미카/사나에/미츠키 이벤트 아니려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19366262&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아카이브 티켓 이참에 이즈나 픽업하는 것도 나쁘지 않아보이는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19366249&page=1",
+      "title": "아카이브 모집 티켓 모아야함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19366374&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T05:48:57+00:00",
+  "updatedAt": "2026-09-18T06:18:21+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
