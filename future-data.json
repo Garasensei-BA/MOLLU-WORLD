@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -67,13 +67,13 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-05-05",
+      "date": "2026-04-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
-      "date": "2026-06-05",
+      "date": "2026-05-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -427,6 +427,30 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "아카이브뽑 결국 2천장까지 노픽업이네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370416&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스 캐 다 있고 미카만 없는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370408&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "스케쥴 페스캐는 엘레프 뒤져도 안주네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370389&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭 방덱 열일하네 또",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370387&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -439,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T19:46:59+00:00",
+  "updatedAt": "2026-09-18T20:13:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
