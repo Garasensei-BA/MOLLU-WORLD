@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 65
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-05-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -429,20 +435,8 @@
       "dates": []
     },
     {
-      "title": "나도 대결전 치고 싶은데 못함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19367177&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 일섭 공지고 4컷이고 없는 이유",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19367169&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "칼학 악역일거 같은데 만약 얘 픽업으로 낼꺼면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19367164&page=1",
+      "title": "아카모집이 ㄹㅇ 계륵인게 슌전3찍는데 쓰자니아깝고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19367245&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T09:13:46+00:00",
+  "updatedAt": "2026-09-18T09:31:42+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
