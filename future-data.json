@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -429,14 +429,8 @@
       "dates": []
     },
     {
-      "title": "아키라정도면 페스캐로 나올만하냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365671&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 총력전에서도 토키쓰고 대결전에서도 토키쓰네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365667&page=1",
+      "title": "슬슬 매지컬복각하면 블루아카이브보스goat도 오겟네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19365778&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -451,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T03:49:27+00:00",
+  "updatedAt": "2026-09-18T04:13:49+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
