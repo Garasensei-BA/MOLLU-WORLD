@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 63
+      "count": 64
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -423,8 +429,8 @@
       "dates": []
     },
     {
-      "title": "아이리가 비현실적일정도로 이상적인 여고생의 청량함이 있음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19371341&page=1",
+      "title": "오디세이아는 여름 페스캐로 못 나오겠네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19371468&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -439,7 +445,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-19T02:31:03+00:00",
+  "updatedAt": "2026-09-19T02:48:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
