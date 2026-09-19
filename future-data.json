@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,32 +471,8 @@
       "dates": []
     },
     {
-      "title": "일섭 신이벤 설마 이거 나오냐? ㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373196&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 이벤트를 식당에 비유하자면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373186&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "요즘 일섭은 비는 구간이 없네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373185&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 신이벤스 뭐 발리 투도임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373184&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "왜 페이지에 글이 없나 했더니 일섭 공지가 떴구나...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373177&page=1",
+      "title": "183호반 이벤트 전차 차체 어디거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373317&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -511,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-19T08:32:17+00:00",
+  "updatedAt": "2026-09-19T08:48:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
