@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -37,7 +37,19 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-01-11",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-01-12",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-26",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -398,18 +410,36 @@
     },
     {
       "date": "2027-01-05",
-      "title": "몰루로그 미래시 일정",
+      "title": "대결전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2027-01-05",
-      "title": "이벤트 상설화",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-01-11",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2027-01-12",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-01-12",
+      "title": "이벤트",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-01-26",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -441,32 +471,32 @@
       "dates": []
     },
     {
-      "title": "머? 붉은겨울 이벤트라고?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373067&page=1",
+      "title": "일섭 신이벤 설마 이거 나오냐? ㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373196&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페스 후에 코코로 뽑아야하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373066&page=1",
+      "title": "이번 이벤트를 식당에 비유하자면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373186&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "신 이벤트가 나와도 시구노도 해방은 없다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373062&page=1",
+      "title": "요즘 일섭은 비는 구간이 없네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373185&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "캬ㅋㅋㅋ 한섭도 축제 맞죠?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373061&page=1",
+      "title": "일섭 신이벤스 뭐 발리 투도임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373184&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "신기한 이벤트네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373043&page=1",
+      "title": "왜 페이지에 글이 없나 했더니 일섭 공지가 떴구나...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373177&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +511,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-19T08:14:25+00:00",
+  "updatedAt": "2026-09-19T08:32:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
