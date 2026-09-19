@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -423,8 +423,20 @@
       "dates": []
     },
     {
-      "title": "[J1리그] 8라운드 경기 일정 정리 및 현재 순위",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370696&page=1",
+      "title": "대결전이 아직 토먼트따리라",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370827&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아카이브모집 3성 더럽게안나오네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370821&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아니 뭐야 훈련소때 수로하 나온게 한정이 아니라 페스였어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19370810&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -439,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-18T23:47:18+00:00",
+  "updatedAt": "2026-09-19T00:18:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
