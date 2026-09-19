@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 64
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -62,12 +68,6 @@
     },
     {
       "date": "2026-04-06",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-05-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -397,6 +397,18 @@
       "source": "몰루로그"
     },
     {
+      "date": "2027-01-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-01-05",
+      "title": "이벤트 상설화",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2027-01-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -427,6 +439,36 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "머? 붉은겨울 이벤트라고?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373067&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스 후에 코코로 뽑아야하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373066&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "신 이벤트가 나와도 시구노도 해방은 없다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373062&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "캬ㅋㅋㅋ 한섭도 축제 맞죠?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373061&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "신기한 이벤트네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19373043&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -439,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-19T07:47:39+00:00",
+  "updatedAt": "2026-09-19T08:14:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
