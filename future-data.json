@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,14 +471,8 @@
       "dates": []
     },
     {
-      "title": "상설화 이벤트 파티는 이게 맞아",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19380406&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 티켓 쓴다면 드루카랑 수구사 누가 낳음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19380373&page=1",
+      "title": "한섭 단합안되는쓰레기서클 센세 모집중 (43/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19380469&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T11:29:48+00:00",
+  "updatedAt": "2026-09-20T11:47:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
