@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 73
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -92,6 +92,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +483,8 @@
       "dates": []
     },
     {
-      "title": "약간 선생이 씹덕질에 급발진하는 이벤트 나오면 좋겠음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19378846&page=1",
+      "title": "블아는 모집권 어캐모음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19378926&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T06:17:00+00:00",
+  "updatedAt": "2026-09-20T06:36:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
