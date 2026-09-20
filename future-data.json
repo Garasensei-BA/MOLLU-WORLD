@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 73
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -73,12 +73,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-04-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-04-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -92,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -483,8 +471,8 @@
       "dates": []
     },
     {
-      "title": "블아는 모집권 어캐모음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19378926&page=1",
+      "title": "미래시빨리줄이라고!!!!!!!!!!!!!!!!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19379031&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -499,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T06:36:44+00:00",
+  "updatedAt": "2026-09-20T06:53:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
