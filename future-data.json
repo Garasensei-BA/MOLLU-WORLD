@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 71
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -104,18 +104,6 @@
     },
     {
       "date": "2026-09-16",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-20",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -469,18 +457,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "한섭 통게 토먼트가 침수당할 확률",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19382729&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "요새 일섭 신캐들은 허벅지가 좀 맛있네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19382720&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -493,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T18:48:33+00:00",
+  "updatedAt": "2026-09-20T19:11:13+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
