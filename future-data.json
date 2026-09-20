@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 72
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -477,8 +471,20 @@
       "dates": []
     },
     {
-      "title": "아 붉은 겨울 이벤트 스토리 나오는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19381190&page=1",
+      "title": "미래시 있어도 통게 쉽지 않겠던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19381370&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "한섭 갤클 차르봄바에서 서클원 한분 구함 49/50",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19381356&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "전노협에서 서클원 1명 모집",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19381355&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +499,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T13:48:04+00:00",
+  "updatedAt": "2026-09-20T14:13:04+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
