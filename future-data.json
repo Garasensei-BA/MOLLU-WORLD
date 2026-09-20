@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -471,8 +471,14 @@
       "dates": []
     },
     {
-      "title": "통상 드치루야쿠모 vs 리콜 수시노+페스",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19382254&page=1",
+      "title": "임리스 페스전 체유카 유입 인권빙고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19382349&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전 탄력 인세인 1페에서 10줄남는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19382313&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +493,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T16:31:28+00:00",
+  "updatedAt": "2026-09-20T16:48:13+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
