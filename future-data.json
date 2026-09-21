@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -459,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "연말 채널이 6주년 페스이벤 캐릭터는 아님",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383491&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스캐에 미카나 케이급 도파민을 위해선 빌드업이 필수인데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383490&page=1",
+      "title": "아카이브 모집에 스토리 주역들은 다 넣어줬으면 좋겠는데....",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383587&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T00:40:41+00:00",
+  "updatedAt": "2026-09-21T01:12:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
