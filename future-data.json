@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -68,6 +68,12 @@
     },
     {
       "date": "2026-03-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,8 +465,8 @@
       "dates": []
     },
     {
-      "title": "일섭 경장 시로쿠로 임리오->아루->드루카",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383974&page=1",
+      "title": "NH농협카드 인별 박지훈이 소개한 zgm저장체크카드 이벤트",
+      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=903823",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T02:32:50+00:00",
+  "updatedAt": "2026-09-21T02:50:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
