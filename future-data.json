@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,8 +459,8 @@
       "dates": []
     },
     {
-      "title": "최근 이벤트마다 수상하게 늘어난 학교 재화 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383303&page=1",
+      "title": "미요 페스4격은 언제나오는거임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19383426&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-20T23:47:06+00:00",
+  "updatedAt": "2026-09-21T00:19:26+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
