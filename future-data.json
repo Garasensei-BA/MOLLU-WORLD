@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -32,12 +32,6 @@
     },
     {
       "date": "2026-01-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,8 +459,8 @@
       "dates": []
     },
     {
-      "title": "이겜 한정 복각 얼마나 자주함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19387752&page=1",
+      "title": "왜 이로하 아카이브모집에 있다 생각한거지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19387892&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T13:50:33+00:00",
+  "updatedAt": "2026-09-21T14:13:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
