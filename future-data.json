@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -68,12 +68,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,20 +459,14 @@
       "dates": []
     },
     {
-      "title": "이번 이벤트 너무 위험해",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19384588&page=1",
+      "title": "이벤트 2부 구성으로 추측하는 사람도 있네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19384665&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "진짜 이벤트 브금 개멍청해지는것같네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19384575&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 이벤트나 다다음 이벤트 존나 큰거 올거같다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19384569&page=1",
+      "title": "휴 대결전 끗",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19384662&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -493,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T04:14:03+00:00",
+  "updatedAt": "2026-09-21T04:33:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
