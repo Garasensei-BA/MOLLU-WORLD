@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 70
+      "count": 69
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -465,14 +459,8 @@
       "dates": []
     },
     {
-      "title": "다음 페스는 모르겠고 2부 최종장때 페스로",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19385996&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 페스에는 누가 나올까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19385972&page=1",
+      "title": "나 나구사 아닌데 내년 페스는 아야메(황혼)이다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19386115&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T08:50:29+00:00",
+  "updatedAt": "2026-09-21T09:14:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
