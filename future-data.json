@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 69
+      "count": 70
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -32,6 +32,12 @@
     },
     {
       "date": "2026-01-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -459,8 +465,8 @@
       "dates": []
     },
     {
-      "title": "지금11월달에 예정된 이벤트가 블리전인가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19387624&page=1",
+      "title": "이겜 한정 복각 얼마나 자주함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19387752&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T13:31:51+00:00",
+  "updatedAt": "2026-09-21T13:50:33+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
