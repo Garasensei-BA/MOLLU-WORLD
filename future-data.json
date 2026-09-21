@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -457,18 +457,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "드디어 땄다 모집 아로프라 확정연출 움짤",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19386555&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "매지컬 복각 한참남았냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19386535&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -481,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-21T10:31:40+00:00",
+  "updatedAt": "2026-09-21T10:49:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
