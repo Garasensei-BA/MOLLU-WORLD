@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -439,6 +439,24 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "원스토어 페이백 이벤트 안 하나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395467&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "진짜 총력전 티켓 6장 패치는 GOAT다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395456&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "다음 페스캐 뭐일거같냐ㅑ??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395455&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -451,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T18:17:24+00:00",
+  "updatedAt": "2026-09-22T18:36:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
