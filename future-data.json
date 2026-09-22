@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,38 +441,20 @@
       "dates": []
     },
     {
-      "title": "이러면 에리카는 페스때 통언뜬 하는걸로",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391521&page=1",
+      "title": "배포캐 조각 일섭 선반영 아님?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391634&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "드럼통 게 총력전 긴급공략 지원작전!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391520&page=1",
+      "title": "일섭도 통게 또 나오네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391633&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "근데 원래 총력전 복각을 빨리함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391508&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "뭐야 일섭 통게 또 오네?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391499&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "뭐야 일섭 벌써 통게 복각이라고??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391490&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "젠장 한섭도 조기도입좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391488&page=1",
+      "title": "총력전 편의성 개선할수록 컷이 올라가는건 불합리해",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19391617&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -487,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T06:38:30+00:00",
+  "updatedAt": "2026-09-22T06:56:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
