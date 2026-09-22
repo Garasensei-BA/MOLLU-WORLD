@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -32,12 +32,6 @@
     },
     {
       "date": "2026-01-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,20 +441,8 @@
       "dates": []
     },
     {
-      "title": "일섭은 진짜 팀단위로 움직이니까 무섭다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394115&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "갤클 [코하루단] 1명 모집중",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394101&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "캬 이게 대결전 마지막날이지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394078&page=1",
+      "title": "10연티켓 기간 8일정도 남았는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394218&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T13:33:23+00:00",
+  "updatedAt": "2026-09-22T13:50:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
