@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -44,12 +44,6 @@
     },
     {
       "date": "2026-01-12",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-19",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,6 +441,18 @@
       "dates": []
     },
     {
+      "title": "한섭 갤클 차르봄바에서 서클원 한분 찾아요 49/50",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395706&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "삼격전부딜러인년들페스딜러로못내게하는법안통과해야함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395699&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "일섭 공식 사이트 보니까 수화요란 복각때도 엘레프 패키 팔던데",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395679&page=1",
       "source": "블루 아카이브 갤러리",
@@ -475,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T20:49:21+00:00",
+  "updatedAt": "2026-09-22T21:12:37+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
