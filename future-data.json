@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,8 +441,8 @@
       "dates": []
     },
     {
-      "title": "드럼통게 한섭 출시 기념 투구게 행위",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19390776&page=1",
+      "title": "와 이게 얼마만의 노말 총력전이냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19390829&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T04:32:16+00:00",
+  "updatedAt": "2026-09-22T04:49:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
