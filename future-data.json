@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,32 +441,14 @@
       "dates": []
     },
     {
+      "title": "지금 일섭 가챠개선 감안하면 통게같은거 더",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395742&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "한섭 갤클 차르봄바에서 서클원 한분 찾아요 49/50",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395706&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "삼격전부딜러인년들페스딜러로못내게하는법안통과해야함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395699&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 공식 사이트 보니까 수화요란 복각때도 엘레프 패키 팔던데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395679&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 분명 안정권 골드였는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395678&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오랜만에 총력전 제대로",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395677&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T21:12:37+00:00",
+  "updatedAt": "2026-09-22T21:30:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
