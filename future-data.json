@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -447,8 +447,20 @@
       "dates": []
     },
     {
-      "title": "총력전 깨고 공부하려고 2시간째 멍때리는중",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19389784&page=1",
+      "title": "드럼통게 하코정공 일섭1위 영상",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19389856&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 하나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19389851&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아니근데 오팔육도 미래시 이리처매운데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19389839&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T00:54:56+00:00",
+  "updatedAt": "2026-09-22T01:11:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
