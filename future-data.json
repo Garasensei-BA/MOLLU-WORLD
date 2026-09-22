@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -32,6 +32,12 @@
     },
     {
       "date": "2026-01-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -441,14 +447,20 @@
       "dates": []
     },
     {
-      "title": "새 총력전이니 노말부터 깨야겟지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394001&page=1",
+      "title": "일섭은 진짜 팀단위로 움직이니까 무섭다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394115&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "6주년 페스 누구 나오려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19393988&page=1",
+      "title": "갤클 [코하루단] 1명 모집중",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394101&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "캬 이게 대결전 마지막날이지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394078&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T13:15:01+00:00",
+  "updatedAt": "2026-09-22T13:33:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
