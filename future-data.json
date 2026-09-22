@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -439,24 +439,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "픽업 드간 통상캐 통언뜬으로 먹으니깐 뭔가 뭔가임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394349&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통게 총력전 망하면 할카스들 연대책임으로 혼낼거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394330&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "저는 드루카 페스통언뜬으로 먹을거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394326&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -469,7 +451,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T14:14:16+00:00",
+  "updatedAt": "2026-09-22T14:33:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
