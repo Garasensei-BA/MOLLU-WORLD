@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,8 +441,20 @@
       "dates": []
     },
     {
-      "title": "일섭 오늘 빡통소련녀 나온거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19394985&page=1",
+      "title": "대결전의 순기능이 없다곤 말못함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395092&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "미래시 중간에 큰게 오는구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395085&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "대결전이 갑자기 괜찮은 전략게임으로 보이기시작함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395079&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T16:14:05+00:00",
+  "updatedAt": "2026-09-22T16:33:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
