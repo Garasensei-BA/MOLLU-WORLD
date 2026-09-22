@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,26 +441,20 @@
       "dates": []
     },
     {
-      "title": "에리카 픽업 스킵했지만 에리카는 있어야될듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395858&page=1",
+      "title": "매주 수요일 아침은 스팀점검이래",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395916&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "니코 진짜 복각 1년 뒤임..?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395849&page=1",
+      "title": "오늘 점검함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395892&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭에선 그냥 슴슴하게 지나갔는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395848&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전이 ㄹㅇ 헛되고 헛되니 모든 것이 헛되도다 아니냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395842&page=1",
+      "title": "일섭은 통게 인세인 1팟클이 되는구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395878&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T22:30:47+00:00",
+  "updatedAt": "2026-09-22T22:47:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
