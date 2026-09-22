@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -445,12 +445,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395742&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "한섭 갤클 차르봄바에서 서클원 한분 찾아요 49/50",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19395706&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -463,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T21:30:23+00:00",
+  "updatedAt": "2026-09-22T21:48:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
