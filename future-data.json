@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,32 +441,14 @@
       "dates": []
     },
     {
-      "title": "모든 총력전이 다 재밌다는건 솔직히 구라 같고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396622&page=1",
+      "title": "이번 픽업 성능 어떰?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396706&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "블아 총력전 재밌는데 ㄹㅇ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396619&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "총력전은 괸성같은거임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396608&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그래도 한섭은 통게 미래시 보고 준비한 애들이 효과보고 있네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396600&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "부천국제애니메이션페스티벌(BIAF) 국제경쟁작 장편 11개 공개",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=465235",
+      "title": "이벤트상점 다털엇으면 특임하는게이득인가요?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396688&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -481,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T02:14:00+00:00",
+  "updatedAt": "2026-09-23T02:32:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
