@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,20 +441,8 @@
       "dates": []
     },
     {
-      "title": "님들 총력전 이거",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401581&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아직 점검 중인거야?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401580&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭에 뭐 버그 터짐?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401552&page=1",
+      "title": "총력전 20만점정도면 어느정도임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401739&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T14:33:26+00:00",
+  "updatedAt": "2026-09-23T14:52:20+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
