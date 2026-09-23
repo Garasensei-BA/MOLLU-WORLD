@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,20 +441,26 @@
       "dates": []
     },
     {
-      "title": "왜 한섭은 추석이라고 떡주고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401160&page=1",
+      "title": "총력전 초 비 상 !!!!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401378&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "예소드는 한섭 인세인클수가 유난히 적었었는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401136&page=1",
+      "title": "뭔데 아직도 점검 안끝남?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401363&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "한섭것이 역수입 되는구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401123&page=1",
+      "title": "자다깨서 일섭 념글 싹 다 봐버리기 ㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401349&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "sm코 매지컬 복각때 오는거 맞겠지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401348&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -469,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T13:50:53+00:00",
+  "updatedAt": "2026-09-23T14:14:31+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
