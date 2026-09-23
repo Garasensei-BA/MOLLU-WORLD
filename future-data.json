@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -26,12 +26,6 @@
     },
     {
       "date": "2026-01-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -449,14 +443,14 @@
       "dates": []
     },
     {
-      "title": "찢게 일섭 때 쓸 애가 없어서 1페 때 아루 썼는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403648&page=1",
+      "title": "일섭 신캐 얘랑 똑같이 생겼네 ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403707&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "요번 이벤트로 하급오파츠 선택권 잘쌓이네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403624&page=1",
+      "title": "와 대결전 순위 레전드ㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403671&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -471,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T22:48:04+00:00",
+  "updatedAt": "2026-09-23T23:10:53+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
