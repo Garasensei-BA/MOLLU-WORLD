@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,16 +441,8 @@
       "dates": []
     },
     {
-      "title": "라이스 페스타가 11.27~29래",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398818&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-11-27"
-      ]
-    },
-    {
-      "title": "블리전 일정 이거 맞음???",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398808&page=1",
+      "title": "뭔가 이번 이벤트에서 칠수인 나올것 같은 느낌",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398937&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +457,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T08:50:52+00:00",
+  "updatedAt": "2026-09-23T09:13:48+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
