@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,8 @@
       "dates": []
     },
     {
-      "title": "일섭 신캐 얘랑 똑같이 생겼네 ㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403707&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "와 대결전 순위 레전드ㅋㅋㅋㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403671&page=1",
+      "title": "일섭 신캐랑 자꾸",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403750&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T23:10:53+00:00",
+  "updatedAt": "2026-09-23T23:28:36+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
