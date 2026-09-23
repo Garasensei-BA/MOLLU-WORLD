@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 11
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-08-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,38 +441,8 @@
       "dates": []
     },
     {
-      "title": "한섭 갤클 '블루'에서 한 명 모집합니다요 (49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397074&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭 메인스 조기 도입이면 게헨나 말하는 건가?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397065&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "현행 일섭인구 총력 31만/대결 26만인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397053&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그냥 미래시 좀 더 당겨죠",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397051&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "모의총력전이 미래시 줄이는거랑 관계가 있을까?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397044&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "메인스토리는 더 빨리 업데이트해준다니 좋구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397042&page=1",
+      "title": "근데 일본 애들도 한섭 방송 많이 봄?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19397175&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -499,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T03:32:37+00:00",
+  "updatedAt": "2026-09-23T03:49:53+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
