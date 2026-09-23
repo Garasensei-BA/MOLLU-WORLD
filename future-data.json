@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -439,6 +439,36 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "일섭)\"응 선생님, 죽이 잘 맞을 것 같은 친구를 찾았어.\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19400369&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "당번 랜덤기능 넣는김에 랜덤일정확률 모브 나오면 좋겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19400365&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아니 이제 켰는데 미정 점검 뭐야",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19400358&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검사유 어올리는게 존나 웃기네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19400348&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "스펙 점검중인데 ㅅㅂ 여태 정공전 좆으로했네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19400343&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -451,7 +481,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T11:49:58+00:00",
+  "updatedAt": "2026-09-23T12:17:32+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
