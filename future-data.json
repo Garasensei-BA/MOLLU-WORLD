@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,20 +443,8 @@
       "dates": []
     },
     {
-      "title": "총력전/대결전 훈수두는 학생 시리즈 넘 귀엽다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403565&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "클뜯) 다음 대결전 대비 육성 상황",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403553&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 스포) 드디어 붉은겨울의 수수께끼 하나가 해결됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403520&page=1",
+      "title": "아차 어제 총력전 안돌렸다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403583&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -477,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T22:13:26+00:00",
+  "updatedAt": "2026-09-23T22:30:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
