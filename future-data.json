@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,20 +441,14 @@
       "dates": []
     },
     {
-      "title": "아니 내 총력전 등수가!!!!!!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398346&page=1",
+      "title": "총력대결전 연합 공투라는 게 장점이 꽤 많네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398386&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "아카이브 모집은 멤버확장 안하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398326&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 왜 점검이지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398310&page=1",
+      "title": "일섭 메모로비 전케릭 랜덤 들어오니 이제",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19398381&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -475,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T07:17:16+00:00",
+  "updatedAt": "2026-09-23T07:33:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
