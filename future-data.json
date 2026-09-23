@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,6 +441,12 @@
       "dates": []
     },
     {
+      "title": "오늘점검인가?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396173&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "부천국제애니메이션페스티벌(BIAF) 국제경쟁작 장편 11개 공개",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=465235",
       "source": "블루 아카이브 갤러리",
@@ -457,7 +463,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-22T23:47:00+00:00",
+  "updatedAt": "2026-09-23T00:18:05+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
