@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,8 +441,14 @@
       "dates": []
     },
     {
-      "title": "총력전 뉴비임",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396792&page=1",
+      "title": "뭐? 일섭 방송때 저렇게 친절하게 설명하지 그랬냐고?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396924&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뭐야 일섭 사망함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19396920&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -463,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T02:49:44+00:00",
+  "updatedAt": "2026-09-23T03:13:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
