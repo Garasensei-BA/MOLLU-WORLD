@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -447,8 +441,26 @@
       "dates": []
     },
     {
-      "title": "스포) 다음 오프라인 이벤트 예고인거네 ㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19402697&page=1",
+      "title": "총력전 티켓",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19402839&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 속도 조절할때 남은 전체 시간에도 적용됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19402837&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이벤트 로비에 안나나오면 화면 절반이 젖이야",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19402821&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "씨발 긴급점검으로 720돌???",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19402818&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -463,7 +475,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T16:50:36+00:00",
+  "updatedAt": "2026-09-23T17:13:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
