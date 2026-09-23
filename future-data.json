@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -443,8 +449,8 @@
       "dates": []
     },
     {
-      "title": "한섭 수구사 언제지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403341&page=1",
+      "title": "갑자기 웨딩드레스 이벤트나어면 어캄??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403387&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -459,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T20:14:40+00:00",
+  "updatedAt": "2026-09-23T20:31:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
