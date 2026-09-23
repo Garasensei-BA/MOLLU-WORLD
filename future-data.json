@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,6 +86,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -443,14 +449,8 @@
       "dates": []
     },
     {
-      "title": "대결전 게부라는 신비 폭발 관통ㅇ이겠지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403267&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "게부라 대결전 빌드업 대충 알았다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403255&page=1",
+      "title": "이번 일섭 버그 짤도 벌써 나오네ㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403299&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T19:31:07+00:00",
+  "updatedAt": "2026-09-23T19:48:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
