@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,8 +441,20 @@
       "dates": []
     },
     {
-      "title": "총력전 20만점정도면 어느정도임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401739&page=1",
+      "title": "일섭 터지면 한섭은 무슨 이득이 있나요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401989&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "오늘 일섭은 글렀구만",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401968&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뭔 총력전 보스는 갈수록 어려워지냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19401965&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -457,7 +469,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T14:52:20+00:00",
+  "updatedAt": "2026-09-23T15:13:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
