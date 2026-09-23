@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,26 +441,38 @@
       "dates": []
     },
     {
-      "title": "한섭은 통게때문에 대가리 깨지겠는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399840&page=1",
+      "title": "휴 후일담은 못봤지만 점검전에 이벤스 본편은 다봤다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399952&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "칼학은 일섭에서도 이름 아직 안나온거임?!",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399819&page=1",
+      "title": "클뜯)\"뭐? 효율도 좆박은 주제에 복각도 안하는건 너무 하지 않냐고?\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399951&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "요즘 왤케 게부라 대결전 준비하는 느낌이지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399801&page=1",
+      "title": "습박 긴급점검 뭐지요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399948&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "스포) 일섭 이벤스 이번으로 완결이 아님?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399800&page=1",
+      "title": "(클뜯) 근데 이미 ㅇㅇ 컨셉 총력전은 이미 있잖음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399946&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭) 20:35분부터 긴급점검",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399933&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "클뜯)다음 신규 총력전 보스 유출",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19399930&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -475,7 +487,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-23T11:13:33+00:00",
+  "updatedAt": "2026-09-23T11:31:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
