@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,6 +441,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "이벤트로 주는 아카이브 티켓들 안쓰면 증발함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19409028&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스 전까지 뽑아야 하는 챔피언 누구누구 있었지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19408999&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -453,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T13:53:28+00:00",
+  "updatedAt": "2026-09-24T14:14:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
