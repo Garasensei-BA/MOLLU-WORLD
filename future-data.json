@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -86,6 +86,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -443,14 +449,8 @@
       "dates": []
     },
     {
-      "title": "이벤트로 주는 아카이브 티켓들 안쓰면 증발함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19409028&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 전까지 뽑아야 하는 챔피언 누구누구 있었지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19408999&page=1",
+      "title": "Hoxy 양모펠트로 반려동물 만들어주는 이벤트 하면",
+      "url": "https://gall.dcinside.com/board/view/?id=animal&no=623021",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T14:14:44+00:00",
+  "updatedAt": "2026-09-24T14:34:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
