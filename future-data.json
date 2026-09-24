@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,8 @@
       "dates": []
     },
     {
-      "title": "근데 블루 아카이브 한섭이랑 일섭 시간 차이 나잖아",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19405754&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 드럼통게 점수컷",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19405735&page=1",
+      "title": "총력전 티켓 상한에 리트라이에 개선 해준거 좋은데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19405922&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T05:49:39+00:00",
+  "updatedAt": "2026-09-24T06:17:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
