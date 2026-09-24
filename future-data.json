@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,6 +441,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "[고백] 총력전 처음 나온 뒤로 보스 컨텐츠 유기했음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410928&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "수구사 수키키가 같은 픽업이 아닌 건 좀 아숩네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410908&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -453,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T22:31:24+00:00",
+  "updatedAt": "2026-09-24T22:49:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
