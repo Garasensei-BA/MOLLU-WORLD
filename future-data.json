@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,20 @@
       "dates": []
     },
     {
-      "title": "찢게 풀조력) 한섭 갤클 id 74, [응애] 서클원 구함 49/50",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19406265&page=1",
+      "title": "총력전 패배시 리트가 무슨기능이지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19406337&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭 통게 완전 야생이었네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19406257&page=1",
+      "title": "클뜯) 다음 대결전 팟 짜보면 대충 이런 느낌이려나???",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19406334&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블태기 왔나 총력대결전 유기하고 좀 쉴까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19406333&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +471,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T07:18:29+00:00",
+  "updatedAt": "2026-09-24T07:34:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
