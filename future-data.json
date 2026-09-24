@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,8 @@
       "dates": []
     },
     {
-      "title": "일섭 신캐 디자인은 잘나왔는데 뭔가 거추장스러워서그런가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403901&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "다음 페스때",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19403891&page=1",
+      "title": "현상수배 정상화 페스 때 조기도입 해주겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19404004&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T00:18:38+00:00",
+  "updatedAt": "2026-09-24T00:40:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
