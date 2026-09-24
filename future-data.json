@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,18 +441,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "총력전 4시 뒤에 끝나면 바로 소탕 됐었지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410528&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "통게 따개들 일섭도 아직 똑같음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410486&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -465,7 +453,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T18:36:17+00:00",
+  "updatedAt": "2026-09-24T18:52:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
