@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 67
+      "count": 66
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -86,12 +86,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -449,8 +443,8 @@
       "dates": []
     },
     {
-      "title": "총력전 그냥 이번거 스킵해야겠다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410383&page=1",
+      "title": "페스캐 딜구조가 병신같은건 의도적인가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410470&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T17:48:38+00:00",
+  "updatedAt": "2026-09-24T18:16:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
