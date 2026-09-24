@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -441,18 +441,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19343113&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "총력전 관련해서 질문이 있어요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19404299&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "260923 멜론 공계 로제 사인 폴라로이드 증정 이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=blackpink&no=5338840",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -465,7 +453,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T01:50:10+00:00",
+  "updatedAt": "2026-09-24T02:13:37+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
