@@ -31,12 +31,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-01-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-01-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -92,6 +86,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -449,8 +449,8 @@
       "dates": []
     },
     {
-      "title": "이번 일섭 이벤스 되게 호평받네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410320&page=1",
+      "title": "총력전 그냥 이번거 스킵해야겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19410383&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-24T17:30:57+00:00",
+  "updatedAt": "2026-09-24T17:48:38+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
