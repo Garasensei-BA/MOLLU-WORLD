@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,8 @@
       "dates": []
     },
     {
-      "title": "총력전 보스마냥 칼학이랑 싸울때가 오려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19411812&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭 방송은 블리전때 키는거야?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19411809&page=1",
+      "title": "대부분의 루나틱 총력전들 그립습니다...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19411927&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T02:13:02+00:00",
+  "updatedAt": "2026-09-25T02:32:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
