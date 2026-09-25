@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -62,6 +62,12 @@
     },
     {
       "date": "2026-02-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -443,14 +449,8 @@
       "dates": []
     },
     {
-      "title": "울그룹 1박 총력전도 개빡세게 하니까 성작 어지럽네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413490&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "생각보다 총력전 열심히하는 사람 많네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413452&page=1",
+      "title": "한섭이 플레권 콘크리트들은 언제든 열심히 친다는거임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413569&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T06:40:01+00:00",
+  "updatedAt": "2026-09-25T06:57:48+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
