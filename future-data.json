@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,6 +26,12 @@
     },
     {
       "date": "2026-01-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -443,8 +449,14 @@
       "dates": []
     },
     {
-      "title": "마리는 총력전에서 필수임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19415750&page=1",
+      "title": "확실히 한섭은 미래시보고 준비해서 그런가",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19415887&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "갤클 더불어민1주당에서 당원 모집중 (20/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19415865&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -459,7 +471,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T12:57:20+00:00",
+  "updatedAt": "2026-09-25T13:19:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
