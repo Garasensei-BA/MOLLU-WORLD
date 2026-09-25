@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,14 +443,8 @@
       "dates": []
     },
     {
-      "title": "한섭 갤클 '블루' 에서 1명 모집합니다 (49/50)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19414623&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "요즘 총력전 보스들 설명 읽는거 힘듬",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19414613&page=1",
+      "title": "총력전 1등보다 4배 대단한 거",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19414708&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -465,7 +459,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T09:50:49+00:00",
+  "updatedAt": "2026-09-25T10:14:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
