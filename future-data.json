@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 66
+      "count": 67
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -32,6 +32,12 @@
     },
     {
       "date": "2026-01-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -91,6 +97,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-06-01",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-09-15",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -117,12 +129,6 @@
     {
       "date": "2026-09-25",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -443,8 +449,14 @@
       "dates": []
     },
     {
-      "title": "예소드는 복각안해?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19417495&page=1",
+      "title": "마리 그냥 한섭 쮸글 원툴인줄 알았는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19417974&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭통게는 죄다 수부키임유즈네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19417966&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -459,7 +471,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T18:04:15+00:00",
+  "updatedAt": "2026-09-25T21:40:28+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
