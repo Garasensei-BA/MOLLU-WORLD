@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -443,8 +443,14 @@
       "dates": []
     },
     {
-      "title": "뉴비 페스때 질문",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413329&page=1",
+      "title": "울그룹 1박 총력전도 개빡세게 하니까 성작 어지럽네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413490&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "생각보다 총력전 열심히하는 사람 많네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19413452&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -459,7 +465,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-25T06:17:44+00:00",
+  "updatedAt": "2026-09-25T06:40:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
