@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 0
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -391,7 +391,46 @@
       "source": "몰루로그"
     }
   ],
-  "evidence": [],
+  "evidence": [
+    {
+      "title": "함께 보내는 5주년, 블루아카 킨텍스서 페스티벌 연다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19455261&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블루 아카이브 미래시 정보 [09/24]",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-09-24"
+      ]
+    },
+    {
+      "title": "복각 『백에서 피어난 한송이』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19437082&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 상점 털고있었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19458599&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    }
+  ],
   "source_counts": {
     "몰루로그": 69
   },
@@ -402,7 +441,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-01T06:08:13+00:00",
+  "updatedAt": "2026-10-01T13:30:46+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
