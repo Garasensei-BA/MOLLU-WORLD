@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -419,20 +419,8 @@
       "dates": []
     },
     {
-      "title": "게부라는 뭐 일섭 모의전 영상도 없네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19454042&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "닭값 폭락인데 치킨값 그대로? 李 대통령 \"한번 점검해보겠다\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=466973",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "덴티스테 10월 이벤트 페이지 박지훈 광고 사진 넘이뽀",
-      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=904573",
+      "title": "일섭 현상수배 상점 배포캐 조각 엄청싸네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19454453&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -447,7 +435,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-09-30T20:39:07+00:00",
+  "updatedAt": "2026-10-01T00:10:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
