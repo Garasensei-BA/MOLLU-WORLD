@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -425,8 +425,14 @@
       "dates": []
     },
     {
-      "title": "총력전 상점 털고있었는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19458599&page=1",
+      "title": "축구선수 고트 ㅋㅋㅋ 픽업이 열린다고 함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19459898&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "[단독] 삼성역 주철근 누락, 서울시 관계자들 보고 받고도 점검 때 '침",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=467169",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -441,7 +447,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-01T13:30:46+00:00",
+  "updatedAt": "2026-10-01T19:01:24+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
