@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -393,12 +393,6 @@
   ],
   "evidence": [
     {
-      "title": "함께 보내는 5주년, 블루아카 킨텍스서 페스티벌 연다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19455261&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -423,12 +417,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "일섭 페스가려고 오랜만에 복귀함..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19460828&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -441,7 +429,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-02T02:19:17+00:00",
+  "updatedAt": "2026-10-02T08:41:51+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
