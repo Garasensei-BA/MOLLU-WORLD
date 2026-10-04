@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -419,8 +419,14 @@
       "dates": []
     },
     {
-      "title": "오늘 한 일 : 출근해서 현장 정리 및 주간 보고 사항 점검 후",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19476558&page=1",
+      "title": "근데 총력전 인백하는 애들은 극악무도한 성능충인줄 알았는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19477994&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "모의총력전 하는애들을 주의해야함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19477966&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -435,7 +441,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-04T12:36:12+00:00",
+  "updatedAt": "2026-10-04T17:01:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
