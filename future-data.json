@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -417,18 +417,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "유튜브 이 병신들 업데이트를 대체 어떻게 한거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19478457&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "님들 아카이브 모집 살 거 없으면 그냥 아껴두는 중임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19478442&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -441,7 +429,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-04T20:14:08+00:00",
+  "updatedAt": "2026-10-04T23:17:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
