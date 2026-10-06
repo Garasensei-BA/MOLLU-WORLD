@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 61
+      "count": 59
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -79,12 +79,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-03-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -111,12 +105,6 @@
     {
       "date": "2026-09-29",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "대결전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -413,8 +401,8 @@
       "dates": []
     },
     {
-      "title": "총력전<<< 은근 재밌긴함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19485495&page=1",
+      "title": "쓰던 디시콘이 몰래 업데이트됨",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19487012&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -435,7 +423,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-06T00:19:13+00:00",
+  "updatedAt": "2026-10-06T06:35:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
