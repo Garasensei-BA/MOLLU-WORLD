@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -407,18 +407,6 @@
       "dates": []
     },
     {
-      "title": "수요일 아침은 스팀 점검시간",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19491073&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "채널a) \"감독님이 먹으라고\"...\"선수관리 점검\"",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468316",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "부산 록페스티벌 명물 ’한신2차 부녀회‘는 왜 축제에 참여하게 된걸까?",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468419",
       "source": "블루 아카이브 갤러리",
@@ -435,7 +423,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-06T19:03:58+00:00",
+  "updatedAt": "2026-10-06T23:06:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
