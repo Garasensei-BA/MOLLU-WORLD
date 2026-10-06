@@ -375,8 +375,20 @@
   ],
   "evidence": [
     {
+      "title": "함장과 군함 포함, 월드 오브 워쉽 '블루아카' 컬래버 복각",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19487819&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -389,26 +401,14 @@
       ]
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "복각 『백에서 피어난 한송이』 이벤트 종합 가이드",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19437082&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "쓰던 디시콘이 몰래 업데이트됨",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19487012&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "러시아 페스트 연구소서 병원체 사고…연구원 사망·200명 격리",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468163",
+      "title": "채널a) \"감독님이 먹으라고\"...\"선수관리 점검\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468316",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -423,7 +423,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-06T06:35:08+00:00",
+  "updatedAt": "2026-10-06T13:36:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
