@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -375,12 +375,6 @@
   ],
   "evidence": [
     {
-      "title": "함장과 군함 포함, 월드 오브 워쉽 '블루아카' 컬래버 복각",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19487819&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "블루 아카이브 미래시 정보 [10/07]",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
@@ -407,8 +401,8 @@
       "dates": []
     },
     {
-      "title": "부산 록페스티벌 명물 ’한신2차 부녀회‘는 왜 축제에 참여하게 된걸까?",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=468419",
+      "title": "이번 픽업 넘겨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19494360&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -423,7 +417,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-07T02:28:10+00:00",
+  "updatedAt": "2026-10-07T09:14:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
