@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 79
+      "count": 78
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -80,12 +80,6 @@
     },
     {
       "date": "2026-02-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-02-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -521,8 +515,14 @@
       "dates": []
     },
     {
-      "title": "한섭도 드디어 료멘 수꾸나가 오는구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19507252&page=1",
+      "title": "이벤트성으로 앤틱 세라핌 다시 내보내서",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19509827&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "확실히 대결전이라서 그런지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19509806&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -537,7 +537,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-09T06:45:27+00:00",
+  "updatedAt": "2026-10-09T14:14:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
