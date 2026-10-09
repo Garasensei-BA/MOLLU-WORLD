@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 78
+      "count": 77
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -109,6 +109,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-07-08",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-09-16",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -116,12 +122,6 @@
     },
     {
       "date": "2026-09-29",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -135,12 +135,6 @@
     {
       "date": "2026-10-09",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -515,14 +509,14 @@
       "dates": []
     },
     {
-      "title": "이벤트성으로 앤틱 세라핌 다시 내보내서",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19509827&page=1",
+      "title": "정공전 일섭한섭 아직 등수 그대로군",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19511191&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "확실히 대결전이라서 그런지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19509806&page=1",
+      "title": "여러분이 존나 닥달하는 바람에 미래시가줄고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19511168&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -537,7 +531,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-09T14:14:03+00:00",
+  "updatedAt": "2026-10-09T19:34:40+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
