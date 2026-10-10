@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-10-13",
-      "title": "이벤트 확정",
+      "title": "이벤트 확정 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -362,7 +362,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "이벤트",
+      "title": "이벤트 보물찾기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -513,7 +513,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-10T15:33:54+00:00",
+  "updatedAt": "2026-10-10T19:30:21+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
