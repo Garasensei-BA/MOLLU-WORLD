@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -503,20 +503,14 @@
       "dates": []
     },
     {
-      "title": "대결전 호버크래프트는 원래 더 어려움?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19520071&page=1",
+      "title": "이번 대결전 머리 많이 빠지냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19522416&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전 익익익 대충쳤는데 14000 언저리네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19520058&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "대결전 끝",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19520057&page=1",
+      "title": "이젠 뭔 게임인지도 모르겠는 걸 이벤트 하다니",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19522391&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -531,7 +525,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-11T08:29:24+00:00",
+  "updatedAt": "2026-10-11T15:03:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
