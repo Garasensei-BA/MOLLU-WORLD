@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 76
+      "count": 77
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -128,6 +128,12 @@
     },
     {
       "date": "2026-10-09",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-11",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -503,14 +509,14 @@
       "dates": []
     },
     {
-      "title": "이번 대결전 머리 많이 빠지냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19522416&page=1",
+      "title": "에리다요 주회보상 왜 모집티켓임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19523482&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이젠 뭔 게임인지도 모르겠는 걸 이벤트 하다니",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19522391&page=1",
+      "title": "호드 대결전은 신규 육성 안해도 되네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19523475&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -525,7 +531,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-11T15:03:56+00:00",
+  "updatedAt": "2026-10-11T19:35:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
