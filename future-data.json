@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -509,8 +509,14 @@
       "dates": []
     },
     {
-      "title": "1일차 2일차 일정 나와있나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19523768&page=1",
+      "title": "진짜 일자리 신입모집하는데 왜 경력이 우대사항이냐고 시발ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19524481&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "블리전 일정 대강이라도 공개된거 있음? 아니면 작년꺼라도",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19524479&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -525,7 +531,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-11T23:09:05+00:00",
+  "updatedAt": "2026-10-12T02:29:24+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
