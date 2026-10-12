@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 78
+      "count": 75
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -103,19 +103,13 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-05-03",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-05-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
-      "date": "2026-09-16",
+      "date": "2026-06-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -133,12 +127,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-10-09",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-11",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -147,12 +135,6 @@
     {
       "date": "2026-10-12",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -513,6 +495,36 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19437082&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "님들 이거 10시대면 다른이벤트 바로 열리나양?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530035&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검후 가챠돌리고 전4올릴것들",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530018&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "미래시에서 아카이브 티켓 얼마나 생김?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530000&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "점검 끝나면 바로 이로하 애용품 주고 방덱 바꿔야지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19529998&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "ㅅㄱㅂㄱ 여친이해준 이벤트",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469865",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -525,7 +537,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-12T09:44:21+00:00",
+  "updatedAt": "2026-10-12T19:41:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
