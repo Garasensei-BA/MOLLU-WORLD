@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 75
+      "count": 74
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -104,12 +104,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-06-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -497,26 +491,32 @@
       "dates": []
     },
     {
-      "title": "님들 이거 10시대면 다른이벤트 바로 열리나양?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530035&page=1",
+      "title": "나도 총력전, 대결전 못친사람들보면 옛날엔 놀렸는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530988&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검후 가챠돌리고 전4올릴것들",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530018&page=1",
+      "title": "점검 전에 인연 랭크 업",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530987&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "미래시에서 아카이브 티켓 얼마나 생김?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530000&page=1",
+      "title": "오늘 점검하면 누구 픽업임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530961&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검 끝나면 바로 이로하 애용품 주고 방덱 바꿔야지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19529998&page=1",
+      "title": "오늘 점검 몇 시 까지야??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530960&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "오늘 점검 있나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530949&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -537,7 +537,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-12T19:41:15+00:00",
+  "updatedAt": "2026-10-13T01:53:52+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
