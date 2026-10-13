@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 74
+      "count": 71
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 10
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -109,18 +109,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-09-29",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-11",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -135,12 +123,6 @@
     {
       "date": "2026-10-13",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "이벤트 확정 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -473,6 +455,12 @@
       ]
     },
     {
+      "title": "신규 『람과천청』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -485,44 +473,32 @@
       "dates": []
     },
     {
-      "title": "복각 『백에서 피어난 한송이』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19437082&page=1",
+      "title": "이번 픽업 거를려고",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19535046&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "나도 총력전, 대결전 못친사람들보면 옛날엔 놀렸는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530988&page=1",
+      "title": "샬레 집무실 업데이트...폭력적",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19535045&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "점검 전에 인연 랭크 업",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530987&page=1",
+      "title": "지금 이벤트 스토리 보는데 키키도 물약먹고 어려진거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19535043&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "오늘 점검하면 누구 픽업임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530961&page=1",
+      "title": "수마전 페스에서 필수로 뽑아야 할거 뭐임",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19535039&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "오늘 점검 몇 시 까지야??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530960&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "오늘 점검 있나?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530949&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "ㅅㄱㅂㄱ 여친이해준 이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469865",
+      "title": "상큼한 1천장 1픽업",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19535033&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -537,7 +513,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-13T01:53:52+00:00",
+  "updatedAt": "2026-10-13T09:07:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
