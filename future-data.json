@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 81
+      "count": 80
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -122,12 +122,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -521,26 +515,14 @@
       ]
     },
     {
-      "title": "신규 『람과천청』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "매이사 매즈미 픽업 때 매이사가 중요한줄 알았는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19542386&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이거 복각인질 수꾸나인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19542363&page=1",
+      "title": "신규 『람과천청』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -555,7 +537,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-14T06:00:54+00:00",
+  "updatedAt": "2026-10-14T12:05:53+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
