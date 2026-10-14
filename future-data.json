@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -473,20 +473,14 @@
       "dates": []
     },
     {
-      "title": "프리미엄 대쉬 결국 그냥 모집보다 후진거 아님?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19539483&page=1",
+      "title": "한섭 온리전 행사 이번에도 새로운건 없으려나?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19540181&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "근데 스탬프 이벤트 무제한이면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19539473&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "현재 96세대에 대한 악플 상황.. 축협 입장문 업데이트..jpg",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=469984",
+      "title": "오늘 이벤트 시작한거 맞음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19540179&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -501,7 +495,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-13T21:47:46+00:00",
+  "updatedAt": "2026-10-14T00:58:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
