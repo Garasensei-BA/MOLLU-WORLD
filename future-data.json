@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 81
+      "count": 80
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -110,12 +110,6 @@
     },
     {
       "date": "2026-03-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-03-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -533,14 +527,14 @@
       "dates": []
     },
     {
-      "title": "오늘 활협전 업데이트 나오는 날이구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19553568&page=1",
+      "title": "근데 블아페스티벌 왜 온리전이라고 부르게 된 거지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19555663&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "수영복 복장 여캐들 업데이트해줬으면 하는점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19553564&page=1",
+      "title": "아 대결전 오늘할까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19555652&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -555,7 +549,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-15T03:52:49+00:00",
+  "updatedAt": "2026-10-15T09:00:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
