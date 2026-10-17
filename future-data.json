@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 78
+      "count": 120
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,7 +38,31 @@
     },
     {
       "date": "2026-01-05",
+      "title": "01/05 (화) 80일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-05",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "미니 스토리 · 01/05 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-05",
+      "title": "이벤트 상설화 · 01/05부터",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-11",
+      "title": "대결전 · 01/05 ~ 01/11",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -50,13 +74,31 @@
     },
     {
       "date": "2026-01-12",
+      "title": "It's our Engine! ~183호를 탈출하라!~",
+      "url": "https://mollulog.net/events/its-our-engine",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-01-13",
+      "title": "01/13 (수) 88일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-13",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-19",
+      "title": "01/19 (화) 94일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -73,8 +115,26 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-01-25",
+      "title": "총력전 · 01/19 ~ 01/25",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-01-26",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-26",
+      "title": "우리는 오컬트 연구회! ~학원의 불가사의와 고대 주문~",
+      "url": "https://mollulog.net/events/occult-club-rerun",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-01-26",
+      "title": "이벤트 · 01/12 ~ 01/26",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -85,8 +145,26 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-02-01",
+      "title": "종합전술시험 · 01/26 ~ 02/01",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-02",
+      "title": "02/02 (화) 108일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-02-02",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-08",
+      "title": "대결전 · 02/02 ~ 02/08",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -103,8 +181,20 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-02-09",
+      "title": "복각 이벤트 · 01/26 ~ 02/09",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-02-15",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-15",
+      "title": "제약해제결전 · 01/13 ~ 02/15",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -157,6 +247,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-10-18",
+      "title": "캠페인 · 10/16 ~ 10/18 · 내일 종료",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-19",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -164,7 +260,19 @@
     },
     {
       "date": "2026-10-19",
-      "title": "캠페인 확정",
+      "title": "캠페인 · 10/12 ~ 10/19 · 2 일 남음",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "학원교류회/특별의뢰 보상량 2배",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "10/20 (화) 3일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -175,20 +283,14 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-10-20",
-      "title": "총력전 확정",
+      "date": "2026-10-23",
+      "title": "10/23 (금) 6일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-23",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "캠페인 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -199,6 +301,18 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-10-25",
+      "title": "캠페인 · 10/23 ~ 10/25 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-26",
+      "title": "10/26 (월) 9일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-26",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -206,20 +320,44 @@
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 확정",
+      "title": "총력전 · 10/20 ~ 10/26 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
-      "date": "2026-10-27",
-      "title": "리콜렉트 모집",
-      "url": "https://mollulog.net/events/recollect-recruitment-2",
+      "date": "2026-10-26",
+      "title": "캠페인 · 10/19 ~ 10/26 · 확정",
+      "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-27",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "미니 스토리 · 10/27 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "이벤트 · 10/13 ~ 10/27 · 10 일 남음 · 카드 뒤집기",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "이벤트 상설화 · 10/27부터",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-27",
+      "title": "하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~",
+      "url": "https://mollulog.net/events/highlander-rerun",
       "source": "몰루로그"
     },
     {
@@ -229,14 +367,38 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-11-02",
+      "title": "종합전술시험 · 10/27 ~ 11/02",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-02",
+      "title": "캠페인 · 10/26 ~ 11/02 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-11-03",
-      "title": "대결전",
+      "title": "11/03 (화) 17일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-03",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "픽업 모집 · 10/27 ~ 11/03",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-09",
+      "title": "대결전 · 11/03 ~ 11/09",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -247,6 +409,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-11-09",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 23 일 남음",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-11-10",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -254,7 +422,19 @@
     },
     {
       "date": "2026-11-10",
-      "title": "미니 이벤트",
+      "title": "복각 이벤트 · 10/27 ~ 11/10",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "빛으로 나아가는 그녀들의 소야곡",
+      "url": "https://mollulog.net/events/their-senerade-permanent",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-10",
+      "title": "이벤트 상설화 · 11/10부터",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -266,7 +446,19 @@
     },
     {
       "date": "2026-11-17",
-      "title": "이벤트 기간과 모집 개최 기간이 달라요",
+      "title": "미니 이벤트 · 11/10 ~ 11/17",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-17",
+      "title": "출항! 만마선 ~마코토 의장님의 화려한 피서~",
+      "url": "https://mollulog.net/events/pandemonium-cruise",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "모집 기간 · 11/17 ~ 11/24",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -278,8 +470,8 @@
     },
     {
       "date": "2026-11-24",
-      "title": "픽업 모집",
-      "url": "https://mollulog.net/futures",
+      "title": "페스 모집",
+      "url": "https://mollulog.net/events/5-5th-fes",
       "source": "몰루로그"
     },
     {
@@ -289,6 +481,18 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-11-30",
+      "title": "총력전 · 11/24 ~ 11/30",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "메인 스토리 · 12/01 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-12-01",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -296,7 +500,19 @@
     },
     {
       "date": "2026-12-01",
-      "title": "종합전술시험",
+      "title": "이벤트 · 11/17 ~ 12/01 · 100회 무료",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "팬데믹 해저드 ~기적의 팬케이크~",
+      "url": "https://mollulog.net/events/pandemic-hazard-rerun",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-01",
+      "title": "픽업 모집 · 11/24 ~ 12/01",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -307,14 +523,50 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-12-07",
+      "title": "종합전술시험 · 12/01 ~ 12/07",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-12-08",
-      "title": "대결전",
+      "title": "2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들",
+      "url": "https://mollulog.net/events/mainstory-s2-vol1-2",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "메인 스토리 · 12/08 공개",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-12-08",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-08",
+      "title": "미니 스토리 · 12/08 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "DIVE into OCEAN!",
+      "url": "https://mollulog.net/events/dive-into-ocean",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "대결전 · 12/08 ~ 12/15",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-15",
+      "title": "메인 스토리 · 12/15 공개",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -326,7 +578,13 @@
     },
     {
       "date": "2026-12-15",
-      "title": "이벤트 보물찾기",
+      "title": "복각 이벤트 · 12/01 ~ 12/15",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-16",
+      "title": "12/16 (수) 60일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -338,19 +596,19 @@
     },
     {
       "date": "2026-12-16",
-      "title": "제약해제결전",
+      "title": "제약해제결전 · 12/16 ~ 01/11",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-22",
+      "title": "12/22 (화) 66일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-12-22",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-22",
-      "title": "총력전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -361,6 +619,24 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-12-28",
+      "title": "총력전 · 12/22 ~ 12/28",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "12/29 (화) 73일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "메인 스토리 · 12/29 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-12-29",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -368,19 +644,25 @@
     },
     {
       "date": "2026-12-29",
-      "title": "종합전술시험",
+      "title": "복각 이벤트 · 12/29 ~ 01/12",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "이벤트 · 12/15 ~ 12/29 · 보물찾기",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-29",
+      "title": "종합전술시험 · 12/29 ~ 01/04",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2027-01-04",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2027-01-05",
-      "title": "대결전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -403,32 +685,14 @@
       "source": "몰루로그"
     },
     {
-      "date": "2027-01-12",
-      "title": "이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2027-01-13",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
-      "date": "2027-01-13",
-      "title": "제약해제결전",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2027-01-19",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2027-01-19",
-      "title": "총력전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -445,20 +709,8 @@
       "source": "몰루로그"
     },
     {
-      "date": "2027-01-26",
-      "title": "종합전술시험",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2027-02-01",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2027-02-02",
-      "title": "대결전",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -482,7 +734,7 @@
     },
     {
       "date": "2027-02-15",
-      "title": "몰루로그 미래시 일정",
+      "title": "메인 이벤트",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     }
@@ -515,14 +767,8 @@
       "dates": []
     },
     {
-      "title": "나기사 곧 복각하겠지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19573564&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭 누구를위한 예술 복각하면 누구 실장하려나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19573544&page=1",
+      "title": "씨발 이새끼 한섭이다ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19574343&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -537,7 +783,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-17T15:43:07+00:00",
+  "updatedAt": "2026-10-17T18:17:04+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
