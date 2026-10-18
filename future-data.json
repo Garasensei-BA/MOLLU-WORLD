@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 124
+      "count": 125
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -241,6 +241,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-09-09",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -272,7 +278,7 @@
     },
     {
       "date": "2026-10-18",
-      "title": "캠페인 · 10/16 ~ 10/18 · 6 시간 남음",
+      "title": "캠페인 · 10/16 ~ 10/18 · 2 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -791,8 +797,8 @@
       "dates": []
     },
     {
-      "title": "게부라 대결전은 대체 무슨일이있는거래",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19579856&page=1",
+      "title": "아 일섭 수스미 좀 뽑아놓을 걸",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19581203&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -807,7 +813,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-18T13:50:02+00:00",
+  "updatedAt": "2026-10-18T17:09:24+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
