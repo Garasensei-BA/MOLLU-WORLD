@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 121
+      "count": 124
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -176,6 +176,18 @@
     },
     {
       "date": "2026-02-09",
+      "title": "2부 Ex. 로어추적 편 제3장: 꿈속의 열차",
+      "url": "https://mollulog.net/events/mainstory-s2-ex-3-1",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-09",
+      "title": "메인 스토리 · 02/09 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -183,6 +195,12 @@
     {
       "date": "2026-02-09",
       "title": "복각 이벤트 · 01/26 ~ 02/09",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-09",
+      "title": "이벤트 상설화 · 02/09부터",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -199,6 +217,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-01",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -206,12 +230,6 @@
     },
     {
       "date": "2026-04-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-04-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -254,7 +272,7 @@
     },
     {
       "date": "2026-10-18",
-      "title": "캠페인 · 10/16 ~ 10/18 · 19 시간 남음",
+      "title": "캠페인 · 10/16 ~ 10/18 · 14 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -773,8 +791,8 @@
       "dates": []
     },
     {
-      "title": "미래시 돌로 픽업 얼마나 가능할지 계산하는 사이트 뭐였지??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19575184&page=1",
+      "title": "님들 이벤트 얼마나 털었음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19576619&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -789,7 +807,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-18T00:49:17+00:00",
+  "updatedAt": "2026-10-18T05:32:49+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
