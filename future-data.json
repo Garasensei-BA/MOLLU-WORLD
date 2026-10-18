@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 120
+      "count": 121
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 80일 후",
+      "title": "01/05 (화) 79일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 88일 후",
+      "title": "01/13 (수) 87일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 94일 후",
+      "title": "01/19 (화) 93일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 108일 후",
+      "title": "02/02 (화) 107일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -211,6 +211,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-04-08",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-05-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -248,7 +254,7 @@
     },
     {
       "date": "2026-10-18",
-      "title": "캠페인 · 10/16 ~ 10/18 · 내일 종료",
+      "title": "캠페인 · 10/16 ~ 10/18 · 19 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -260,7 +266,7 @@
     },
     {
       "date": "2026-10-19",
-      "title": "캠페인 · 10/12 ~ 10/19 · 2 일 남음",
+      "title": "캠페인 · 10/12 ~ 10/19 · 내일 종료",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -272,7 +278,7 @@
     },
     {
       "date": "2026-10-20",
-      "title": "10/20 (화) 3일 후",
+      "title": "10/20 (화) 2일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -284,7 +290,7 @@
     },
     {
       "date": "2026-10-23",
-      "title": "10/23 (금) 6일 후",
+      "title": "10/23 (금) 5일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -308,7 +314,7 @@
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 9일 후",
+      "title": "10/26 (월) 8일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -344,7 +350,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 10 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 9 일 남음 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +386,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 17일 후",
+      "title": "11/03 (화) 16일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -410,7 +416,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 23 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 22 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -584,7 +590,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 60일 후",
+      "title": "12/16 (수) 59일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -602,7 +608,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 66일 후",
+      "title": "12/22 (화) 65일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -626,7 +632,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 73일 후",
+      "title": "12/29 (화) 72일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -765,6 +771,12 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "미래시 돌로 픽업 얼마나 가능할지 계산하는 사이트 뭐였지??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19575184&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -777,7 +789,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-17T22:56:43+00:00",
+  "updatedAt": "2026-10-18T00:49:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
