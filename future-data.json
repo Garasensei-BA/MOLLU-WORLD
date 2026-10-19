@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 79일 후",
+      "title": "01/05 (화) 78일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 87일 후",
+      "title": "01/13 (수) 86일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 93일 후",
+      "title": "01/19 (화) 92일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 107일 후",
+      "title": "02/02 (화) 106일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -266,7 +266,7 @@
     },
     {
       "date": "2026-10-19",
-      "title": "캠페인 · 10/12 ~ 10/19 · 내일 종료",
+      "title": "캠페인 · 10/12 ~ 10/19 · 15 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -278,7 +278,7 @@
     },
     {
       "date": "2026-10-20",
-      "title": "10/20 (화) 2일 후",
+      "title": "10/20 (화) 1일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-10-23",
-      "title": "10/23 (금) 5일 후",
+      "title": "10/23 (금) 4일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -314,7 +314,7 @@
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 8일 후",
+      "title": "10/26 (월) 7일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -350,7 +350,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 9 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 8 일 남음 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -386,7 +386,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 16일 후",
+      "title": "11/03 (화) 15일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -416,7 +416,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 22 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 21 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -590,7 +590,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 59일 후",
+      "title": "12/16 (수) 58일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -608,7 +608,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 65일 후",
+      "title": "12/22 (화) 64일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -632,7 +632,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 72일 후",
+      "title": "12/29 (화) 71일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -783,7 +783,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-18T23:59:25+00:00",
+  "updatedAt": "2026-10-19T04:28:27+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
