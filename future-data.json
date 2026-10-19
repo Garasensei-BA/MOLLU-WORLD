@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 121
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -241,6 +241,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-08-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -266,7 +272,7 @@
     },
     {
       "date": "2026-10-19",
-      "title": "캠페인 · 10/12 ~ 10/19 · 15 시간 남음",
+      "title": "캠페인 · 10/12 ~ 10/19 · 9 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -783,7 +789,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-19T04:28:27+00:00",
+  "updatedAt": "2026-10-19T10:16:08+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
