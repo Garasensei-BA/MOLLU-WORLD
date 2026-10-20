@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -763,8 +763,14 @@
       "dates": []
     },
     {
-      "title": "총력전이 열리면...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19592000&page=1",
+      "title": "현재 일섭 1트럭 가격",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19593668&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "총력전 이거 참여만해도 골드 등급보상 받는거야?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19593632&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -779,7 +785,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-20T10:13:43+00:00",
+  "updatedAt": "2026-10-20T15:11:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
