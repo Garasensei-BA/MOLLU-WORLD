@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -775,26 +775,14 @@
       "dates": []
     },
     {
-      "title": "아 씁뻘 대결전 코인 부족한데 이틀치 소탕 안 쳤다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594700&page=1",
+      "title": "일섭 게부라 각 속성 1등조합",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594986&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "대결전게부라 토토토 기다려서 관통스페 하나 냈다면",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594696&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "게부라 대결전 인인인 16194등까지 생존 ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594672&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "간만에 대결전에 혐오가 올라왔음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594663&page=1",
+      "title": "일섭 게부라 인인인이 플레였네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594982&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -809,7 +797,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-20T19:22:23+00:00",
+  "updatedAt": "2026-10-20T22:39:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
