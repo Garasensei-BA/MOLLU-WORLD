@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 119
+      "count": 121
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -176,8 +176,8 @@
     },
     {
       "date": "2026-02-09",
-      "title": "2부 Ex. 로어추적 편 제3장: 꿈속의 열차",
-      "url": "https://mollulog.net/events/mainstory-s2-ex-3-1",
+      "title": "02/09 (화) 112일 후",
+      "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
@@ -213,6 +213,12 @@
     {
       "date": "2026-02-15",
       "title": "제약해제결전 · 01/13 ~ 02/15",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -728,6 +734,12 @@
     },
     {
       "date": "2027-02-15",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-02-16",
       "title": "메인 이벤트",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -741,6 +753,12 @@
       "dates": [
         "2026-10-25"
       ]
+    },
+    {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     },
     {
       "title": "블루 아카이브 미래시 정보 [10/20]",
@@ -757,20 +775,26 @@
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "title": "아 씁뻘 대결전 코인 부족한데 이틀치 소탕 안 쳤다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594700&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "현재 일섭 1트럭 가격",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19593668&page=1",
+      "title": "대결전게부라 토토토 기다려서 관통스페 하나 냈다면",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594696&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "총력전 이거 참여만해도 골드 등급보상 받는거야?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19593632&page=1",
+      "title": "게부라 대결전 인인인 16194등까지 생존 ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594672&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "간만에 대결전에 혐오가 올라왔음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594663&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -785,7 +809,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-20T15:11:14+00:00",
+  "updatedAt": "2026-10-20T19:22:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
