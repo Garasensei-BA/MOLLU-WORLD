@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 122
+      "count": 121
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -242,12 +242,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-07-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -781,8 +775,8 @@
       "dates": []
     },
     {
-      "title": "10월 넥스트페스트(넥페) 출전 한국 게임 목록",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471974",
+      "title": "트위터에 일섭신규보스 연출이 많이 올라와",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19598739&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -797,7 +791,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-21T05:55:43+00:00",
+  "updatedAt": "2026-10-21T11:29:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
