@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -773,18 +773,6 @@
       "dates": [
         "2026-10-20"
       ]
-    },
-    {
-      "title": "대결전 아예 시도도 안 하는 건 무슨 심리에요?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19601312&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "싱글벙글 이번주 주말 경기도 수원시 빅이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472164",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -797,7 +785,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-21T20:13:49+00:00",
+  "updatedAt": "2026-10-21T23:26:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
