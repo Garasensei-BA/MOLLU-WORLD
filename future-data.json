@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 121
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -242,6 +242,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -747,6 +753,12 @@
   ],
   "evidence": [
     {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "일섭) 10/25(일) 19시 블루아카라이브! 가을 스페셜 방송 예고",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19585529&page=1",
       "source": "블루 아카이브 갤러리",
@@ -769,14 +781,26 @@
       ]
     },
     {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "title": "총력전 입장 무한로딩 걸렸는데 이거 어캄",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19600462&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "트위터에 일섭신규보스 연출이 많이 올라와",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19598739&page=1",
+      "title": "윗치폼도 점검하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19600448&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뉴비인데 지금 픽업 뽑아야 할 거 있음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19600424&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "싱글벙글 이번주 주말 경기도 수원시 빅이벤트",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472164",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -791,7 +815,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-21T11:29:19+00:00",
+  "updatedAt": "2026-10-21T16:05:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
