@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 121
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 77일 후",
+      "title": "01/05 (화) 76일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 85일 후",
+      "title": "01/13 (수) 84일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 91일 후",
+      "title": "01/19 (화) 90일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 105일 후",
+      "title": "02/02 (화) 104일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-02-09",
-      "title": "02/09 (화) 112일 후",
+      "title": "02/09 (화) 111일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -229,6 +229,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -272,7 +278,7 @@
     },
     {
       "date": "2026-10-23",
-      "title": "10/23 (금) 3일 후",
+      "title": "10/23 (금) 2일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -308,7 +314,7 @@
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 6일 후",
+      "title": "10/26 (월) 5일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -320,13 +326,13 @@
     },
     {
       "date": "2026-10-26",
-      "title": "총력전 · 10/20 ~ 10/26 · 6 일 남음",
+      "title": "총력전 · 10/20 ~ 10/26 · 5 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 · 10/19 ~ 10/26 · 6 일 남음",
+      "title": "캠페인 · 10/19 ~ 10/26 · 5 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -344,7 +350,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 7 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 6 일 남음 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +386,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 14일 후",
+      "title": "11/03 (화) 13일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -410,7 +416,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 20 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 19 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -584,7 +590,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 57일 후",
+      "title": "12/16 (수) 56일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -602,7 +608,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 63일 후",
+      "title": "12/22 (화) 62일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -626,7 +632,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 70일 후",
+      "title": "12/29 (화) 69일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -775,14 +781,14 @@
       "dates": []
     },
     {
-      "title": "일섭 게부라 각 속성 1등조합",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594986&page=1",
+      "title": "솔까말 게부라 대결전 20만 못넘길수도 있다고 봤다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19595386&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭 게부라 인인인이 플레였네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19594982&page=1",
+      "title": "10월 넥스트페스트(넥페) 출전 한국 게임 목록",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=471974",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -797,7 +803,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-20T22:39:03+00:00",
+  "updatedAt": "2026-10-21T00:59:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
