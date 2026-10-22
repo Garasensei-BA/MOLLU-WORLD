@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 121
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -242,6 +242,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-07-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -775,8 +781,20 @@
       ]
     },
     {
-      "title": "싱글벙글 이번주 주말 경기도 수원시 빅이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472164",
+      "title": "PHP때문에 아예 샷다내리고 점검하는곳도 은근 있네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19603662&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "씹좆점검은 시발 언제까지함??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19603644&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "혹시 총력전 티켓 추가로 줬음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19603643&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -791,7 +809,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-22T01:50:39+00:00",
+  "updatedAt": "2026-10-22T07:18:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
