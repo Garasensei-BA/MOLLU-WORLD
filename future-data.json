@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 76일 후",
+      "title": "01/05 (화) 75일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 84일 후",
+      "title": "01/13 (수) 83일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 90일 후",
+      "title": "01/19 (화) 89일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 104일 후",
+      "title": "02/02 (화) 103일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-02-09",
-      "title": "02/09 (화) 111일 후",
+      "title": "02/09 (화) 110일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -272,7 +272,7 @@
     },
     {
       "date": "2026-10-23",
-      "title": "10/23 (금) 2일 후",
+      "title": "10/23 (금) 1일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 5일 후",
+      "title": "10/26 (월) 4일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -320,13 +320,13 @@
     },
     {
       "date": "2026-10-26",
-      "title": "총력전 · 10/20 ~ 10/26 · 5 일 남음",
+      "title": "총력전 · 10/20 ~ 10/26 · 4 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 · 10/19 ~ 10/26 · 5 일 남음",
+      "title": "캠페인 · 10/19 ~ 10/26 · 4 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -344,7 +344,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 6 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 5 일 남음 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +380,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 13일 후",
+      "title": "11/03 (화) 12일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -410,7 +410,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 19 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 18 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -584,7 +584,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 56일 후",
+      "title": "12/16 (수) 55일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -602,7 +602,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 62일 후",
+      "title": "12/22 (화) 61일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -626,7 +626,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 69일 후",
+      "title": "12/29 (화) 68일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -773,6 +773,12 @@
       "dates": [
         "2026-10-20"
       ]
+    },
+    {
+      "title": "싱글벙글 이번주 주말 경기도 수원시 빅이벤트",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472164",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -785,7 +791,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-21T23:26:15+00:00",
+  "updatedAt": "2026-10-22T01:50:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
