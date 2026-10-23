@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 0
+      "count": 121
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -247,7 +247,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-08",
+      "date": "2026-06-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -278,12 +278,6 @@
     },
     {
       "date": "2026-10-23",
-      "title": "계정 경험치 보상량 2배",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-23",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -308,7 +302,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 확정",
+      "title": "캠페인 · 10/23 ~ 10/25 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -781,8 +775,8 @@
       ]
     },
     {
-      "title": "다음 페스에 딜러의 크리율을 확정크리로 만드는 서폿 출시좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19614820&page=1",
+      "title": "스포) 일섭 스토리 보는데 블아는 성장물이 맞다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19615933&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -790,16 +784,14 @@
   "source_counts": {
     "몰루로그": 69
   },
-  "errors": {
-    "mollulog": "The read operation timed out"
-  },
+  "errors": {},
   "stats": {
     "total_events": 69,
     "evidence_count": 71,
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-23T15:27:14+00:00",
+  "updatedAt": "2026-10-23T19:31:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
