@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -775,14 +775,8 @@
       ]
     },
     {
-      "title": "총력전은 폰으로 치는거 아니구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19607700&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "수나코 언제 픽업임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19607679&page=1",
+      "title": "총력전 자체가 좆노잼이라 생긴일임...",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19610126&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -797,7 +791,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-23T00:27:30+00:00",
+  "updatedAt": "2026-10-23T05:20:43+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
