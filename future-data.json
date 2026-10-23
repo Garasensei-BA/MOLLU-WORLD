@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 122
+      "count": 0
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -779,19 +779,27 @@
       "dates": [
         "2026-10-20"
       ]
+    },
+    {
+      "title": "다음 페스에 딜러의 크리율을 확정크리로 만드는 서폿 출시좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19614820&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
     "몰루로그": 69
   },
-  "errors": {},
+  "errors": {
+    "mollulog": "The read operation timed out"
+  },
   "stats": {
     "total_events": 69,
     "evidence_count": 71,
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-23T10:29:59+00:00",
+  "updatedAt": "2026-10-23T15:27:14+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
