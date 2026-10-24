@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 123
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -242,12 +242,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-05-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -787,8 +781,8 @@
       ]
     },
     {
-      "title": "총력전 6장되고 좋아진점...",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19622769&page=1",
+      "title": "[한섭] '전국노노미협회' 선생님 모집중 (49/50)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19622988&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -803,7 +797,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-24T19:46:38+00:00",
+  "updatedAt": "2026-10-24T22:18:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
