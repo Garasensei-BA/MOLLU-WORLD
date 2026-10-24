@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 74일 후",
+      "title": "01/05 (화) 73일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 82일 후",
+      "title": "01/13 (수) 81일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 88일 후",
+      "title": "01/19 (화) 87일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 102일 후",
+      "title": "02/02 (화) 101일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-02-09",
-      "title": "02/09 (화) 109일 후",
+      "title": "02/09 (화) 108일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -302,13 +302,13 @@
     },
     {
       "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 2 일 남음",
+      "title": "캠페인 · 10/23 ~ 10/25 · 내일 종료",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 3일 후",
+      "title": "10/26 (월) 2일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -320,13 +320,13 @@
     },
     {
       "date": "2026-10-26",
-      "title": "총력전 · 10/20 ~ 10/26 · 3 일 남음",
+      "title": "총력전 · 10/20 ~ 10/26 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 · 10/19 ~ 10/26 · 3 일 남음",
+      "title": "캠페인 · 10/19 ~ 10/26 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -344,7 +344,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 4 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 3 일 남음 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +380,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 11일 후",
+      "title": "11/03 (화) 10일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -410,7 +410,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 17 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 16 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -584,7 +584,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 54일 후",
+      "title": "12/16 (수) 53일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -602,7 +602,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 60일 후",
+      "title": "12/22 (화) 59일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -626,7 +626,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 67일 후",
+      "title": "12/29 (화) 66일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -775,6 +775,12 @@
       ]
     },
     {
+      "title": "아 어제 총력전 안 했다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19616737&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "JTBC) 소방관 순직 부천 공장, 5년간 소방점검 안받아",
       "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=472702",
       "source": "블루 아카이브 갤러리",
@@ -791,7 +797,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-23T22:37:22+00:00",
+  "updatedAt": "2026-10-24T01:05:33+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
