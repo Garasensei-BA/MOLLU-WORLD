@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 132
+      "count": 130
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -319,12 +319,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-10-23",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-24",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -339,12 +333,6 @@
     {
       "date": "2026-10-25",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 2 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -839,26 +827,8 @@
       "dates": []
     },
     {
-      "title": "근데 페스캐 선택 티켓은 진짜 파격적이네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643156&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이렇게 되면 미래시 더 땡겨서 일섭, 글로벌 동일 버전 각 나오는거 아님",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643140&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭pc클라도 그럼 스팀으로 옮겨감?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643136&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "6주년페스를 구원할 페스캐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643134&page=1",
+      "title": "이제 일섭도 개발트리아 인터뷰 따주나 ㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643837&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -873,7 +843,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T17:40:59+00:00",
+  "updatedAt": "2026-10-25T20:35:15+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
