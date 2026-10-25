@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -827,8 +827,32 @@
       "dates": []
     },
     {
-      "title": "이제 일섭도 개발트리아 인터뷰 따주나 ㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643837&page=1",
+      "title": "무료 100뽑 페스 선택권 한섭에도 줘",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644254&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "일섭에서 다른 언어를 지원하면 한섭글섭을 누가 하냐고 하는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644244&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "근데 뭐 일섭 PC클라 신경도 안쓴다더만",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644239&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "왜 일섭방송은 할때마다 탄폭이 터지나요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644235&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "내일 점검 있음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644232&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -843,7 +867,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T20:35:15+00:00",
+  "updatedAt": "2026-10-25T22:47:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
