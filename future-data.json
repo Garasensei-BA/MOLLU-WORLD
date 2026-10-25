@@ -277,12 +277,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-04-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-04-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -350,7 +344,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 5 시간 남음",
+      "title": "캠페인 · 10/23 ~ 10/25 · 2 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -406,6 +400,12 @@
       "date": "2026-10-27",
       "title": "하이랜더 철도 폭주 사건 ~그리고 기차는 없었다~",
       "url": "https://mollulog.net/events/highlander-rerun",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-10-28",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
@@ -819,14 +819,6 @@
       "dates": []
     },
     {
-      "title": "일섭) 10/25(일) 19시 블루아카라이브! 가을 스페셜 방송 예고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19585529&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-10-25"
-      ]
-    },
-    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
@@ -841,26 +833,32 @@
       ]
     },
     {
-      "title": "\"일섭에서 한섭 계정으로 변경하면 보상이 나온다고?\"",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640177&page=1",
+      "title": "신규 『람과천청』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "뭐여 이제 일섭도 넥슨이 주관함?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640165&page=1",
+      "title": "근데 페스캐 선택 티켓은 진짜 파격적이네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643156&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "근데 블라리도 이제 늙크크 겜이라 뉴비는 페스선택권 줘도",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640139&page=1",
+      "title": "이렇게 되면 미래시 더 땡겨서 일섭, 글로벌 동일 버전 각 나오는거 아님",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643140&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "갠적으론 맘에 드는데 일섭반응이 미적지근하니까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640137&page=1",
+      "title": "일섭pc클라도 그럼 스팀으로 옮겨감?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643136&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "6주년페스를 구원할 페스캐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19643134&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -875,7 +873,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T14:10:07+00:00",
+  "updatedAt": "2026-10-25T17:40:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
