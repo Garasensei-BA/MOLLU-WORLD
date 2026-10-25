@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 122
+      "count": 132
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -218,6 +218,24 @@
     },
     {
       "date": "2026-02-16",
+      "title": "Start Your Engines! ~183호여 영원하라!~",
+      "url": "https://mollulog.net/events/start-your-engines",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-17",
+      "title": "02/17 (수) 115일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-17",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -229,7 +247,37 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "이벤트 · 02/16 ~ 03/02",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-15",
+      "title": "제약해제결전 · 02/17 ~ 03/15",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-04-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -290,7 +338,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "공식 방송 · 10/25부터 · 확정",
+      "title": "공식 방송 · 10/25부터",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -302,13 +350,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "블루아카 라이브! ~길어지는 가을밤, 어떻게 지내고 계신가요 SP~",
-      "url": "https://mollulog.net/events/jp-live-202610",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 10 시간 남음",
+      "title": "캠페인 · 10/23 ~ 10/25 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -746,6 +788,24 @@
     },
     {
       "date": "2027-02-16",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-02-17",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-03-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-03-15",
       "title": "메인 이벤트",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -781,8 +841,26 @@
       ]
     },
     {
-      "title": "어떤 xxxx 돼지관중때문에 폭염취소해서 일정 xx 빠듯하네",
-      "url": "https://gall.dcinside.com/board/view/?id=ktwiz&no=6287989",
+      "title": "\"일섭에서 한섭 계정으로 변경하면 보상이 나온다고?\"",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640177&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뭐여 이제 일섭도 넥슨이 주관함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640165&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "근데 블라리도 이제 늙크크 겜이라 뉴비는 페스선택권 줘도",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640139&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "갠적으론 맘에 드는데 일섭반응이 미적지근하니까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19640137&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -797,7 +875,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T09:55:19+00:00",
+  "updatedAt": "2026-10-25T14:10:07+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
