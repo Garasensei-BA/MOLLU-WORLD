@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 14 시간 남음",
+      "title": "캠페인 · 10/23 ~ 10/25 · 10 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -779,6 +779,12 @@
       "dates": [
         "2026-10-20"
       ]
+    },
+    {
+      "title": "어떤 xxxx 돼지관중때문에 폭염취소해서 일정 xx 빠듯하네",
+      "url": "https://gall.dcinside.com/board/view/?id=ktwiz&no=6287989",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -791,7 +797,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T05:17:02+00:00",
+  "updatedAt": "2026-10-25T09:55:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
