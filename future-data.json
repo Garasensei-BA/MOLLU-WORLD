@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 123
+      "count": 122
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -253,12 +253,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-07-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-13",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -314,7 +308,7 @@
     },
     {
       "date": "2026-10-25",
-      "title": "캠페인 · 10/23 ~ 10/25 · 19 시간 남음",
+      "title": "캠페인 · 10/23 ~ 10/25 · 14 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -785,18 +779,6 @@
       "dates": [
         "2026-10-20"
       ]
-    },
-    {
-      "title": "일섭쪽 아비도스 백팩 재입고는 된 거 같은데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19623252&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그레고리오 <- 얘가 그래도 다른 총력전보단 낫다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19623250&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -809,7 +791,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T00:23:13+00:00",
+  "updatedAt": "2026-10-25T05:17:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
