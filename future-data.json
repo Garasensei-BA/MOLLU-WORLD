@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 130
+      "count": 131
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 10
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -295,6 +295,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-08-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-13",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -350,13 +356,13 @@
     },
     {
       "date": "2026-10-26",
-      "title": "총력전 · 10/20 ~ 10/26 · 18 시간 남음",
+      "title": "총력전 · 10/20 ~ 10/26 · 13 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 · 10/19 ~ 10/26 · 18 시간 남음",
+      "title": "캠페인 · 10/19 ~ 10/26 · 13 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -825,6 +831,42 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "근데 일섭 그 어마어마한 보상은 언제 뿌리는 거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647636&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "내일 수나코 픽업인데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647630&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스선택권 이거 말고 다른거 주면 안됨?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647626&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "아즈사 씨가.. 한정 픽업을 받는다구요?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647622&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "만화)일섭 공방보는 나기나,선생",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647620&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "한섭도 불탸워야되는거아님❗❓",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19647615&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -837,7 +879,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-26T01:02:45+00:00",
+  "updatedAt": "2026-10-26T06:24:28+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
