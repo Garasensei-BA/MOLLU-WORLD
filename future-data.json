@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -38,7 +38,7 @@
     },
     {
       "date": "2026-01-05",
-      "title": "01/05 (화) 72일 후",
+      "title": "01/05 (화) 71일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -86,7 +86,7 @@
     },
     {
       "date": "2026-01-13",
-      "title": "01/13 (수) 80일 후",
+      "title": "01/13 (수) 79일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -98,7 +98,7 @@
     },
     {
       "date": "2026-01-19",
-      "title": "01/19 (화) 86일 후",
+      "title": "01/19 (화) 85일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -152,7 +152,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 100일 후",
+      "title": "02/02 (화) 99일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -176,7 +176,7 @@
     },
     {
       "date": "2026-02-09",
-      "title": "02/09 (화) 107일 후",
+      "title": "02/09 (화) 106일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -230,7 +230,7 @@
     },
     {
       "date": "2026-02-17",
-      "title": "02/17 (수) 115일 후",
+      "title": "02/17 (수) 114일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -338,7 +338,7 @@
     },
     {
       "date": "2026-10-26",
-      "title": "10/26 (월) 1일 후",
+      "title": "10/26 (월) 오늘",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -350,13 +350,13 @@
     },
     {
       "date": "2026-10-26",
-      "title": "총력전 · 10/20 ~ 10/26 · 내일 종료",
+      "title": "총력전 · 10/20 ~ 10/26 · 18 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-10-26",
-      "title": "캠페인 · 10/19 ~ 10/26 · 내일 종료",
+      "title": "캠페인 · 10/19 ~ 10/26 · 18 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -374,7 +374,7 @@
     },
     {
       "date": "2026-10-27",
-      "title": "이벤트 · 10/13 ~ 10/27 · 2 일 남음 · 카드 뒤집기",
+      "title": "이벤트 · 10/13 ~ 10/27 · 내일 종료 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -416,7 +416,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "11/03 (화) 9일 후",
+      "title": "11/03 (화) 8일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -446,7 +446,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 15 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 14 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -620,7 +620,7 @@
     },
     {
       "date": "2026-12-16",
-      "title": "12/16 (수) 52일 후",
+      "title": "12/16 (수) 51일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -638,7 +638,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 58일 후",
+      "title": "12/22 (화) 57일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -662,7 +662,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 65일 후",
+      "title": "12/29 (화) 64일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -825,36 +825,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19530667&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "무료 100뽑 페스 선택권 한섭에도 줘",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644254&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭에서 다른 언어를 지원하면 한섭글섭을 누가 하냐고 하는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644244&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 뭐 일섭 PC클라 신경도 안쓴다더만",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644239&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "왜 일섭방송은 할때마다 탄폭이 터지나요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644235&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "내일 점검 있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19644232&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -867,7 +837,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-25T22:47:56+00:00",
+  "updatedAt": "2026-10-26T01:02:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
