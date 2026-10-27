@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 120
+      "count": 117
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -259,25 +259,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-14",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "공식 방송 · 10/25부터",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-10-25",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -767,20 +749,26 @@
       ]
     },
     {
-      "title": "아 ap 패키지 파는거 오늘 점검전까지였구나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19660158&page=1",
+      "title": "난 일섭 그게 부럽던데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661552&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "저번 한정 짬통 픽업때 수오리 들어갈걸 그랬나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19660146&page=1",
+      "title": "뉴츠키=그레고리오 대결전 나오면 쓸수있음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661551&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "청휘석 2만정도 있는데 철도가키 거르고 페스때쓸까?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19660143&page=1",
+      "title": "페로로 총력전 즉사하는 레전드 버그 생각나네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661535&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "가챠개편후2천장은 일섭 오픈시절 1천장과 비슷하다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661517&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -795,7 +783,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-27T14:39:12+00:00",
+  "updatedAt": "2026-10-27T19:39:47+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
