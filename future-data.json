@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -749,26 +749,20 @@
       ]
     },
     {
-      "title": "난 일섭 그게 부럽던데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661552&page=1",
+      "title": "이벤 복각으로 첨 보는데 아오바 이정도였나 ㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661906&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "뉴츠키=그레고리오 대결전 나오면 쓸수있음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661551&page=1",
+      "title": "복각 올스킵하는데 하이랜더는 재밌어서 재탕함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661905&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페로로 총력전 즉사하는 레전드 버그 생각나네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661535&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "가챠개편후2천장은 일섭 오픈시절 1천장과 비슷하다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661517&page=1",
+      "title": "이번에도 할로윈 이벤트는 없네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19661890&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -783,7 +777,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-27T19:39:47+00:00",
+  "updatedAt": "2026-10-27T23:13:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
