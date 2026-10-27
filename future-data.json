@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -735,6 +735,12 @@
   ],
   "evidence": [
     {
+      "title": "복각 『하이랜더 철도폭주사건』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19655767&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "블루 아카이브 미래시 정보 [10/26]",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
@@ -755,20 +761,26 @@
       "dates": []
     },
     {
-      "title": "리콜렉트 페스캐 다 있으면 히카리 노조미 천장 가면됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19654748&page=1",
+      "title": "총력전(수나코)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19657036&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "섹스는 모르겠고 애무 업데이트까진 해주셈",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19654727&page=1",
+      "title": "수영복 공주님은 당분간 복각 없나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19657007&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "섹스보다 업데이트가 더 기대되네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19654721&page=1",
+      "title": "일섭 신컨텐츠 베타로 내놓는 거 맘에 드네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19656999&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "모집 포인트 관련 질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19656997&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -783,7 +795,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-27T02:12:50+00:00",
+  "updatedAt": "2026-10-27T08:00:47+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
