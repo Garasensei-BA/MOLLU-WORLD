@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 118
+      "count": 117
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -50,7 +50,7 @@
     },
     {
       "date": "2026-01-06",
-      "title": "01/06 (수) 70일 후",
+      "title": "01/06 (수) 69일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -62,7 +62,7 @@
     },
     {
       "date": "2026-01-12",
-      "title": "01/12 (화) 76일 후",
+      "title": "01/12 (화) 75일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -116,7 +116,7 @@
     },
     {
       "date": "2026-01-26",
-      "title": "01/26 (화) 90일 후",
+      "title": "01/26 (화) 89일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 97일 후",
+      "title": "02/02 (화) 96일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-02-10",
-      "title": "02/10 (수) 105일 후",
+      "title": "02/10 (수) 104일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -253,13 +253,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-07-08",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-04",
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -308,13 +302,13 @@
     },
     {
       "date": "2026-11-02",
-      "title": "종합전술시험 · 10/27 ~ 11/02 · 5 일 남음",
+      "title": "종합전술시험 · 10/27 ~ 11/02 · 4 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-02",
-      "title": "캠페인 · 10/26 ~ 11/02 · 5 일 남음",
+      "title": "캠페인 · 10/26 ~ 11/02 · 4 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -344,7 +338,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "픽업 모집 · 10/27 ~ 11/03 · 6 일 남음",
+      "title": "픽업 모집 · 10/27 ~ 11/03 · 5 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -362,7 +356,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 12 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 11 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +374,7 @@
     },
     {
       "date": "2026-11-10",
-      "title": "복각 이벤트 · 10/27 ~ 11/10 · 13 일 남음 · 철도 연결",
+      "title": "복각 이벤트 · 10/27 ~ 11/10 · 12 일 남음 · 철도 연결",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -524,7 +518,7 @@
     },
     {
       "date": "2026-12-09",
-      "title": "12/09 (수) 42일 후",
+      "title": "12/09 (수) 41일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -542,7 +536,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "12/15 (화) 48일 후",
+      "title": "12/15 (화) 47일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -566,7 +560,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 55일 후",
+      "title": "12/22 (화) 54일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -608,7 +602,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 62일 후",
+      "title": "12/29 (화) 61일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -765,7 +759,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-28T20:51:38+00:00",
+  "updatedAt": "2026-10-29T00:40:10+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
