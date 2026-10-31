@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -743,20 +743,8 @@
       "dates": []
     },
     {
-      "title": "일섭 스포) 신입 선생님 박현준 이병",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19684404&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "모의대결전 << 이새기는 언제 나옴",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19684403&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "마라톤 '레이스 메딕' 모집 논란에…주관사 \"그런 뜻 아니다",
-      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474408",
+      "title": "(역대급 규모) 파이널판타지14 페스티벌에 대해 알아보자",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474561",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -771,7 +759,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-31T06:47:02+00:00",
+  "updatedAt": "2026-10-31T13:27:09+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
