@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -743,8 +743,14 @@
       "dates": []
     },
     {
-      "title": "픽업 모집 - 기라시 토프락",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19682556&page=1",
+      "title": "일섭 스포) 신입 선생님 박현준 이병",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19684404&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "모의대결전 << 이새기는 언제 나옴",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19684403&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -765,7 +771,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-31T00:52:25+00:00",
+  "updatedAt": "2026-10-31T06:47:02+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
