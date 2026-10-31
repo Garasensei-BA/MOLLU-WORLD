@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 117
+      "count": 116
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -26,12 +26,6 @@
     },
     {
       "date": "2026-01-02",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-01-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -56,7 +50,7 @@
     },
     {
       "date": "2026-01-06",
-      "title": "01/06 (수) 68일 후",
+      "title": "01/06 (수) 67일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -68,7 +62,7 @@
     },
     {
       "date": "2026-01-12",
-      "title": "01/12 (화) 74일 후",
+      "title": "01/12 (화) 73일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -122,7 +116,7 @@
     },
     {
       "date": "2026-01-26",
-      "title": "01/26 (화) 88일 후",
+      "title": "01/26 (화) 87일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -146,7 +140,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 95일 후",
+      "title": "02/02 (화) 94일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -200,7 +194,7 @@
     },
     {
       "date": "2026-02-10",
-      "title": "02/10 (수) 103일 후",
+      "title": "02/10 (수) 102일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -302,13 +296,13 @@
     },
     {
       "date": "2026-11-02",
-      "title": "종합전술시험 · 10/27 ~ 11/02 · 3 일 남음",
+      "title": "종합전술시험 · 10/27 ~ 11/02 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-02",
-      "title": "캠페인 · 10/26 ~ 11/02 · 3 일 남음",
+      "title": "캠페인 · 10/26 ~ 11/02 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -338,7 +332,7 @@
     },
     {
       "date": "2026-11-03",
-      "title": "픽업 모집 · 10/27 ~ 11/03 · 4 일 남음",
+      "title": "픽업 모집 · 10/27 ~ 11/03 · 3 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -356,7 +350,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 10 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 9 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -374,7 +368,7 @@
     },
     {
       "date": "2026-11-10",
-      "title": "복각 이벤트 · 10/27 ~ 11/10 · 11 일 남음 · 철도 연결",
+      "title": "복각 이벤트 · 10/27 ~ 11/10 · 10 일 남음 · 철도 연결",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -518,7 +512,7 @@
     },
     {
       "date": "2026-12-09",
-      "title": "12/09 (수) 40일 후",
+      "title": "12/09 (수) 39일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -536,7 +530,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "12/15 (화) 46일 후",
+      "title": "12/15 (화) 45일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -560,7 +554,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 53일 후",
+      "title": "12/22 (화) 52일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -602,7 +596,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 60일 후",
+      "title": "12/29 (화) 59일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -747,6 +741,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "픽업 모집 - 기라시 토프락",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19682556&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "마라톤 '레이스 메딕' 모집 논란에…주관사 \"그런 뜻 아니다",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=474408",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -759,7 +765,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-10-30T21:01:39+00:00",
+  "updatedAt": "2026-10-31T00:52:25+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
