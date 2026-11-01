@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 116
+      "count": 117
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -248,6 +248,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-09-21",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -717,18 +723,18 @@
   ],
   "evidence": [
     {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "블루 아카이브 미래시 정보 [10/29]",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": [
         "2026-10-29"
       ]
-    },
-    {
-      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     },
     {
       "title": "복각 『하이랜더 철도폭주사건』 이벤트 종합 가이드",
@@ -753,7 +759,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-01T06:24:28+00:00",
+  "updatedAt": "2026-11-01T13:46:00+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
