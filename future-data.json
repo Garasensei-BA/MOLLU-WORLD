@@ -296,13 +296,13 @@
     },
     {
       "date": "2026-11-02",
-      "title": "종합전술시험 · 10/27 ~ 11/02 · 18 시간 남음",
+      "title": "종합전술시험 · 10/27 ~ 11/02 · 10 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-02",
-      "title": "캠페인 · 10/26 ~ 11/02 · 18 시간 남음",
+      "title": "캠페인 · 10/26 ~ 11/02 · 10 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -723,6 +723,12 @@
       "dates": []
     },
     {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "블루 아카이브 미래시 정보 [10/29]",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
@@ -731,20 +737,14 @@
       ]
     },
     {
-      "title": "복각 『하이랜더 철도폭주사건』 이벤트 종합 가이드",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19655767&page=1",
+      "title": "종합전술시험 종료 안내",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19697248&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 재화 중에 가구로 바꿀 수 있는 재화는 어디서 모으는 거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19695122&page=1",
+      "title": "엘레프 패키지 픽업 뽑고 2주동안 살수있는거?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19697247&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -759,7 +759,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-02T01:49:49+00:00",
+  "updatedAt": "2026-11-02T09:03:24+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
