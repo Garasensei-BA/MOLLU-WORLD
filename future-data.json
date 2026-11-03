@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 134
+      "count": 137
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -320,6 +320,12 @@
     },
     {
       "date": "2026-11-10",
+      "title": "메인 스토리 · 11/10 공개 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-10",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -340,6 +346,18 @@
       "date": "2026-11-10",
       "title": "출항! 만마선 ~마코토 의장님의 화려한 피서~",
       "url": "https://mollulog.net/events/pandemonium-cruise",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "11/11 (수) 8일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
@@ -464,19 +482,13 @@
     },
     {
       "date": "2026-11-24",
-      "title": "메인 스토리 · 11/24 공개",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-24",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-24",
-      "title": "이벤트 · 11/10 ~ 11/24 · 100회 무료 이월 불가 : 100회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
+      "title": "이벤트 · 11/10 ~ 11/24 · 확정 · 100회 무료 이월 불가 : 100회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -488,7 +500,7 @@
     },
     {
       "date": "2026-11-24",
-      "title": "픽업 모집 · 11/17 ~ 11/24",
+      "title": "픽업 모집 · 11/17 ~ 11/24 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -530,7 +542,7 @@
     },
     {
       "date": "2026-11-30",
-      "title": "종합전술시험 · 11/24 ~ 11/30",
+      "title": "종합전술시험 · 11/24 ~ 11/30 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -584,6 +596,12 @@
     },
     {
       "date": "2026-12-07",
+      "title": "제약해제결전 · 11/11 ~ 12/07",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-07",
       "title": "캠페인 · 11/30 ~ 12/07 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -614,7 +632,7 @@
     },
     {
       "date": "2026-12-08",
-      "title": "복각 이벤트 · 11/24 ~ 12/08",
+      "title": "복각 이벤트 · 11/24 ~ 12/08 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -825,6 +843,14 @@
   ],
   "evidence": [
     {
+      "title": "블루 아카이브 미래시 정보 [11/04]",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-11-04"
+      ]
+    },
+    {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
       "source": "블루 아카이브 갤러리",
@@ -837,22 +863,8 @@
       "dates": []
     },
     {
-      "title": "블루 아카이브 미래시 정보 [10/29]",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-10-29"
-      ]
-    },
-    {
-      "title": "6주년 페스로 쇼코 실장",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19703772&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "니벨아레나 블루 아카이브 5주년 페스티벌 참가 안내",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19703745&page=1",
+      "title": "총대결전 대충치면 화는안나는데 재미는없음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19706416&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -867,7 +879,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-03T09:11:59+00:00",
+  "updatedAt": "2026-11-03T17:09:23+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
