@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 3
+      "count": 2
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -855,12 +855,6 @@
       "dates": [
         "2026-11-04"
       ]
-    },
-    {
-      "title": "뉴비 다음 페스캐 뽑을 준비 완료",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19717871&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -873,7 +867,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-05T14:19:37+00:00",
+  "updatedAt": "2026-11-05T21:08:16+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
