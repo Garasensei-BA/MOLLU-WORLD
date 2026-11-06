@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 137
+      "count": 136
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 3
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -554,13 +554,7 @@
     },
     {
       "date": "2026-12-01",
-      "title": "2부 Vol.1 불꽃과 그림자 편 제2장: 불꽃이 된 우리들",
-      "url": "https://mollulog.net/events/mainstory-s2-vol1-2",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-01",
-      "title": "메인 스토리 · 12/01 공개",
+      "title": "12/01 (화) 25일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -857,20 +851,8 @@
       ]
     },
     {
-      "title": "업뎃일정 완전 일치되면 바라는거 하나 있긴함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723258&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그 엘레프패키지 한섭은 바뀐룰로 들어오겠지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723238&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "념글소탕했는데 미래시떡밥이돌았었군",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723237&page=1",
+      "title": "산토리하이볼 픽업했다",
+      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=906011",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -885,7 +867,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-06T08:30:19+00:00",
+  "updatedAt": "2026-11-06T16:14:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
