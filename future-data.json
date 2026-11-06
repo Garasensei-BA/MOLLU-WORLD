@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 13
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -857,68 +857,20 @@
       ]
     },
     {
-      "title": "미래시 더 줄이겠다고 인터뷰 << 이거 어딨음?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720305&page=1",
+      "title": "업뎃일정 완전 일치되면 바라는거 하나 있긴함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723258&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이거 이후로 미래시는 없어지는게 답이다싶었음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720300&page=1",
+      "title": "그 엘레프패키지 한섭은 바뀐룰로 들어오겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723238&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "결국 루나틱 할배들이 가장 상관있어서 미래시는",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720298&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 내가 운영이면 미래시 없애고 싶을듯",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720294&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 이득이다 아니다떠나서 그건있는거같음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720293&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 어차피 두 달 유지인데 왜 싸움?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720287&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시 없앨 거면 어쩔 수는 없는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720286&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이벤트 실화냐",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720281&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "미래시줄이면 재화 모을 시간이 줄어드는거에 비해서..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720277&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭 과거시보니 3주 제결전 두번 다 문제가있었음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720276&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "어짜피 미래시 없애는거 반확정인데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19720273&page=1",
+      "title": "념글소탕했는데 미래시떡밥이돌았었군",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19723237&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -933,7 +885,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-06T01:38:16+00:00",
+  "updatedAt": "2026-11-06T08:30:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
