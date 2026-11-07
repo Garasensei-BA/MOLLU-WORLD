@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 2
+      "count": 3
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,7 +50,7 @@
     },
     {
       "date": "2026-01-06",
-      "title": "01/06 (수) 61일 후",
+      "title": "01/06 (수) 60일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -62,7 +62,7 @@
     },
     {
       "date": "2026-01-12",
-      "title": "01/12 (화) 67일 후",
+      "title": "01/12 (화) 66일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -116,7 +116,7 @@
     },
     {
       "date": "2026-01-26",
-      "title": "01/26 (화) 81일 후",
+      "title": "01/26 (화) 80일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 88일 후",
+      "title": "02/02 (화) 87일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-02-10",
-      "title": "02/10 (수) 96일 후",
+      "title": "02/10 (수) 95일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -290,7 +290,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "대결전 · 11/03 ~ 11/09 · 3 일 남음",
+      "title": "대결전 · 11/03 ~ 11/09 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -302,13 +302,13 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 3 일 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-09",
-      "title": "캠페인 · 11/02 ~ 11/09 · 3 일 남음",
+      "title": "캠페인 · 11/02 ~ 11/09 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -332,13 +332,13 @@
     },
     {
       "date": "2026-11-10",
-      "title": "미니 이벤트 · 11/03 ~ 11/10 · 4 일 남음",
+      "title": "미니 이벤트 · 11/03 ~ 11/10 · 3 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-10",
-      "title": "복각 이벤트 · 10/27 ~ 11/10 · 4 일 남음 · 철도 연결",
+      "title": "복각 이벤트 · 10/27 ~ 11/10 · 3 일 남음 · 철도 연결",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -350,7 +350,7 @@
     },
     {
       "date": "2026-11-11",
-      "title": "11/11 (수) 5일 후",
+      "title": "11/11 (수) 4일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -362,7 +362,7 @@
     },
     {
       "date": "2026-11-13",
-      "title": "11/13 (금) 7일 후",
+      "title": "11/13 (금) 6일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -422,7 +422,7 @@
     },
     {
       "date": "2026-11-20",
-      "title": "11/20 (금) 14일 후",
+      "title": "11/20 (금) 13일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -452,7 +452,7 @@
     },
     {
       "date": "2026-11-23",
-      "title": "11/23 (월) 17일 후",
+      "title": "11/23 (월) 16일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -506,7 +506,7 @@
     },
     {
       "date": "2026-11-27",
-      "title": "11/27 (금) 21일 후",
+      "title": "11/27 (금) 20일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -554,7 +554,7 @@
     },
     {
       "date": "2026-12-01",
-      "title": "12/01 (화) 25일 후",
+      "title": "12/01 (화) 24일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -632,7 +632,7 @@
     },
     {
       "date": "2026-12-09",
-      "title": "12/09 (수) 33일 후",
+      "title": "12/09 (수) 32일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -650,7 +650,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "12/15 (화) 39일 후",
+      "title": "12/15 (화) 38일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -674,7 +674,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 46일 후",
+      "title": "12/22 (화) 45일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -716,7 +716,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 53일 후",
+      "title": "12/29 (화) 52일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -849,6 +849,12 @@
       "dates": [
         "2026-11-04"
       ]
+    },
+    {
+      "title": "고즈 페스티벌 뭔데 줄 ㅈㄴ서있냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19728230&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -861,7 +867,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-06T21:36:54+00:00",
+  "updatedAt": "2026-11-07T01:12:54+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
