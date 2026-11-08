@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 3
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -875,14 +875,8 @@
       ]
     },
     {
-      "title": "페스선택권으러 임리스 데려갈수있나요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19762209&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 선택권 언제 주는거임??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19762188&page=1",
+      "title": "??뭐지.. 웹스토어에서 블아 받으면 한섭 아닌건가요 ?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19762678&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -897,7 +891,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-08T20:17:17+00:00",
+  "updatedAt": "2026-11-08T23:48:48+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
