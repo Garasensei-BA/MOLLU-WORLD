@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 3
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -875,8 +875,14 @@
       ]
     },
     {
-      "title": "우리도 200뽑 만마전 페스 말고 나중에 주면 안됨?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19760799&page=1",
+      "title": "페스선택권으러 임리스 데려갈수있나요",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19762209&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스 선택권 언제 주는거임??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19762188&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -891,7 +897,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-08T15:51:28+00:00",
+  "updatedAt": "2026-11-08T20:17:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
