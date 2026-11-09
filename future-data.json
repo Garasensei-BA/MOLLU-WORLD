@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 141
+      "count": 148
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 3
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -169,7 +169,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-02-05",
+      "date": "2026-02-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -207,6 +207,30 @@
     {
       "date": "2026-02-10",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "02/16 (화) 99일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-16",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-02-22",
+      "title": "총력전 · 02/16 ~ 02/22",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -277,6 +301,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-06-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-14",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -314,7 +344,7 @@
     },
     {
       "date": "2026-11-09",
-      "title": "대결전 · 11/03 ~ 11/09 · 14 시간 남음",
+      "title": "대결전 · 11/03 ~ 11/09 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -326,13 +356,13 @@
     },
     {
       "date": "2026-11-09",
-      "title": "제약해제결전 · 10/14 ~ 11/09 · 14 시간 남음",
+      "title": "제약해제결전 · 10/14 ~ 11/09 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-09",
-      "title": "캠페인 · 11/02 ~ 11/09 · 14 시간 남음",
+      "title": "캠페인 · 11/02 ~ 11/09 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -440,6 +470,12 @@
     },
     {
       "date": "2026-11-17",
+      "title": "미니 스토리 · 11/17 공개 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-17",
       "title": "페스 모집",
       "url": "https://mollulog.net/events/5-5th-fes",
       "source": "몰루로그"
@@ -512,7 +548,7 @@
     },
     {
       "date": "2026-11-24",
-      "title": "이벤트 · 11/10 ~ 11/24 · 확정 · 100회 무료 이월 불가 : 100회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
+      "title": "이벤트 · 11/10 ~ 11/24 · 확정 · 200 회 무료 이월 불가 : 200회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -639,12 +675,6 @@
     {
       "date": "2026-12-08",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-12-08",
-      "title": "미니 스토리 · 12/08 공개",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -847,6 +877,18 @@
       "source": "몰루로그"
     },
     {
+      "date": "2027-02-16",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-02-22",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2027-02-23",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -881,8 +923,14 @@
       ]
     },
     {
-      "title": "난 페스캐 이상태인데 이런사람 많지 않을라나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19764977&page=1",
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뉴비 페스캐 뭐 고름?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19769367&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -897,7 +945,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-09T05:25:39+00:00",
+  "updatedAt": "2026-11-09T14:18:56+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
