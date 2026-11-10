@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 135
+      "count": 143
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 8
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -253,8 +253,38 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-02",
+      "title": "03/02 (화) 112일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "모집 기간 · 02/23 ~ 03/02",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
+      "title": "이벤트 상설화 · 03/02부터",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "대결전 · 03/02 ~ 03/08",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -325,6 +355,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-11-10",
+      "title": "한국어 더빙 · 11/10 추가",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-11-11",
       "title": "11/11 (수) 1일 후",
       "url": "https://mollulog.net/futures",
@@ -332,6 +368,12 @@
     },
     {
       "date": "2026-11-11",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-12",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -380,14 +422,14 @@
     },
     {
       "date": "2026-11-17",
-      "title": "모집 기간 · 11/10 ~ 11/17",
+      "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-17",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
+      "title": "무료 모집 횟수와 특별 스택에 대해 확인해 보세요 안내 보기",
+      "url": "https://mollulog.net/events/pandemonium-cruise#recruit-stack-guide",
       "source": "몰루로그"
     },
     {
@@ -817,6 +859,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2027-03-02",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2027-03-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -831,6 +879,14 @@
   ],
   "evidence": [
     {
+      "title": "블루 아카이브 미래시 정보 [11/10]",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "title": "페스 『출항! 만마선 마코토 의장님의 화려한 피서』 이벤트 종합 가이드",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774325&page=1",
       "source": "블루 아카이브 갤러리",
@@ -843,40 +899,14 @@
       "dates": []
     },
     {
-      "title": "블루 아카이브 미래시 정보 [11/10]",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-11-10"
-      ]
-    },
-    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "최근에 일섭에 나온 3확권이 머였지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781611&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "토키 갖고싶어서 특별모집 살까 했는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781610&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "근데 엘선권은 매 픽업마다 나오는거임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781597&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "스포) 일섭 스포를 봐서 그런지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781593&page=1",
+      "title": "근데 이번 이벤트 엘레프파밍 노말에서 함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19784742&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -891,7 +921,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-10T13:18:45+00:00",
+  "updatedAt": "2026-11-10T20:30:11+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
