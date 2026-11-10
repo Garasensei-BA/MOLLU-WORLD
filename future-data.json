@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -831,12 +831,10 @@
   ],
   "evidence": [
     {
-      "title": "블루 아카이브 미래시 정보 [11/10]",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "title": "페스 『출항! 만마선 마코토 의장님의 화려한 피서』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774325&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-11-10"
-      ]
+      "dates": []
     },
     {
       "title": "현재 진행중 / 진행 예정 이벤트 모음글",
@@ -845,26 +843,40 @@
       "dates": []
     },
     {
+      "title": "블루 아카이브 미래시 정보 [11/10]",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": [
+        "2026-11-10"
+      ]
+    },
+    {
       "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페스캐 하나만 쌀먹할걸 아",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774534&page=1",
+      "title": "최근에 일섭에 나온 3확권이 머였지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781611&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "블루아카이브 역대 최고의 업데이트 중 하나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774526&page=1",
+      "title": "토키 갖고싶어서 특별모집 살까 했는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781610&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "업데이트 몇기가일까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774507&page=1",
+      "title": "근데 엘선권은 매 픽업마다 나오는거임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781597&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "스포) 일섭 스포를 봐서 그런지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19781593&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -879,7 +891,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-10T04:47:09+00:00",
+  "updatedAt": "2026-11-10T13:18:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
