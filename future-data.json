@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 141
+      "count": 143
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -313,6 +313,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-28",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-04-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -320,6 +326,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-06-06",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -899,14 +911,14 @@
       "dates": []
     },
     {
-      "title": "일섭 안봐서 모른다만 뇌제는 총통 페러디 아녔음함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19792368&page=1",
+      "title": "스포) 념글 부분 일섭판",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19793826&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페스 쿠로코나 바카린도 있슴?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19792346&page=1",
+      "title": "근데 진짜 이벤트 이모티콘은 왜 전부 기간제지",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19793796&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -921,7 +933,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-11T15:37:06+00:00",
+  "updatedAt": "2026-11-11T22:15:50+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
