@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 141
+      "count": 142
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -320,6 +320,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -893,8 +899,26 @@
       "dates": []
     },
     {
-      "title": "뉴비인데 아카이브모집은 픽업뭐로할까용?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19799939&page=1",
+      "title": "일섭은 아직 이관보상을 못받았다고?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803045&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "근데 옛날에 페스 지나고 무료뽑 주는거 너무했음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803044&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뉴비때 이벤트 애니pv 보고 본편도 있는줄 알았어",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803024&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "이상하게 일섭은 백귀야행에서 유카리를 밀어줌",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803019&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -909,7 +933,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-12T11:29:29+00:00",
+  "updatedAt": "2026-11-12T19:07:03+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
