@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 142
+      "count": 140
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -325,12 +325,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-09-09",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-10-28",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -374,12 +368,6 @@
     },
     {
       "date": "2026-11-13",
-      "title": "계정 경험치 보상량 2배",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-13",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -392,7 +380,7 @@
     },
     {
       "date": "2026-11-15",
-      "title": "캠페인 · 11/13 ~ 11/15 · 확정",
+      "title": "캠페인 · 11/13 ~ 11/15 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -899,14 +887,14 @@
       "dates": []
     },
     {
-      "title": "페스마다 초반에 3성 뒤지게 안떠서 너무 불안함",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19810931&page=1",
+      "title": "주년이벤트 할때마다 접속할때 짜치는점",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19812188&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "남은 60연에서 픽업 안뜨길 빌어야하네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19810910&page=1",
+      "title": "한섭은 레후레즈 나올때 3선권 또 팔아줄까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19812157&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -921,7 +909,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-13T15:30:19+00:00",
+  "updatedAt": "2026-11-13T21:36:37+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
