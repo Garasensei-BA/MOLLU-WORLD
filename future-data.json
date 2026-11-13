@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -325,7 +325,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-09-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -899,8 +899,14 @@
       "dates": []
     },
     {
-      "title": "특별 픽업 모집 예고 - 이부키(수영복)",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19806665&page=1",
+      "title": "페스마다 초반에 3성 뒤지게 안떠서 너무 불안함",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19810931&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "남은 60연에서 픽업 안뜨길 빌어야하네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19810910&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -915,7 +921,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-13T07:16:39+00:00",
+  "updatedAt": "2026-11-13T15:30:19+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
