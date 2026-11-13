@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 141
+      "count": 142
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -320,6 +320,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-03",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -893,14 +899,8 @@
       "dates": []
     },
     {
-      "title": "페스맞냐?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803892&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 페스 통언뜬으로 먹어야할거",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19803879&page=1",
+      "title": "특별 픽업 모집 예고 - 이부키(수영복)",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19806665&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -915,7 +915,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-13T00:33:46+00:00",
+  "updatedAt": "2026-11-13T07:16:39+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
