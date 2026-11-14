@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -887,8 +887,14 @@
       "dates": []
     },
     {
-      "title": "블아 한섭 원래 15세였나 12세였나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19819834&page=1",
+      "title": "생각해보니까 저번 페스가챠 360연까지 돌렸었구나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19821287&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "저번 페스는 진짜 절망적이었는데",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19821280&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -903,7 +909,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-14T15:39:00+00:00",
+  "updatedAt": "2026-11-14T20:05:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
