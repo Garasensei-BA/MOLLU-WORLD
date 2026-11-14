@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,7 +50,7 @@
     },
     {
       "date": "2026-01-06",
-      "title": "01/06 (수) 54일 후",
+      "title": "01/06 (수) 53일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -62,7 +62,7 @@
     },
     {
       "date": "2026-01-12",
-      "title": "01/12 (화) 60일 후",
+      "title": "01/12 (화) 59일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -116,7 +116,7 @@
     },
     {
       "date": "2026-01-26",
-      "title": "01/26 (화) 74일 후",
+      "title": "01/26 (화) 73일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 81일 후",
+      "title": "02/02 (화) 80일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-02-10",
-      "title": "02/10 (수) 89일 후",
+      "title": "02/10 (수) 88일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-02-16",
-      "title": "02/16 (화) 95일 후",
+      "title": "02/16 (화) 94일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-03-02",
-      "title": "03/02 (화) 109일 후",
+      "title": "03/02 (화) 108일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -380,7 +380,7 @@
     },
     {
       "date": "2026-11-15",
-      "title": "캠페인 · 11/13 ~ 11/15 · 2 일 남음",
+      "title": "캠페인 · 11/13 ~ 11/15 · 내일 종료",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -398,7 +398,7 @@
     },
     {
       "date": "2026-11-16",
-      "title": "캠페인 · 11/09 ~ 11/16 · 3 일 남음",
+      "title": "캠페인 · 11/09 ~ 11/16 · 2 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -428,7 +428,7 @@
     },
     {
       "date": "2026-11-20",
-      "title": "11/20 (금) 7일 후",
+      "title": "11/20 (금) 6일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -458,12 +458,6 @@
     },
     {
       "date": "2026-11-23",
-      "title": "11/23 (월) 10일 후",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-23",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -487,6 +481,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-11-23",
+      "title": "현상수배/스케줄 보상량 3배",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-11-24",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -494,7 +494,7 @@
     },
     {
       "date": "2026-11-24",
-      "title": "이벤트 · 11/10 ~ 11/24 · 11 일 남음 · 200 회 무료 이월 불가 : 200회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
+      "title": "이벤트 · 11/10 ~ 11/24 · 10 일 남음 · 200 회 무료 이월 불가 : 200회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -512,7 +512,7 @@
     },
     {
       "date": "2026-11-27",
-      "title": "11/27 (금) 14일 후",
+      "title": "11/27 (금) 13일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -560,7 +560,7 @@
     },
     {
       "date": "2026-12-01",
-      "title": "12/01 (화) 18일 후",
+      "title": "12/01 (화) 17일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -596,7 +596,7 @@
     },
     {
       "date": "2026-12-07",
-      "title": "제약해제결전 · 11/11 ~ 12/07 · 24 일 남음",
+      "title": "제약해제결전 · 11/11 ~ 12/07 · 23 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -632,7 +632,7 @@
     },
     {
       "date": "2026-12-09",
-      "title": "12/09 (수) 26일 후",
+      "title": "12/09 (수) 25일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -650,7 +650,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "12/15 (화) 32일 후",
+      "title": "12/15 (화) 31일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -674,7 +674,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 39일 후",
+      "title": "12/22 (화) 38일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -716,7 +716,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 46일 후",
+      "title": "12/29 (화) 45일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -885,18 +885,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "주년이벤트 할때마다 접속할때 짜치는점",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19812188&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "한섭은 레후레즈 나올때 3선권 또 팔아줄까",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19812157&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -909,7 +897,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-13T21:36:37+00:00",
+  "updatedAt": "2026-11-14T01:46:38+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
