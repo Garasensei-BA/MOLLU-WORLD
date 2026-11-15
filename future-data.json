@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 140
+      "count": 141
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -277,6 +277,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-03-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -380,7 +386,7 @@
     },
     {
       "date": "2026-11-15",
-      "title": "캠페인 · 11/13 ~ 11/15 · 13 시간 남음",
+      "title": "캠페인 · 11/13 ~ 11/15 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -887,32 +893,14 @@
       "dates": []
     },
     {
-      "title": "페스 언제임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19824494&page=1",
+      "title": "다음 총력전 뭔지 아는사람",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19827952&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페스기간 페이백 때문에 쿠폰 버리는거 아깝당..",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19824489&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "이번 페스 할게 없어서 현타인데.. 최고의 컨텐츠 찾음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19824487&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "199연까지 픽업캐를 먹지 못할 확률 약 8분의 1",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19824484&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "스포) 한섭 더빙때문에 다시 최종장보는데",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19824474&page=1",
+      "title": "김혜윤 총수감성 업데이트",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=478868",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -927,7 +915,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-15T06:11:46+00:00",
+  "updatedAt": "2026-11-15T14:05:41+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
