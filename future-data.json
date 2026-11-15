@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 141
+      "count": 138
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 6
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -169,6 +169,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-02-04",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-02-08",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -277,12 +283,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-03-04",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-03-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -369,24 +369,6 @@
     {
       "date": "2026-11-12",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-13",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-15",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-15",
-      "title": "캠페인 · 11/13 ~ 11/15 · 5 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -887,14 +869,20 @@
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "title": "픽업 질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19830196&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "다음 총력전 뭔지 아는사람",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19827952&page=1",
+      "title": "이젠 쌍픽업 둘다 데려가는게 좀 미묘한듯",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19830185&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "지금 수코토 거르고 페스 기모은다는게 성능이 구려서임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19830167&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
@@ -915,7 +903,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-15T14:05:41+00:00",
+  "updatedAt": "2026-11-15T19:50:30+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
