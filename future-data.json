@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 137
+      "count": 134
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -331,12 +331,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-11-09",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-11-10",
       "title": "메인 스토리 · 11/10 공개",
       "url": "https://mollulog.net/futures",
@@ -369,18 +363,6 @@
     {
       "date": "2026-11-16",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "임무(Normal) 보상량 3배",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-16",
-      "title": "캠페인 · 11/09 ~ 11/16 · 6 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -422,7 +404,7 @@
     },
     {
       "date": "2026-11-20",
-      "title": "캠페인 · 11/16 ~ 11/20 · 확정",
+      "title": "캠페인 · 11/16 ~ 11/20 · 4 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -452,7 +434,7 @@
     },
     {
       "date": "2026-11-23",
-      "title": "캠페인 · 11/16 ~ 11/23 · 확정",
+      "title": "캠페인 · 11/16 ~ 11/23 · 7 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -863,8 +845,8 @@
       "dates": []
     },
     {
-      "title": "내일 페스 비틱할 생각하니까 설레노ㅋㅋㅋㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19836672&page=1",
+      "title": "오늘부터 페스 시작 아님?????",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19839121&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -879,7 +861,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-16T13:58:45+00:00",
+  "updatedAt": "2026-11-16T23:18:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
