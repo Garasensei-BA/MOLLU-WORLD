@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 134
+      "count": 133
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 9
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -50,7 +50,7 @@
     },
     {
       "date": "2026-01-06",
-      "title": "01/06 (수) 51일 후",
+      "title": "01/06 (수) 50일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -62,7 +62,7 @@
     },
     {
       "date": "2026-01-12",
-      "title": "01/12 (화) 57일 후",
+      "title": "01/12 (화) 56일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -116,7 +116,7 @@
     },
     {
       "date": "2026-01-26",
-      "title": "01/26 (화) 71일 후",
+      "title": "01/26 (화) 70일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -140,7 +140,7 @@
     },
     {
       "date": "2026-02-02",
-      "title": "02/02 (화) 78일 후",
+      "title": "02/02 (화) 77일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -194,7 +194,7 @@
     },
     {
       "date": "2026-02-10",
-      "title": "02/10 (수) 86일 후",
+      "title": "02/10 (수) 85일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -206,7 +206,7 @@
     },
     {
       "date": "2026-02-16",
-      "title": "02/16 (화) 92일 후",
+      "title": "02/16 (화) 91일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -254,7 +254,7 @@
     },
     {
       "date": "2026-03-02",
-      "title": "03/02 (화) 106일 후",
+      "title": "03/02 (화) 105일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -332,19 +332,7 @@
     },
     {
       "date": "2026-11-10",
-      "title": "메인 스토리 · 11/10 공개",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-10",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-10",
-      "title": "한국어 더빙 · 11/10 추가",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -374,25 +362,31 @@
     },
     {
       "date": "2026-11-17",
-      "title": "무료 모집 횟수와 특별 스택에 대해 확인해 보세요 안내 보기",
-      "url": "https://mollulog.net/events/pandemonium-cruise#recruit-stack-guide",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-17",
-      "title": "미니 스토리 · 11/17 공개 · 확정",
+      "title": "미니 스토리 · 11/17 공개",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
-      "date": "2026-11-17",
-      "title": "페스 모집",
-      "url": "https://mollulog.net/events/5-5th-fes",
+      "date": "2026-11-18",
+      "title": "메인 이벤트",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-18",
+      "title": "학생·이벤트 썸네일을 가려요 라이트 모드",
+      "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-20",
-      "title": "11/20 (금) 4일 후",
+      "title": "11/20 (금) 3일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -404,7 +398,7 @@
     },
     {
       "date": "2026-11-20",
-      "title": "캠페인 · 11/16 ~ 11/20 · 4 일 남음",
+      "title": "캠페인 · 11/16 ~ 11/20 · 3 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -428,13 +422,13 @@
     },
     {
       "date": "2026-11-23",
-      "title": "총력전 · 11/17 ~ 11/23",
+      "title": "총력전 · 11/17 ~ 11/23 · 6 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-23",
-      "title": "캠페인 · 11/16 ~ 11/23 · 7 일 남음",
+      "title": "캠페인 · 11/16 ~ 11/23 · 6 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -458,7 +452,7 @@
     },
     {
       "date": "2026-11-24",
-      "title": "이벤트 · 11/10 ~ 11/24 · 8 일 남음 · 200 회 무료 이월 불가 : 200회 무료 모집은 픽업 기간 종료 시 소멸되며 이월되지 않아요. 기간 내 사용해주세요.",
+      "title": "이벤트 · 11/10 ~ 11/24 · 7 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -470,13 +464,13 @@
     },
     {
       "date": "2026-11-24",
-      "title": "픽업 모집 · 11/17 ~ 11/24 · 확정",
+      "title": "픽업 모집 · 11/17 ~ 11/24 · 7 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
     {
       "date": "2026-11-27",
-      "title": "11/27 (금) 11일 후",
+      "title": "11/27 (금) 10일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -524,7 +518,7 @@
     },
     {
       "date": "2026-12-01",
-      "title": "12/01 (화) 15일 후",
+      "title": "12/01 (화) 14일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -560,7 +554,7 @@
     },
     {
       "date": "2026-12-07",
-      "title": "제약해제결전 · 11/11 ~ 12/07 · 21 일 남음",
+      "title": "제약해제결전 · 11/11 ~ 12/07 · 20 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -596,7 +590,7 @@
     },
     {
       "date": "2026-12-09",
-      "title": "12/09 (수) 23일 후",
+      "title": "12/09 (수) 22일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -614,7 +608,7 @@
     },
     {
       "date": "2026-12-15",
-      "title": "12/15 (화) 29일 후",
+      "title": "12/15 (화) 28일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -638,7 +632,7 @@
     },
     {
       "date": "2026-12-22",
-      "title": "12/22 (화) 36일 후",
+      "title": "12/22 (화) 35일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -680,7 +674,7 @@
     },
     {
       "date": "2026-12-29",
-      "title": "12/29 (화) 43일 후",
+      "title": "12/29 (화) 42일 후",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -845,8 +839,38 @@
       "dates": []
     },
     {
-      "title": "오늘부터 페스 시작 아님?????",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19839121&page=1",
+      "title": "페스 고의 1천장 괜찮음?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844239&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "페스캐 못뽑은 거 이정도인데 더 뽑을까",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844235&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뉴비 페스 전무4찍을까요?..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844229&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "뉴비 페스 370뽑 했는데 더 들어가도 될까요?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844224&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "픽업을 많이 들어가긴 했나봐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844218&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "누비 이번에 페스뽑 뭐 뽑아야될거이씅ㅁ?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19844205&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -861,7 +885,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-16T23:18:59+00:00",
+  "updatedAt": "2026-11-17T05:07:46+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
