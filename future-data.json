@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 133
+      "count": 134
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 9
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -308,7 +308,7 @@
     },
     {
       "date": "2026-03-09",
-      "title": "복각 이벤트 · 02/23 ~ 03/09",
+      "title": "복각 이벤트 · 02/23 ~ 03/09 · 카드 뒤집기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -320,6 +320,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -839,38 +845,26 @@
       "dates": []
     },
     {
-      "title": "페스 캐릭들 전무 몇까지 해야하는지 조언좀",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850715&page=1",
+      "title": "맨땅 뉴비 돌 다 박아서 페스캐 다 뽑음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19852972&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "이벤트 재화로 가구사도되나요?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850710&page=1",
+      "title": "복귀했는데 페스 선택권 케이 vs 임시노 추천좀",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19852940&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "페스 다 먹은건 좋은데 뉴비라 키우는 재화가 너무 부족하내....",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850687&page=1",
+      "title": "3성 2배 이벤트라 무지성 모집 마렵네",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19852936&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "시로코 테러도 픽업캐임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850683&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "요새는 미래시 평가 글 안 올라오나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850682&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "리오랑 교네루 예전픽업임?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19850676&page=1",
+      "title": "韓총리 \"수능 시험장 스마트기기 원천 차단…안경·시계 전수점검\"",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479656",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -885,7 +879,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-17T14:39:07+00:00",
+  "updatedAt": "2026-11-17T22:39:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
