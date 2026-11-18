@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 134
+      "count": 133
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -320,12 +320,6 @@
     },
     {
       "date": "2026-05-05",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-09-09",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -845,26 +839,14 @@
       "dates": []
     },
     {
-      "title": "1118일차 뉴비 페스선택권 뭐 고르지",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19854694&page=1",
+      "title": "복귀유저는 이벤트 수아키파밍 vs 3배 노말장비파밍 뭐함??",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19858775&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "예로 대결전 재미없겟다....",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19854683&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "페스 4명 다 없는데 누구로 돌리면 돼?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19854677&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "덴티스테 X 포맨트 X 박지훈 콜라보 이벤트",
-      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=906360",
+      "title": "뉴비 페스 뽑기 질문입니다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19858754&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -879,7 +861,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-18T03:53:04+00:00",
+  "updatedAt": "2026-11-18T12:46:57+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
