@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 133
+      "count": 136
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -272,6 +272,12 @@
     },
     {
       "date": "2026-03-02",
+      "title": "미니 스토리 · 03/02 공개",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-02",
       "title": "이벤트 상설화 · 03/02부터",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -325,6 +331,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-06-28",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-10-28",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -363,24 +375,6 @@
     {
       "date": "2026-11-17",
       "title": "미니 스토리 · 11/17 공개",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "메인 이벤트",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-18",
-      "title": "학생·이벤트 썸네일을 가려요 라이트 모드",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -530,6 +524,12 @@
     },
     {
       "date": "2026-12-04",
+      "title": "12/04 (금) 16일 후",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -537,6 +537,18 @@
     {
       "date": "2026-12-04",
       "title": "캠페인 · 11/30 ~ 12/04 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-06",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-06",
+      "title": "캠페인 · 12/04 ~ 12/06 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -561,6 +573,12 @@
     {
       "date": "2026-12-07",
       "title": "캠페인 · 11/30 ~ 12/07 · 확정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-12-07",
+      "title": "캠페인 · 12/04 ~ 12/07 · 확정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -839,14 +857,26 @@
       "dates": []
     },
     {
-      "title": "복귀유저는 이벤트 수아키파밍 vs 3배 노말장비파밍 뭐함??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19858775&page=1",
+      "title": "택틱은 실패했지만 블생 총력전 최고점수 띄워봤다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19861471&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "뉴비 페스 뽑기 질문입니다",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19858754&page=1",
+      "title": "픽업 질?문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19861462&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "카페 페스캐 가구 중첩 누굴 추천함?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19861453&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "중국 한한령 해제, K기업 중국 내 매장운영 및 여행객 모집 가능",
+      "url": "https://gall.dcinside.com/board/view/?id=dcbest&no=479889",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -861,7 +891,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-18T12:46:57+00:00",
+  "updatedAt": "2026-11-18T21:11:20+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
