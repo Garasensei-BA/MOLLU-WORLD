@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 135
+      "count": 136
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 3
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -326,6 +326,12 @@
     },
     {
       "date": "2026-05-05",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-08-07",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -849,6 +855,24 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774325&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "이거 특별미션 이벤트 AP",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19870190&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "더블 글자콘 업데이트는 뭐냐",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19870163&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "4일차 웹이벤트 정답",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19870152&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -861,7 +885,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-19T10:45:36+00:00",
+  "updatedAt": "2026-11-19T19:24:21+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
