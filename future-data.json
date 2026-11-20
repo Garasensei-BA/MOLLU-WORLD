@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 3
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -386,7 +386,7 @@
     },
     {
       "date": "2026-11-20",
-      "title": "캠페인 · 11/16 ~ 11/20 · 10 시간 남음",
+      "title": "캠페인 · 11/16 ~ 11/20 · 2 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -845,20 +845,8 @@
       ]
     },
     {
-      "title": "신규 이벤트 [춤추는 예술 ~상아의 탑과 초대받지 못한 손님] 개최 예고",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19873937&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일배들 와헌으로 축제 열 때 한섭은 팬데믹 복각인가",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19873922&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "아키라 유키노 더블페스 각 나오나",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19873898&page=1",
+      "title": "레이사는 언제 복각하려나",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19877975&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -873,7 +861,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-20T09:09:46+00:00",
+  "updatedAt": "2026-11-20T17:53:45+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
