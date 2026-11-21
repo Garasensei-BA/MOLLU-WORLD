@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 4
+      "count": 7
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -833,14 +833,32 @@
       ]
     },
     {
-      "title": "안녕하세요 페스 선택권 사용 도와주세요",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19881162&page=1",
+      "title": "페스 『출항! 만마선 마코토 의장님의 화려한 피서』 이벤트 종합 가이드",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774325&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "일섭 페스 1월말이네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19881158&page=1",
+      "title": "왜 픽업에서 무장호시노가떠",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884685&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "궁금한게 있는데 지금 페스 배너에서 다른 페스캐도 뜸?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884656&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "매지컬 복각 왜 안하지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884645&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "그 페스행사때 뽑는 영수증말이야",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884642&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -855,7 +873,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-21T06:16:15+00:00",
+  "updatedAt": "2026-11-21T14:47:18+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
