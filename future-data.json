@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 133
+      "count": 137
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 7
+      "count": 6
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -315,6 +315,24 @@
     {
       "date": "2026-03-09",
       "title": "복각 이벤트 · 02/23 ~ 03/09 · 카드 뒤집기",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-09",
+      "title": "휘둘리는 예술 ~상아의 탑과 초대받지 않은 손님~",
+      "url": "https://mollulog.net/events/art-on-strings",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-03-23",
+      "title": "이벤트 · 03/09 ~ 03/23",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -812,6 +830,12 @@
     },
     {
       "date": "2027-03-09",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2027-03-23",
       "title": "메인 이벤트",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -839,26 +863,20 @@
       "dates": []
     },
     {
-      "title": "왜 픽업에서 무장호시노가떠",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884685&page=1",
+      "title": "일섭 고즈 대결전은 점수들 진짜 이상하네..",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19886382&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "궁금한게 있는데 지금 페스 배너에서 다른 페스캐도 뜸?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884656&page=1",
+      "title": "제발제발 한섭 개쌉물로켓 서버 기원",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19886363&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "매지컬 복각 왜 안하지?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884645&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "그 페스행사때 뽑는 영수증말이야",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19884642&page=1",
+      "title": "이벤트 너무 달다아아아앗!!!!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19886356&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -873,7 +891,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-21T14:47:18+00:00",
+  "updatedAt": "2026-11-21T20:48:55+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
