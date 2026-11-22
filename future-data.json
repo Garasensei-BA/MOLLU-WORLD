@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 137
+      "count": 138
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -343,6 +343,12 @@
       "source": "몰루로그"
     },
     {
+      "date": "2026-04-08",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
       "date": "2026-05-05",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -404,7 +410,7 @@
     },
     {
       "date": "2026-11-22",
-      "title": "캠페인 · 11/20 ~ 11/22 · 18 시간 남음",
+      "title": "캠페인 · 11/20 ~ 11/22 · 11 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -863,8 +869,8 @@
       "dates": []
     },
     {
-      "title": "이벤트 11지 덕분에 크레딧 11억 넘김 엌ㅋ",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19886958&page=1",
+      "title": "다음년에도 미래시 줄여줬으면 좋겠다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19890195&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -879,7 +885,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-22T01:01:49+00:00",
+  "updatedAt": "2026-11-22T08:09:50+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
