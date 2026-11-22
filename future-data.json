@@ -4,7 +4,7 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 137
+      "count": 135
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
@@ -393,18 +393,6 @@
     {
       "date": "2026-11-20",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-22",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-22",
-      "title": "캠페인 · 11/20 ~ 11/22 · 3 시간 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -863,14 +851,14 @@
       "dates": []
     },
     {
-      "title": "페스 선택권 뭐 받아?",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19894331&page=1",
+      "title": "모든 칠수인들을 페스로 낼 수는 없겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19895357&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "오랜만에 총력전 준비해서 치니까 재밌더라",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19894328&page=1",
+      "title": "저 모집 마일리지는 따로 못바꿔먹는거지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19895339&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -885,7 +873,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-22T16:25:18+00:00",
+  "updatedAt": "2026-11-22T22:00:17+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
