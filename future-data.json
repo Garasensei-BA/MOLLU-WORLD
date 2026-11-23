@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 137
+      "count": 131
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 3
+      "count": 5
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -379,12 +379,6 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-11-16",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-11-17",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
@@ -397,38 +391,8 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-11-20",
-      "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
       "date": "2026-11-23",
       "title": "몰루로그 미래시 일정",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "총력전 · 11/17 ~ 11/23 · 8 시간 남음",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "캠페인 · 11/16 ~ 11/23 · 8 시간 남음",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "캠페인 · 11/20 ~ 11/23 · 8 시간 남음",
-      "url": "https://mollulog.net/futures",
-      "source": "몰루로그"
-    },
-    {
-      "date": "2026-11-23",
-      "title": "현상수배/스케줄 보상량 3배",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -500,7 +464,7 @@
     },
     {
       "date": "2026-11-30",
-      "title": "캠페인 · 11/23 ~ 11/30 · 확정",
+      "title": "캠페인 · 11/23 ~ 11/30 · 7 일 남음",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -861,6 +825,18 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19774325&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
+    },
+    {
+      "title": "근데 나 이벤트기간동안 치아키만 캤는데 아직 5별 못찍음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19906025&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "진짜 이번 총력전 정신 나갔네 ㅋㅋㅋㅋㅋㅋㅋ",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19906015&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -873,7 +849,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-23T11:59:11+00:00",
+  "updatedAt": "2026-11-23T23:46:06+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
