@@ -337,7 +337,7 @@
       "source": "몰루로그"
     },
     {
-      "date": "2026-04-04",
+      "date": "2026-06-04",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -759,6 +759,12 @@
   ],
   "evidence": [
     {
+      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "복각 『팬데믹 해저드 ~기적의 팬케이크~』 이벤트 종합 가이드",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19902171&page=1",
       "source": "블루 아카이브 갤러리",
@@ -771,14 +777,8 @@
       "dates": []
     },
     {
-      "title": "개최중 이벤트, 총력·대결·제결전, 종전시 정보글 모음",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16152255&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
-    },
-    {
-      "title": "일섭) 우라라 스킬 소개",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19909945&page=1",
+      "title": "블붕 처음으로 이벤트 미션 올클리어 성공했다",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19914553&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     }
@@ -793,7 +793,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-24T09:04:28+00:00",
+  "updatedAt": "2026-11-24T20:13:44+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
