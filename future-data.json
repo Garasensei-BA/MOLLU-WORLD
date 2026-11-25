@@ -4,12 +4,12 @@
     "mollulog": {
       "name": "몰루로그",
       "url": "https://mollulog.net/futures",
-      "count": 122
+      "count": 123
     },
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 8
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -320,7 +320,7 @@
     },
     {
       "date": "2026-03-09",
-      "title": "휘둘리는 예술 ~상아의 탑과 초대받지 않은 손님~",
+      "title": "춤추는 예술 ~상아탑과 불청객~",
       "url": "https://mollulog.net/events/art-on-strings",
       "source": "몰루로그"
     },
@@ -332,7 +332,7 @@
     },
     {
       "date": "2026-03-23",
-      "title": "이벤트 · 03/09 ~ 03/23",
+      "title": "이벤트 · 03/09 ~ 03/23 · 보물찾기",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
     },
@@ -374,6 +374,12 @@
     },
     {
       "date": "2026-11-27",
+      "title": "몰루로그 미래시 일정",
+      "url": "https://mollulog.net/futures",
+      "source": "몰루로그"
+    },
+    {
+      "date": "2026-11-28",
       "title": "몰루로그 미래시 일정",
       "url": "https://mollulog.net/futures",
       "source": "몰루로그"
@@ -753,6 +759,12 @@
   ],
   "evidence": [
     {
+      "title": "현재 진행중 / 진행 예정 이벤트 모음글",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=12033833&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
       "title": "블루 아카이브 미래시 정보 [11/10]",
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=16393499&page=1",
       "source": "블루 아카이브 갤러리",
@@ -773,18 +785,28 @@
       "dates": []
     },
     {
-      "title": "아사나기가 마나미 픽업 폭사하면 어떻게됨...??",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19916201&page=1",
+      "title": "페스 선택권 질문",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19920946&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
     },
     {
-      "title": "11/25 47회 청룡영화상 중계 일정",
-      "url": "https://gall.dcinside.com/board/view/?id=winkgall&no=906493",
+      "title": "선생님들 혹시 미래시 간격은 계속 줄이는 추세임?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19920938&page=1",
       "source": "블루 아카이브 갤러리",
-      "dates": [
-        "2026-11-25"
-      ]
+      "dates": []
+    },
+    {
+      "title": "와헌회장도 나왔는데 다음 한정이나 페스는 아키라랑 히로미겠지?",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19920932&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
+    },
+    {
+      "title": "와까모에겐 아직 예소드 대결전이 남아있다고!",
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19920922&page=1",
+      "source": "블루 아카이브 갤러리",
+      "dates": []
     }
   ],
   "source_counts": {
@@ -797,7 +819,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-25T03:34:56+00:00",
+  "updatedAt": "2026-11-25T13:29:01+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
