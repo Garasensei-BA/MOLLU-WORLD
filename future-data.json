@@ -9,7 +9,7 @@
     "bluearchive_gallery": {
       "name": "블루 아카이브 갤러리",
       "url": "https://gall.dcinside.com/mgallery/board/lists/?id=projectmx",
-      "count": 5
+      "count": 4
     },
     "nexon_forum": {
       "name": "블루 아카이브 공식 포럼",
@@ -783,12 +783,6 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19902171&page=1",
       "source": "블루 아카이브 갤러리",
       "dates": []
-    },
-    {
-      "title": "이젠 거의 픽업마다 1천장은 필수인 느낌이네",
-      "url": "https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=19925306&page=1",
-      "source": "블루 아카이브 갤러리",
-      "dates": []
     }
   ],
   "source_counts": {
@@ -801,7 +795,7 @@
     "latest_date": "2026-12-29",
     "updated_at": "2026-08-26T11:31:59+00:00"
   },
-  "updatedAt": "2026-11-26T04:45:17+00:00",
+  "updatedAt": "2026-11-26T14:48:59+00:00",
   "server": "KR",
   "defaultRangeMonths": 12,
   "supportedRangeMonths": [
